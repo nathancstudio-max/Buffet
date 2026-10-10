@@ -1,0 +1,94 @@
+{
+  "legumes": [
+    {
+      "nom": "Carotte",
+      "type": "Racine",
+      "saisons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "gout": "Sucré, croquant",
+      "description": "Racine orange riche en bêta-carotène, délicieuse crue ou cuite.",
+      "conservation": "Une à deux semaines au bac à légumes, sans les fanes.",
+      "idees": "Râpée en salade, pressée en jus, rôtie au four.",
+      "image": ""
+    },
+    {
+      "nom": "Courge butternut",
+      "type": "Courge",
+      "saisons": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "gout": "Doux, noisette",
+      "description": "Courge à chair fondante, très facile à cuisiner.",
+      "conservation": "Plusieurs mois entière, dans un endroit frais et sec.",
+      "idees": "Velouté, rôtie, en purée ou en tarte salée.",
+      "image": ""
+    },
+    {
+      "nom": "Betterave",
+      "type": "Racine",
+      "saisons": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "gout": "Terreux, sucré",
+      "description": "Racine d'un rouge profond, vendue crue ou déjà cuite.",
+      "conservation": "Deux semaines au frais ; cuite, 4 à 5 jours.",
+      "idees": "En carpaccio, en houmous, en salade avec du chèvre.",
+      "image": ""
+    },
+    {
+      "nom": "Épinard",
+      "type": "Feuille",
+      "saisons": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "gout": "Végétal, légèrement acidulé",
+      "description": "Feuilles tendres, à manger jeunes en salade ou cuites.",
+      "conservation": "Deux à trois jours au réfrigérateur.",
+      "idees": "En jeunes pousses, sautés à l'ail, dans un jus vert.",
+      "image": ""
+    },
+    {
+      "nom": "Tomate",
+      "type": "Légume-fruit",
+      "saisons": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "gout": "Juteux, acidulé",
+      "description": "À savourer en plein été, bien mûre.",
+      "conservation": "À température ambiante, loin du frigo.",
+      "idees": "En salade, en gaspacho, farcie.",
+      "image": ""
+    }
+  ]
+}

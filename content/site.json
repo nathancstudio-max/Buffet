@@ -1,0 +1,10 @@
+{
+  "nom": "Nom du buffet",
+  "intro": "Bienvenue sur mon buffet pensé pour vous !",
+  "categories": [
+    "Jus de fruits",
+    "Salades",
+    "Bouchées",
+    "Prêts à croquer"
+  ]
+}

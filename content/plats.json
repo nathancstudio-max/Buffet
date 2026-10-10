@@ -1,0 +1,59 @@
+{
+  "plats": [
+    {
+      "nom": "Le Gabin",
+      "categorie": "Jus de fruits",
+      "etiquette": "Vitalité",
+      "ingredients": "Oranges, carottes, pommes, citrons, gingembre",
+      "pastilles": [
+        "250 ml",
+        "45 kcal pour 100 ml"
+      ],
+      "description": "Une composition vive, fraîche et solaire, pensée pour réveiller les papilles dès la première gorgée. Le Gabin associe la douceur fruitée de l'orange et de la pomme au caractère légèrement épicé du gingembre, relevé par la fraîcheur acidulée du citron et la douceur naturelle de la carotte.",
+      "legumes": [
+        "Carotte"
+      ],
+      "image": "/images/le-gabin.jpg"
+    },
+    {
+      "nom": "Le Ferdinand",
+      "categorie": "Jus de fruits",
+      "etiquette": "Énergie",
+      "ingredients": "À compléter",
+      "description": "",
+      "legumes": [],
+      "image": "",
+      "pastilles": []
+    },
+    {
+      "nom": "L'Augustin",
+      "categorie": "Jus de fruits",
+      "etiquette": "Équilibre",
+      "ingredients": "À compléter",
+      "description": "",
+      "legumes": [],
+      "image": "",
+      "pastilles": []
+    },
+    {
+      "nom": "La Marguerite",
+      "categorie": "Salades",
+      "etiquette": "",
+      "ingredients": "À compléter",
+      "description": "",
+      "legumes": [],
+      "image": "",
+      "pastilles": []
+    },
+    {
+      "nom": "L'Antoinette",
+      "categorie": "Salades",
+      "etiquette": "",
+      "ingredients": "À compléter",
+      "description": "",
+      "legumes": [],
+      "image": "",
+      "pastilles": []
+    }
+  ]
+}
