@@ -2,7 +2,7 @@ backend:
   name: github
   repo: nathancstudio-max/Buffet
   branch: main
-  base_url: https://buffet.pages.dev   # À REMPLACER par l'adresse exacte de votre site Cloudflare
+  base_url: https://buffet-olympique.pages.dev
   auth_endpoint: api/auth
 
 locale: fr
