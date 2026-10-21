@@ -1,0 +1,60 @@
+{
+  "nom": "Buffet olympique à la française",
+  "intro": "Bienvenue sur mon buffet pensé pour vous !",
+  "categories": [
+    "Les jus olympiques",
+    "Velouté olympique de saison",
+    "Préparations olympiques sucrées",
+    "Préparations olympiques salées"
+  ],
+  "traductions": {
+    "en": {
+      "intro": "Welcome to my buffet, designed for you!"
+    },
+    "es": {
+      "intro": "¡Bienvenidos a mi buffet, pensado para ustedes!"
+    },
+    "zh": {
+      "intro": "欢迎来到我专为您精心准备的自助餐！"
+    },
+    "ar": {
+      "intro": "أهلاً بكم في بوفيهي المُعدّ خصيصاً لكم!"
+    }
+  },
+  "traiteur": {
+    "actif": true,
+    "pastille": "Traiteur des Jeux",
+    "titre": "Le buffet vient jusqu'à vous",
+    "texte": "Dans la chambre des athlètes, les bureaux des organisateurs, les studios des journalistes ou les salles d'équipe : nous livrons fruits et légumes bruts ou en salade, veloutés, jus… là où vous êtes.",
+    "bouton": "Réserver une livraison",
+    "image": "",
+    "traductions": {
+      "en": {
+        "pastille": "Games catering",
+        "titre": "The buffet comes to you",
+        "texte": "In athletes' rooms, organisers' offices, journalists' studios or team rooms: we deliver raw fruit and vegetables or in salads, soups, juices… wherever you are.",
+        "bouton": "Book a delivery"
+      },
+      "es": {
+        "pastille": "Catering de los Juegos",
+        "titre": "El buffet va hasta usted",
+        "texte": "En las habitaciones de los deportistas, las oficinas de los organizadores, los estudios de los periodistas o las salas de equipo: entregamos frutas y verduras crudas o en ensalada, cremas, zumos… donde esté.",
+        "bouton": "Reservar una entrega"
+      },
+      "zh": {
+        "pastille": "赛会餐饮服务",
+        "titre": "自助餐送到您身边",
+        "texte": "运动员的房间、组织者的办公室、记者的演播室或团队休息室：无论您在哪里，我们都为您送上新鲜水果蔬菜、沙拉、浓汤、果汁……",
+        "bouton": "预约配送"
+      },
+      "ar": {
+        "pastille": "تموين الألعاب",
+        "titre": "البوفيه يصل إليكم",
+        "texte": "في غرف الرياضيين ومكاتب المنظمين واستوديوهات الصحفيين وقاعات الفرق: نوصل الفواكه والخضار الطازجة أو في سلطات، والشوربات والعصائر… إلى حيث تكونون.",
+        "bouton": "احجز توصيلاً"
+      }
+    },
+    "email": "",
+    "whatsapp": ""
+  }
+}
