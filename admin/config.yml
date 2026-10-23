@@ -32,6 +32,9 @@ collections:
               - { label: Discipline (ex. Judo), name: discipline, widget: string, required: false }
               - { label: Intitulé du plat (ex. Le plateau des champions), name: intitule, widget: string, required: false }
               - { label: Photo, name: image, widget: image, required: false }
+              - { label: Titre de la page histoire (facultatif), name: histoire_titre, widget: string, required: false }
+              - { label: Histoire (laisser une ligne vide entre les paragraphes), name: histoire, widget: text, required: false, hint: "Si rempli, un bouton « Lire son histoire » apparaît sur la page du plat." }
+              - { label: Photo de la page histoire, name: histoire_image, widget: image, required: false }
               - label: Pastilles (ex. 250 ml)
                 name: pastilles
                 widget: list
@@ -73,6 +76,8 @@ collections:
                       - { label: Étiquette, name: etiquette, widget: string, required: false }
                       - { label: Discipline, name: discipline, widget: string, required: false }
                       - { label: Intitulé du plat, name: intitule, widget: string, required: false }
+                      - { label: Titre de la page histoire, name: histoire_titre, widget: string, required: false }
+                      - { label: Histoire, name: histoire, widget: text, required: false }
                       - { label: Description, name: description, widget: text, required: false }
                       - { label: Bienfaits (nutriments, intérêt pour les sportifs), name: bienfaits, widget: text, required: false }
                       - { label: Ingrédients, name: ingredients, widget: string, required: false }
@@ -86,6 +91,8 @@ collections:
                       - { label: Étiquette, name: etiquette, widget: string, required: false }
                       - { label: Discipline, name: discipline, widget: string, required: false }
                       - { label: Intitulé du plat, name: intitule, widget: string, required: false }
+                      - { label: Titre de la page histoire, name: histoire_titre, widget: string, required: false }
+                      - { label: Histoire, name: histoire, widget: text, required: false }
                       - { label: Description, name: description, widget: text, required: false }
                       - { label: Bienfaits (nutriments, intérêt pour les sportifs), name: bienfaits, widget: text, required: false }
                       - { label: Ingrédients, name: ingredients, widget: string, required: false }
@@ -99,6 +106,8 @@ collections:
                       - { label: Étiquette, name: etiquette, widget: string, required: false }
                       - { label: Discipline, name: discipline, widget: string, required: false }
                       - { label: Intitulé du plat, name: intitule, widget: string, required: false }
+                      - { label: Titre de la page histoire, name: histoire_titre, widget: string, required: false }
+                      - { label: Histoire, name: histoire, widget: text, required: false }
                       - { label: Description, name: description, widget: text, required: false }
                       - { label: Bienfaits (nutriments, intérêt pour les sportifs), name: bienfaits, widget: text, required: false }
                       - { label: Ingrédients, name: ingredients, widget: string, required: false }
@@ -112,6 +121,8 @@ collections:
                       - { label: Étiquette, name: etiquette, widget: string, required: false }
                       - { label: Discipline, name: discipline, widget: string, required: false }
                       - { label: Intitulé du plat, name: intitule, widget: string, required: false }
+                      - { label: Titre de la page histoire, name: histoire_titre, widget: string, required: false }
+                      - { label: Histoire, name: histoire, widget: text, required: false }
                       - { label: Description, name: description, widget: text, required: false }
                       - { label: Bienfaits (nutriments, intérêt pour les sportifs), name: bienfaits, widget: text, required: false }
                       - { label: Ingrédients, name: ingredients, widget: string, required: false }
