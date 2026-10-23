@@ -430,11 +430,22 @@
     var extra = "<dl><dt>" + esc(t("ingredients")) + "</dt><dd>" + ingredientsHtml(p) + "</dd>" +
       (al.length ? "<dt>" + esc(t("allergens")) + '</dt><dd class="allergens">' + al.map(function (x) { return '<strong class="all-chip">' + esc(x) + "</strong>"; }).join("") + "</dd>" : "") +
       (tr(p, "bienfaits") ? "<dt>" + esc(t("benefits")) + "</dt><dd>" + esc(tr(p, "bienfaits")) + "</dd>" : "") +
-      (liens ? "<dt>" + esc(t("veg_links")) + '</dt><dd class="links">' + liens + "</dd>" : "") + "</dl>";
+      (liens ? "<dt>" + esc(t("veg_links")) + '</dt><dd class="links">' + liens + "</dd>" : "") + "</dl>" +
+      (tr(p, "histoire") ? '<a class="story-btn" href="#/histoire/' + esc(p.id) + '">' + esc(t("h_read")) + "</a>" : "");
     pageDetail({
       route: "menu", backHref: "#/", backLabel: t("back"), titre: p.nom, sous: subLine(p), image: p.image,
       pills: [tr(p, "etiquette")].concat(tr(p, "pastilles") || []), texte: tr(p, "description"), extra: extra,
       autres: S.plats.filter(function (x) { return x.id !== p.id; }).sort(function (a) { return a.categorie === p.categorie ? -1 : 1; }).slice(0, 3), tile: tilePlat
+    });
+  }
+
+  function viewHistoire(id) {
+    var p = S.plats.filter(function (x) { return x.id === id; })[0];
+    if (!p || !tr(p, "histoire")) return viewMenu();
+    var paras = String(tr(p, "histoire")).split(/\r?\n\s*\r?\n/).map(function (x) { return x.trim(); }).filter(Boolean);
+    pageDetail({
+      route: "menu", backHref: "#/plat/" + p.id, backLabel: t("h_back"), titre: tr(p, "histoire_titre") || p.nom, sous: p.nom, image: p.histoire_image || "",
+      pills: [], texte: "", extra: '<div class="story">' + paras.map(function (x) { return "<p>" + esc(x) + "</p>"; }).join("") + "</div>", autres: [], tile: tilePlat
     });
   }
 
@@ -589,6 +600,7 @@
     if (CHOSEN) document.documentElement.dir = langInfo(LANG).dir;
     toTop();      // chaque nouvelle page s'ouvre en haut
     if (h[0] === "plat") return viewPlat(h[1]);
+    if (h[0] === "histoire") return viewHistoire(h[1]);
     if (h[0] === "legumes") return viewLegumes();
     if (h[0] === "legume") return viewLegume(h[1]);
     if (h[0] === "reservation") return viewReservation();
