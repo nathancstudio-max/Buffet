@@ -431,3 +431,8 @@ html.ld-on, html.ld-on body { overflow: hidden; }
 .d-info ul.ideas { margin: 0; padding-inline-start: 1.2em; list-style: disc; }
 .d-info ul.ideas li { margin-top: 8px; padding-inline-start: 4px; }
 .d-info ul.ideas li::marker { color: var(--wine); }
+
+/* page histoire */
+.story-btn{display:inline-block;margin-top:18px;padding:0 20px;line-height:40px;border-radius:999px;background:var(--wine,#770523);color:#f8f4ee;font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;text-decoration:none}
+.story p{margin:0 0 1.1em;line-height:1.65}
+.story p:last-child{font-family:"Times New Roman",Times,serif;font-style:italic;font-size:1.1em;color:var(--wine,#770523)}
