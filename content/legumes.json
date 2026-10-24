@@ -2,7 +2,7 @@
   "legumes": [
     {
       "nom": "Carotte",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         1,
         2,
@@ -25,7 +25,7 @@
       "traductions": {
         "en": {
           "nom": "Carrot",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Sweet, crunchy",
           "description": "Orange root vegetable rich in beta-carotene, delicious raw or cooked.",
           "conservation": "One to two weeks in the vegetable drawer, with the tops removed.",
@@ -34,7 +34,7 @@
         },
         "es": {
           "nom": "Zanahoria",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Dulce, crujiente",
           "description": "Raíz anaranjada rica en betacaroteno, deliciosa cruda o cocinada.",
           "conservation": "Una a dos semanas en el cajón de verduras, sin las hojas.",
@@ -43,7 +43,7 @@
         },
         "zh": {
           "nom": "胡萝卜",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "清甜、爽脆",
           "description": "富含β-胡萝卜素的橙色根茎蔬菜，生吃熟吃都美味。",
           "conservation": "去掉叶子后，放入冰箱蔬果格可保存一至两周。",
@@ -52,7 +52,7 @@
         },
         "ar": {
           "nom": "جزر",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "حلو ومقرمش",
           "description": "جذر برتقالي غني بالبيتاكاروتين، لذيذ نيئاً أو مطبوخاً.",
           "conservation": "من أسبوع إلى أسبوعين في درج الخضار بعد إزالة الأوراق.",
@@ -64,7 +64,7 @@
     },
     {
       "nom": "Courge butternut",
-      "type": "Courge",
+      "type": "Courges",
       "saisons": [
         9,
         10,
@@ -81,7 +81,7 @@
       "traductions": {
         "en": {
           "nom": "Butternut squash",
-          "type": "Squash",
+          "type": "Squashes",
           "gout": "Mild, nutty",
           "description": "Squash with a tender, melting flesh, very easy to cook.",
           "conservation": "Several months whole, in a cool, dry place.",
@@ -90,7 +90,7 @@
         },
         "es": {
           "nom": "Calabaza butternut",
-          "type": "Calabaza",
+          "type": "Calabazas",
           "gout": "Suave, con notas de avellana",
           "description": "Calabaza de pulpa tierna, muy fácil de cocinar.",
           "conservation": "Varios meses entera, en un lugar fresco y seco.",
@@ -108,7 +108,7 @@
         },
         "ar": {
           "nom": "القرع الجوزي",
-          "type": "قرع",
+          "type": "القرع",
           "gout": "حلو، بنكهة البندق",
           "description": "قرع بلبّ طري ناعم، سهل الطهي جداً.",
           "conservation": "عدة أشهر وهو كامل في مكان بارد وجاف.",
@@ -120,7 +120,7 @@
     },
     {
       "nom": "Betterave",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         9,
         10,
@@ -138,7 +138,7 @@
       "traductions": {
         "en": {
           "nom": "Beetroot",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Earthy, sweet",
           "description": "Deep red root vegetable, sold raw or already cooked.",
           "conservation": "Two weeks in a cool place; once cooked, 4 to 5 days.",
@@ -147,7 +147,7 @@
         },
         "es": {
           "nom": "Remolacha",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Terroso, dulce",
           "description": "Raíz de un rojo intenso, que se vende cruda o ya cocida.",
           "conservation": "Dos semanas en un lugar fresco; cocida, de 4 a 5 días.",
@@ -156,7 +156,7 @@
         },
         "zh": {
           "nom": "甜菜根",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "带泥土香、清甜",
           "description": "颜色深红的根茎蔬菜，有生的，也有已煮熟的。",
           "conservation": "阴凉处可存放两周；煮熟后可保存4至5天。",
@@ -165,7 +165,7 @@
         },
         "ar": {
           "nom": "شمندر",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "ترابي الطعم وحلو",
           "description": "جذر أحمر داكن، يُباع نيئاً أو مطبوخاً.",
           "conservation": "أسبوعان في مكان بارد؛ وبعد الطهي من 4 إلى 5 أيام.",
@@ -177,7 +177,7 @@
     },
     {
       "nom": "Épinard",
-      "type": "Feuille",
+      "type": "Légumes feuilles",
       "saisons": [
         3,
         4,
@@ -194,7 +194,7 @@
       "traductions": {
         "en": {
           "nom": "Spinach",
-          "type": "Leaf",
+          "type": "Leafy vegetables",
           "gout": "Green, slightly tangy",
           "description": "Tender leaves, eaten young in salads or cooked.",
           "conservation": "Two to three days in the fridge.",
@@ -203,7 +203,7 @@
         },
         "es": {
           "nom": "Espinaca",
-          "type": "Hoja",
+          "type": "Verduras de hoja",
           "gout": "Vegetal, ligeramente ácido",
           "description": "Hojas tiernas, para comer jóvenes en ensalada o cocidas.",
           "conservation": "Dos a tres días en el frigorífico.",
@@ -221,7 +221,7 @@
         },
         "ar": {
           "nom": "سبانخ",
-          "type": "ورقي",
+          "type": "خضار ورقية",
           "gout": "عشبي الطعم وحامض قليلاً",
           "description": "أوراق طرية، تُؤكل غضّة في السلطة أو مطبوخة.",
           "conservation": "من يومين إلى ثلاثة أيام في الثلاجة.",
@@ -233,7 +233,7 @@
     },
     {
       "nom": "Tomate",
-      "type": "Légume-fruit",
+      "type": "Légumes-fruits",
       "saisons": [
         6,
         7,
@@ -248,7 +248,7 @@
       "traductions": {
         "en": {
           "nom": "Tomato",
-          "type": "Fruit vegetable",
+          "type": "Fruiting vegetables",
           "gout": "Juicy, tangy",
           "description": "Best enjoyed in high summer, fully ripe.",
           "conservation": "At room temperature, away from the fridge.",
@@ -257,7 +257,7 @@
         },
         "es": {
           "nom": "Tomate",
-          "type": "Hortaliza de fruto",
+          "type": "Verduras-fruto",
           "gout": "Jugoso, ligeramente ácido",
           "description": "Para disfrutar en pleno verano, bien maduro.",
           "conservation": "A temperatura ambiente, lejos del frigorífico.",
@@ -266,7 +266,7 @@
         },
         "zh": {
           "nom": "番茄",
-          "type": "茄果类",
+          "type": "瓜果类蔬菜",
           "gout": "多汁、微酸",
           "description": "盛夏时节熟透了吃最美味。",
           "conservation": "常温保存，不要放进冰箱。",
@@ -275,7 +275,7 @@
         },
         "ar": {
           "nom": "طماطم",
-          "type": "ثمري",
+          "type": "خضار ثمرية",
           "gout": "عصيري وحامض قليلاً",
           "description": "يُستمتع به في قلب الصيف وهو ناضج تماماً.",
           "conservation": "في درجة حرارة الغرفة بعيداً عن الثلاجة.",
@@ -287,7 +287,7 @@
     },
     {
       "nom": "Orange",
-      "type": "Agrume",
+      "type": "Agrumes",
       "saisons": [
         12,
         1,
@@ -304,7 +304,7 @@
       "traductions": {
         "en": {
           "nom": "Orange",
-          "type": "Citrus",
+          "type": "Citrus fruit",
           "gout": "Sweet, juicy, slightly tangy",
           "description": "A juicy, fragrant citrus fruit, squeezed or eaten in segments.",
           "conservation": "One to two weeks at room temperature, longer in the fridge.",
@@ -313,7 +313,7 @@
         },
         "es": {
           "nom": "Naranja",
-          "type": "Cítrico",
+          "type": "Cítricos",
           "gout": "Dulce, jugosa, ligeramente ácida",
           "description": "Cítrico jugoso y aromático, para exprimir o comer en gajos.",
           "conservation": "Una o dos semanas a temperatura ambiente, más tiempo en frío.",
@@ -342,7 +342,7 @@
     },
     {
       "nom": "Citron",
-      "type": "Agrume",
+      "type": "Agrumes",
       "saisons": [
         11,
         12,
@@ -361,7 +361,7 @@
       "traductions": {
         "en": {
           "nom": "Lemon",
-          "type": "Citrus",
+          "type": "Citrus fruit",
           "gout": "Sour, fresh, zesty",
           "description": "A tart citrus fruit whose juice lifts flavours and dishes.",
           "conservation": "Two to three weeks in the vegetable drawer.",
@@ -370,7 +370,7 @@
         },
         "es": {
           "nom": "Limón",
-          "type": "Cítrico",
+          "type": "Cítricos",
           "gout": "Ácido, fresco, vivo",
           "description": "Cítrico ácido cuyo zumo realza los sabores y las preparaciones.",
           "conservation": "Dos o tres semanas en el cajón de verduras.",
@@ -399,7 +399,7 @@
     },
     {
       "nom": "Gingembre",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         1,
         2,
@@ -423,7 +423,7 @@
       "traductions": {
         "en": {
           "nom": "Ginger",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Spicy, warming, lemony",
           "description": "A rhizome with a sharp, spicy aroma, used fresh or grated.",
           "conservation": "Two to three weeks in a cool place, or frozen in pieces.",
@@ -432,7 +432,7 @@
         },
         "es": {
           "nom": "Jengibre",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Picante, cálido, cítrico",
           "description": "Rizoma de aroma intenso y picante, para usar fresco o rallado.",
           "conservation": "Dos o tres semanas en frío, o congelado en trozos.",
@@ -441,7 +441,7 @@
         },
         "zh": {
           "nom": "生姜",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "辛辣、温热、带柠檬香",
           "description": "香气浓烈、味道辛辣的根茎，可新鲜使用或磨成姜泥。",
           "conservation": "放入冰箱可保存两至三周，也可切块冷冻。",
@@ -450,7 +450,7 @@
         },
         "ar": {
           "nom": "زنجبيل",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "لاذع ودافئ مع لمسة ليمونية",
           "description": "جذمور ذو رائحة قوية ولاذعة، يُستخدم طازجاً أو مبشوراً.",
           "conservation": "من أسبوعين إلى ثلاثة في مكان بارد، أو مجمّداً قطعاً.",
@@ -461,7 +461,7 @@
     },
     {
       "nom": "Concombre",
-      "type": "Légume-fruit",
+      "type": "Légumes-fruits",
       "saisons": [
         5,
         6,
@@ -478,7 +478,7 @@
       "traductions": {
         "en": {
           "nom": "Cucumber",
-          "type": "Fruit vegetable",
+          "type": "Fruiting vegetables",
           "gout": "Fresh, watery, mild",
           "description": "A very refreshing fruit vegetable, over 95% water.",
           "conservation": "One week in the vegetable drawer.",
@@ -487,7 +487,7 @@
         },
         "es": {
           "nom": "Pepino",
-          "type": "Hortaliza de fruto",
+          "type": "Verduras-fruto",
           "gout": "Fresco, acuoso, suave",
           "description": "Hortaliza de fruto muy refrescante, con más de un 95 % de agua.",
           "conservation": "Una semana en el cajón de verduras.",
@@ -496,7 +496,7 @@
         },
         "zh": {
           "nom": "黄瓜",
-          "type": "茄果类",
+          "type": "瓜果类蔬菜",
           "gout": "清爽多汁，味道温和",
           "description": "非常清凉的茄果类蔬菜，水分含量超过95%。",
           "conservation": "放入冰箱蔬果格可保存一周。",
@@ -505,7 +505,7 @@
         },
         "ar": {
           "nom": "خيار",
-          "type": "ثمري",
+          "type": "خضار ثمرية",
           "gout": "منعش ومائي وخفيف الطعم",
           "description": "خضار ثمري شديد الانتعاش، يتكوّن من أكثر من 95% ماء.",
           "conservation": "أسبوع في درج الخضار.",
@@ -516,7 +516,7 @@
     },
     {
       "nom": "Céleri",
-      "type": "Tige",
+      "type": "Bulbes et tiges",
       "saisons": [
         7,
         8,
@@ -533,7 +533,7 @@
       "traductions": {
         "en": {
           "nom": "Celery",
-          "type": "Stalk",
+          "type": "Bulbs and stalks",
           "gout": "Herbal, lightly salty",
           "description": "Celery stalks: crunchy, with a distinctive taste.",
           "conservation": "One week in the fridge, stalks wrapped in a damp cloth.",
@@ -542,7 +542,7 @@
         },
         "es": {
           "nom": "Apio",
-          "type": "Tallo",
+          "type": "Bulbos y tallos",
           "gout": "Herbáceo, ligeramente salado",
           "description": "Apio de tallo: tallos crujientes de sabor marcado.",
           "conservation": "Una semana en la nevera, con los tallos envueltos en un paño húmedo.",
@@ -551,7 +551,7 @@
         },
         "zh": {
           "nom": "芹菜",
-          "type": "茎类",
+          "type": "鳞茎与茎类",
           "gout": "草本清香，略带咸味",
           "description": "西芹：茎秆爽脆，风味鲜明。",
           "conservation": "用湿布包裹茎秆，放入冰箱可保存一周。",
@@ -560,7 +560,7 @@
         },
         "ar": {
           "nom": "كرفس",
-          "type": "ساق",
+          "type": "أبصال وسيقان",
           "gout": "عشبي ومالح قليلاً",
           "description": "سيقان الكرفس: مقرمشة ونكهتها مميزة.",
           "conservation": "أسبوع في الثلاجة، مع لف السيقان بقطعة قماش رطبة.",
@@ -571,7 +571,7 @@
     },
     {
       "nom": "Potimarron",
-      "type": "Courge",
+      "type": "Courges",
       "saisons": [
         9,
         10,
@@ -588,7 +588,7 @@
       "traductions": {
         "en": {
           "nom": "Red kuri squash",
-          "type": "Squash",
+          "type": "Squashes",
           "gout": "Sweet, chestnut-like",
           "description": "A small orange squash with a chestnut flavour and an edible skin.",
           "conservation": "Several weeks in a dry place away from light.",
@@ -597,7 +597,7 @@
         },
         "es": {
           "nom": "Calabaza potimarron",
-          "type": "Calabaza",
+          "type": "Calabazas",
           "gout": "Dulce, sabor a castaña",
           "description": "Pequeña calabaza naranja con sabor a castaña y piel comestible.",
           "conservation": "Varias semanas en un lugar seco y protegido de la luz.",
@@ -615,7 +615,7 @@
         },
         "ar": {
           "nom": "قرع بوتيمارون",
-          "type": "قرع",
+          "type": "القرع",
           "gout": "حلو بنكهة الكستناء",
           "description": "قرع برتقالي صغير بنكهة الكستناء، وقشره صالح للأكل.",
           "conservation": "عدة أسابيع في مكان جاف بعيداً عن الضوء.",
@@ -626,7 +626,7 @@
     },
     {
       "nom": "Endive",
-      "type": "Feuille",
+      "type": "Légumes feuilles",
       "saisons": [
         10,
         11,
@@ -645,7 +645,7 @@
       "traductions": {
         "en": {
           "nom": "Chicory (endive)",
-          "type": "Leaf",
+          "type": "Leafy vegetables",
           "gout": "Slightly bitter, crunchy",
           "description": "White chicory with crisp leaves, grown away from light.",
           "conservation": "One week in a cool place, away from light to avoid bitterness.",
@@ -654,7 +654,7 @@
         },
         "es": {
           "nom": "Endibia",
-          "type": "Hoja",
+          "type": "Verduras de hoja",
           "gout": "Ligeramente amarga, crujiente",
           "description": "Endibia blanca de hojas crujientes, cultivada protegida de la luz.",
           "conservation": "Una semana en frío, protegida de la luz para evitar el amargor.",
@@ -672,7 +672,7 @@
         },
         "ar": {
           "nom": "هندباء بيضاء",
-          "type": "ورقي",
+          "type": "خضار ورقية",
           "gout": "مرّة قليلاً ومقرمشة",
           "description": "هندباء بيضاء بأوراق مقرمشة تُزرع بعيداً عن الضوء.",
           "conservation": "أسبوع في مكان بارد، بعيداً عن الضوء لتجنب المرارة.",
@@ -682,62 +682,8 @@
       }
     },
     {
-      "nom": "Noix",
-      "type": "Fruit à coque",
-      "saisons": [
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Beurré, légèrement tannique",
-      "description": "Fruit à coque riche en bonnes graisses, frais en automne, sec le reste de l'année.",
-      "conservation": "Plusieurs mois au sec dans leur coque ; décortiquées, au frais.",
-      "idees": "Concassées sur une salade, en crème, en pesto.",
-      "bienfaits": "Source de bonnes graisses (lipides insaturés) et de protéines végétales. Calorique : quelques noix suffisent. Allergène à signaler.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Walnut",
-          "type": "Nut",
-          "gout": "Buttery, lightly tannic",
-          "description": "A nut rich in healthy fats, fresh in autumn and dried the rest of the year.",
-          "conservation": "Several months in a dry place in the shell; shelled, in a cool place.",
-          "idees": "Crushed over a salad, in a cream, or in pesto.",
-          "bienfaits": "A source of healthy fats (unsaturated lipids) and plant protein. High in calories: a few walnuts are enough. Allergen to flag."
-        },
-        "es": {
-          "nom": "Nuez",
-          "type": "Fruto seco",
-          "gout": "Mantecosa, ligeramente tánica",
-          "description": "Fruto seco rico en grasas saludables, fresco en otoño y seco el resto del año.",
-          "conservation": "Varios meses en un lugar seco con cáscara; sin cáscara, en frío.",
-          "idees": "Troceada sobre una ensalada, en crema o en pesto.",
-          "bienfaits": "Fuente de grasas saludables (lípidos insaturados) y proteína vegetal. Calórica: bastan unas pocas nueces. Alérgeno que hay que señalar."
-        },
-        "zh": {
-          "nom": "核桃",
-          "type": "坚果类",
-          "gout": "奶香浓郁，略带涩味",
-          "description": "富含优质脂肪的坚果，秋天有新鲜的，其余时间为干核桃。",
-          "conservation": "带壳放在干燥处可保存数月；去壳后需冷藏。",
-          "idees": "碎核桃撒在沙拉上、做成奶油或香蒜酱。",
-          "bienfaits": "含优质脂肪（不饱和脂肪）和植物蛋白。热量较高，吃几颗就够。属于需标注的过敏原。"
-        },
-        "ar": {
-          "nom": "جوز",
-          "type": "مكسرات",
-          "gout": "بنكهة زبدية وقابضة قليلاً",
-          "description": "مكسرات غنية بالدهون الصحية، طازجة في الخريف ومجففة بقية العام.",
-          "conservation": "عدة أشهر في مكان جاف بقشرها؛ وبعد التقشير في مكان بارد.",
-          "idees": "مفروماً فوق السلطة، أو في كريمة، أو في البيستو.",
-          "bienfaits": "مصدر للدهون الصحية (دهون غير مشبعة) والبروتين النباتي. عالية السعرات: تكفي بضع حبات. مسبب للحساسية يجب التنبيه إليه."
-        }
-      }
-    },
-    {
       "nom": "Cerfeuil tubéreux",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         10,
         11,
@@ -754,7 +700,7 @@
       "traductions": {
         "en": {
           "nom": "Turnip-rooted chervil",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Starchy, between chestnut and carrot",
           "description": "An old, little-known root with dense, sweet flesh.",
           "conservation": "One to two weeks in a cool place; it hardens over time.",
@@ -763,7 +709,7 @@
         },
         "es": {
           "nom": "Perifollo tuberoso",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Harinoso, entre castaña y zanahoria",
           "description": "Raíz antigua y poco conocida, de pulpa densa y dulce.",
           "conservation": "Una o dos semanas en frío; se endurece con el tiempo.",
@@ -772,7 +718,7 @@
         },
         "zh": {
           "nom": "块根细叶芹",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "粉糯，介于栗子和胡萝卜之间",
           "description": "一种古老而鲜为人知的根茎，肉质紧实香甜。",
           "conservation": "冷藏可保存一至两周，放久会变硬。",
@@ -781,7 +727,7 @@
         },
         "ar": {
           "nom": "كرفس الجذور الدرني (شيرفيل درني)",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "نشوي، بين الكستناء والجزر",
           "description": "جذر قديم قليل الشهرة، لبّه كثيف وحلو.",
           "conservation": "من أسبوع إلى أسبوعين في مكان بارد؛ ويقسو مع الوقت.",
@@ -792,7 +738,7 @@
     },
     {
       "nom": "Fenouil",
-      "type": "Bulbe",
+      "type": "Bulbes et tiges",
       "saisons": [
         5,
         6,
@@ -811,7 +757,7 @@
       "traductions": {
         "en": {
           "nom": "Fennel",
-          "type": "Bulb",
+          "type": "Bulbs and stalks",
           "gout": "Aniseed-like, fresh",
           "description": "A crunchy bulb with an aniseed aroma, delicate raw or cooked.",
           "conservation": "One week in the vegetable drawer.",
@@ -820,7 +766,7 @@
         },
         "es": {
           "nom": "Hinojo",
-          "type": "Bulbo",
+          "type": "Bulbos y tallos",
           "gout": "Anisado, fresco",
           "description": "Bulbo crujiente de aroma a anís, delicado crudo o cocinado.",
           "conservation": "Una semana en el cajón de verduras.",
@@ -829,7 +775,7 @@
         },
         "zh": {
           "nom": "茴香球茎",
-          "type": "鳞茎类",
+          "type": "鳞茎与茎类",
           "gout": "带茴香味，清新",
           "description": "爽脆的球茎，带有茴香香气，生吃熟吃都细腻。",
           "conservation": "放入冰箱蔬果格可保存一周。",
@@ -838,7 +784,7 @@
         },
         "ar": {
           "nom": "شمر",
-          "type": "بصلة",
+          "type": "أبصال وسيقان",
           "gout": "بنكهة اليانسون ومنعش",
           "description": "بصلة مقرمشة برائحة اليانسون، رقيقة نيئة أو مطبوخة.",
           "conservation": "أسبوع في درج الخضار.",
@@ -849,7 +795,7 @@
     },
     {
       "nom": "Radis Pink Meat",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         10,
         11,
@@ -867,7 +813,7 @@
       "traductions": {
         "en": {
           "nom": "Pink Meat radish",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Mild, lightly peppery, crunchy",
           "description": "A winter radish with a green skin and a bright pink heart, very decorative.",
           "conservation": "One to two weeks in the vegetable drawer.",
@@ -876,7 +822,7 @@
         },
         "es": {
           "nom": "Rábano Pink Meat",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Suave, ligeramente picante, crujiente",
           "description": "Rábano de invierno de piel verde y corazón rosa intenso, muy decorativo.",
           "conservation": "Una o dos semanas en el cajón de verduras.",
@@ -885,7 +831,7 @@
         },
         "zh": {
           "nom": "粉心萝卜（Pink Meat）",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "清甜，微带辛辣，爽脆",
           "description": "冬季萝卜，绿色外皮，粉红色内心，十分好看。",
           "conservation": "放入冰箱蔬果格可保存一至两周。",
@@ -894,7 +840,7 @@
         },
         "ar": {
           "nom": "فجل بينك ميت",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "معتدل وحار قليلاً ومقرمش",
           "description": "فجل شتوي بقشرة خضراء وقلب وردي زاهٍ، جميل جداً.",
           "conservation": "من أسبوع إلى أسبوعين في درج الخضار.",
@@ -905,7 +851,7 @@
     },
     {
       "nom": "Radis Blue Meat",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         10,
         11,
@@ -923,7 +869,7 @@
       "traductions": {
         "en": {
           "nom": "Blue Meat radish",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Mild, slightly spicy",
           "description": "A winter radish with violet-blue flesh, milder than the round radish.",
           "conservation": "One to two weeks in the vegetable drawer.",
@@ -932,7 +878,7 @@
         },
         "es": {
           "nom": "Rábano Blue Meat",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Suave, ligeramente picante",
           "description": "Rábano de invierno de pulpa violeta azulada, más suave que el rábano redondo.",
           "conservation": "Una o dos semanas en el cajón de verduras.",
@@ -941,7 +887,7 @@
         },
         "zh": {
           "nom": "蓝心萝卜（Blue Meat）",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "清甜，微辣",
           "description": "冬季萝卜，果肉呈蓝紫色，比小圆萝卜更温和。",
           "conservation": "放入冰箱蔬果格可保存一至两周。",
@@ -950,7 +896,7 @@
         },
         "ar": {
           "nom": "فجل بلو ميت",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "معتدل وحار قليلاً",
           "description": "فجل شتوي بلبّ بنفسجي مائل للأزرق، ألطف من الفجل المدوّر.",
           "conservation": "من أسبوع إلى أسبوعين في درج الخضار.",
@@ -960,70 +906,8 @@
       }
     },
     {
-      "nom": "Pistache",
-      "type": "Fruit à coque",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Doux, légèrement résineux",
-      "description": "Graine verte du pistachier, délicate et parfumée.",
-      "conservation": "Plusieurs mois au sec, à l'abri de l'humidité et de la lumière.",
-      "idees": "Concassée sur les salades, en crème, en pesto.",
-      "bienfaits": "Riche en protéines végétales, en lipides insaturés et en fibres. Calorique : une petite poignée suffit. Allergène à signaler.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Pistachio",
-          "type": "Nut",
-          "gout": "Mild, slightly resinous",
-          "description": "The delicate, fragrant green seed of the pistachio tree.",
-          "conservation": "Several months in a dry place, away from humidity and light.",
-          "idees": "Crushed over salads, in a cream, or in pesto.",
-          "bienfaits": "Rich in plant protein, unsaturated lipids and fibre. High in calories: a small handful is enough. Allergen to flag."
-        },
-        "es": {
-          "nom": "Pistacho",
-          "type": "Fruto seco",
-          "gout": "Suave, ligeramente resinoso",
-          "description": "Semilla verde del pistachero, delicada y aromática.",
-          "conservation": "Varios meses en un lugar seco, protegido de la humedad y de la luz.",
-          "idees": "Troceado sobre ensaladas, en crema o en pesto.",
-          "bienfaits": "Rica en proteína vegetal, lípidos insaturados y fibra. Calórica: basta un pequeño puñado. Alérgeno que hay que señalar."
-        },
-        "zh": {
-          "nom": "开心果",
-          "type": "坚果类",
-          "gout": "清香，略带树脂味",
-          "description": "开心果树的绿色果仁，细腻芬芳。",
-          "conservation": "放在干燥、避潮避光处可保存数月。",
-          "idees": "碎开心果撒在沙拉上、做成奶油或香蒜酱。",
-          "bienfaits": "富含植物蛋白、不饱和脂肪和膳食纤维。热量较高，一小把就够。属于需标注的过敏原。"
-        },
-        "ar": {
-          "nom": "فستق حلبي",
-          "type": "مكسرات",
-          "gout": "معتدل ورائحته راتنجية قليلاً",
-          "description": "بذرة خضراء رقيقة وعطرة من شجرة الفستق.",
-          "conservation": "عدة أشهر في مكان جاف بعيداً عن الرطوبة والضوء.",
-          "idees": "مفروماً فوق السلطات، أو في كريمة، أو في البيستو.",
-          "bienfaits": "غنية بالبروتين النباتي والدهون غير المشبعة والألياف. عالية السعرات: تكفي حفنة صغيرة. مسبب للحساسية يجب التنبيه إليه."
-        }
-      }
-    },
-    {
       "nom": "Chou rouge",
-      "type": "Feuille",
+      "type": "Choux",
       "saisons": [
         9,
         10,
@@ -1043,7 +927,7 @@
       "traductions": {
         "en": {
           "nom": "Red cabbage",
-          "type": "Leaf",
+          "type": "Cabbages",
           "gout": "Crunchy, lightly peppery",
           "description": "A cabbage with purple leaves, tasty raw or cooked.",
           "conservation": "One to two weeks in a cool place.",
@@ -1052,7 +936,7 @@
         },
         "es": {
           "nom": "Col lombarda",
-          "type": "Hoja",
+          "type": "Coles",
           "gout": "Crujiente, ligeramente picante",
           "description": "Col de hojas moradas, sabrosa cruda o cocinada.",
           "conservation": "Una o dos semanas en frío.",
@@ -1061,7 +945,7 @@
         },
         "zh": {
           "nom": "紫甘蓝",
-          "type": "叶菜类",
+          "type": "甘蓝类",
           "gout": "爽脆，微带辛辣",
           "description": "紫色叶片的卷心菜，生吃熟吃都美味。",
           "conservation": "冷藏可保存一至两周。",
@@ -1070,7 +954,7 @@
         },
         "ar": {
           "nom": "ملفوف أحمر",
-          "type": "ورقي",
+          "type": "الكرنب",
           "gout": "مقرمش وحار قليلاً",
           "description": "ملفوف بأوراق بنفسجية، لذيذ نيئاً أو مطبوخاً.",
           "conservation": "من أسبوع إلى أسبوعين في مكان بارد.",
@@ -1080,65 +964,8 @@
       }
     },
     {
-      "nom": "Fleurs comestibles",
-      "type": "Fleur",
-      "saisons": [
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "gout": "Délicat, floral",
-      "description": "Pétales de marguerite et de pivoine, ajoutés pour le parfum et la couleur.",
-      "conservation": "Quelques jours au frais, dans une boîte fermée, sans les laver avant.",
-      "idees": "Pétales sur les salades et les desserts.",
-      "bienfaits": "Surtout un plaisir pour les yeux et le nez : leur apport nutritionnel est négligeable. À consommer en petite quantité, et seulement les fleurs vendues comme comestibles.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Edible flowers",
-          "type": "Flower",
-          "gout": "Delicate, floral",
-          "description": "Daisy and peony petals, added for fragrance and colour.",
-          "conservation": "A few days in the fridge, in a closed box, unwashed.",
-          "idees": "Petals on salads and desserts.",
-          "bienfaits": "Mostly a pleasure for the eyes and nose: their nutritional contribution is negligible. Eat in small amounts, and only flowers sold as edible."
-        },
-        "es": {
-          "nom": "Flores comestibles",
-          "type": "Flor",
-          "gout": "Delicado, floral",
-          "description": "Pétalos de margarita y de peonía, añadidos por su aroma y color.",
-          "conservation": "Unos días en frío, en una caja cerrada y sin lavar.",
-          "idees": "Pétalos sobre ensaladas y postres.",
-          "bienfaits": "Sobre todo un placer para la vista y el olfato: su aporte nutricional es insignificante. Consumir en pequeña cantidad y solo flores vendidas como comestibles."
-        },
-        "zh": {
-          "nom": "食用花卉",
-          "type": "花卉",
-          "gout": "清雅，花香",
-          "description": "雏菊和牡丹的花瓣，用于增添香气和色彩。",
-          "conservation": "放在密封盒中冷藏可保存数日，食用前再清洗。",
-          "idees": "花瓣撒在沙拉和甜点上。",
-          "bienfaits": "主要是视觉和嗅觉上的享受，营养贡献可以忽略不计。少量食用，且只食用标明可食用的花卉。"
-        },
-        "ar": {
-          "nom": "زهور صالحة للأكل",
-          "type": "زهور",
-          "gout": "رقيقة وزهرية",
-          "description": "بتلات الأقحوان والفاوانيا، تُضاف للعطر واللون.",
-          "conservation": "بضعة أيام في الثلاجة، في علبة مغلقة ودون غسلها قبل ذلك.",
-          "idees": "بتلات فوق السلطات والحلويات.",
-          "bienfaits": "هي في الأساس متعة للعين والأنف، ومساهمتها الغذائية ضئيلة. تُؤكل بكمية قليلة، ويقتصر ذلك على الزهور المباعة على أنها صالحة للأكل."
-        }
-      }
-    },
-    {
       "nom": "Chou-fleur violet",
-      "type": "Chou",
+      "type": "Choux",
       "saisons": [
         10,
         11,
@@ -1155,7 +982,7 @@
       "traductions": {
         "en": {
           "nom": "Purple cauliflower",
-          "type": "Cabbage",
+          "type": "Cabbages",
           "gout": "Mild, nutty, slightly sweet",
           "description": "A cauliflower with a striking purple colour, milder than the white one.",
           "conservation": "One week in the vegetable drawer, whole and unwashed.",
@@ -1164,7 +991,7 @@
         },
         "es": {
           "nom": "Coliflor morada",
-          "type": "Col",
+          "type": "Coles",
           "gout": "Suave, a nuez, ligeramente dulce",
           "description": "Coliflor de un bonito color morado, más suave que la blanca.",
           "conservation": "Una semana en el cajón de verduras, entera y sin lavar.",
@@ -1182,7 +1009,7 @@
         },
         "ar": {
           "nom": "قرنبيط بنفسجي",
-          "type": "كرنب",
+          "type": "الكرنب",
           "gout": "لطيف بنكهة المكسرات وحلاوة خفيفة",
           "description": "قرنبيط بلون بنفسجي لافت، أخفّ طعماً من الأبيض.",
           "conservation": "أسبوع في درج الخضار، كاملاً وغير مغسول.",
@@ -1193,7 +1020,7 @@
     },
     {
       "nom": "Chou-fleur blanc",
-      "type": "Chou",
+      "type": "Choux",
       "saisons": [
         9,
         10,
@@ -1212,7 +1039,7 @@
       "traductions": {
         "en": {
           "nom": "White cauliflower",
-          "type": "Cabbage",
+          "type": "Cabbages",
           "gout": "Mild, slightly sweet, nutty when cooked",
           "description": "The classic cauliflower, with tight, compact florets.",
           "conservation": "One week in the vegetable drawer, whole.",
@@ -1221,7 +1048,7 @@
         },
         "es": {
           "nom": "Coliflor blanca",
-          "type": "Col",
+          "type": "Coles",
           "gout": "Suave, ligeramente dulce, a nuez al cocinarse",
           "description": "La coliflor clásica, de ramilletes apretados y compactos.",
           "conservation": "Una semana en el cajón de verduras, entera.",
@@ -1239,7 +1066,7 @@
         },
         "ar": {
           "nom": "قرنبيط أبيض",
-          "type": "كرنب",
+          "type": "الكرنب",
           "gout": "لطيف وحلو قليلاً، بنكهة المكسرات عند الطهي",
           "description": "القرنبيط الكلاسيكي بزهيراته المتراصة.",
           "conservation": "أسبوع في درج الخضار، كاملاً.",
@@ -1250,7 +1077,7 @@
     },
     {
       "nom": "Chou-fleur jaune",
-      "type": "Chou",
+      "type": "Choux",
       "saisons": [
         10,
         11,
@@ -1267,7 +1094,7 @@
       "traductions": {
         "en": {
           "nom": "Yellow cauliflower",
-          "type": "Cabbage",
+          "type": "Cabbages",
           "gout": "Mild, slightly sweet",
           "description": "A golden yellow cauliflower with a tender taste.",
           "conservation": "One week in the vegetable drawer, whole.",
@@ -1276,7 +1103,7 @@
         },
         "es": {
           "nom": "Coliflor amarilla",
-          "type": "Col",
+          "type": "Coles",
           "gout": "Suave, ligeramente dulce",
           "description": "Coliflor de color amarillo dorado y sabor tierno.",
           "conservation": "Una semana en el cajón de verduras, entera.",
@@ -1294,7 +1121,7 @@
         },
         "ar": {
           "nom": "قرنبيط أصفر",
-          "type": "كرنب",
+          "type": "الكرنب",
           "gout": "لطيف وحلو قليلاً",
           "description": "قرنبيط بلون أصفر ذهبي وطعم طري.",
           "conservation": "أسبوع في درج الخضار، كاملاً.",
@@ -1305,7 +1132,7 @@
     },
     {
       "nom": "Chou romanesco",
-      "type": "Chou",
+      "type": "Choux",
       "saisons": [
         9,
         10,
@@ -1323,7 +1150,7 @@
       "traductions": {
         "en": {
           "nom": "Romanesco",
-          "type": "Cabbage",
+          "type": "Cabbages",
           "gout": "Delicate, nutty, finer than cauliflower",
           "description": "A green cabbage with pointed spiralling florets, as beautiful as it is good.",
           "conservation": "A few days in the vegetable drawer, whole.",
@@ -1332,7 +1159,7 @@
         },
         "es": {
           "nom": "Romanesco",
-          "type": "Col",
+          "type": "Coles",
           "gout": "Fino, a nuez, más delicado que la coliflor",
           "description": "Col verde de ramilletes en espiral puntiagudos, tan bonita como buena.",
           "conservation": "Unos días en el cajón de verduras, entero.",
@@ -1350,7 +1177,7 @@
         },
         "ar": {
           "nom": "قرنبيط رومانيسكو",
-          "type": "كرنب",
+          "type": "الكرنب",
           "gout": "رقيق بنكهة المكسرات، أنعم من القرنبيط",
           "description": "كرنب أخضر بزهيرات حلزونية مدببة، جميل بقدر ما هو لذيذ.",
           "conservation": "بضعة أيام في درج الخضار، كاملاً.",
@@ -1361,7 +1188,7 @@
     },
     {
       "nom": "Carottes de couleur",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         5,
         6,
@@ -1380,7 +1207,7 @@
       "traductions": {
         "en": {
           "nom": "Rainbow carrots",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Sweet, crunchy, slightly peppery",
           "description": "A bunch of purple, yellow, orange and white carrots, tops attached.",
           "conservation": "A few days in the fridge, tops removed to keep them crisp.",
@@ -1389,7 +1216,7 @@
         },
         "es": {
           "nom": "Zanahorias de colores",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Dulces, crujientes, ligeramente picantes",
           "description": "Manojo de zanahorias moradas, amarillas, naranjas y blancas, con sus hojas.",
           "conservation": "Unos días en frío, sin las hojas para conservar lo crujiente.",
@@ -1398,7 +1225,7 @@
         },
         "zh": {
           "nom": "彩色胡萝卜",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "清甜爽脆，略带辛香",
           "description": "一束紫、黄、橙、白色的胡萝卜，带着叶子。",
           "conservation": "冷藏可保存数日，去掉叶子以保持脆嫩。",
@@ -1407,7 +1234,7 @@
         },
         "ar": {
           "nom": "جزر ملوّن",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "حلو ومقرمش مع نكهة حارة خفيفة",
           "description": "حزمة جزر بنفسجي وأصفر وبرتقالي وأبيض بأوراقها.",
           "conservation": "بضعة أيام في الثلاجة، مع إزالة الأوراق للحفاظ على القرمشة.",
@@ -1418,7 +1245,7 @@
     },
     {
       "nom": "Poire Comice Oudard",
-      "type": "Fruit",
+      "type": "Fruits à pépins",
       "saisons": [
         10,
         11,
@@ -1434,7 +1261,7 @@
       "traductions": {
         "en": {
           "nom": "Comice pear (Oudard)",
-          "type": "Fruit",
+          "type": "Pome fruit",
           "gout": "Very soft, sweet, fragrant",
           "description": "Comice pear from the producer Oudard, with melting, juicy flesh, regarded as one of the finest.",
           "conservation": "At room temperature until ripe (a few days), then in the fridge.",
@@ -1443,7 +1270,7 @@
         },
         "es": {
           "nom": "Pera Comice (Oudard)",
-          "type": "Fruta",
+          "type": "Frutas de pepita",
           "gout": "Muy fundente, dulce, aromática",
           "description": "Pera Comice del productor Oudard, de pulpa fundente y jugosa, considerada una de las mejores.",
           "conservation": "A temperatura ambiente hasta que madure (unos días), luego en frío.",
@@ -1452,7 +1279,7 @@
         },
         "zh": {
           "nom": "考密斯梨（Oudard）",
-          "type": "水果",
+          "type": "仁果类水果",
           "gout": "非常软糯，香甜芬芳",
           "description": "来自种植者Oudard的考密斯梨，果肉软糯多汁，被公认为最好的梨之一。",
           "conservation": "常温放置至成熟（几天），之后冷藏。",
@@ -1461,7 +1288,7 @@
         },
         "ar": {
           "nom": "إجاص كوميس (Oudard)",
-          "type": "فاكهة",
+          "type": "فواكه بذرية",
           "gout": "شديد الليونة، حلو وعطري",
           "description": "إجاص كوميس من المنتج Oudard، بلبّ ناعم يذوب في الفم وعصيري، يُعدّ من أجود الأنواع.",
           "conservation": "في درجة حرارة الغرفة حتى النضج (بضعة أيام) ثم في الثلاجة.",
@@ -1472,7 +1299,7 @@
     },
     {
       "nom": "Pomme Juliet",
-      "type": "Fruit",
+      "type": "Fruits à pépins",
       "saisons": [
         9,
         10,
@@ -1491,7 +1318,7 @@
       "traductions": {
         "en": {
           "nom": "Juliet apple",
-          "type": "Fruit",
+          "type": "Pome fruit",
           "gout": "Crunchy, juicy, sweet-tart",
           "description": "A red-striped French apple, firm and very crisp, with good keeping qualities.",
           "conservation": "Several weeks in a cool place.",
@@ -1500,7 +1327,7 @@
         },
         "es": {
           "nom": "Manzana Juliet",
-          "type": "Fruta",
+          "type": "Frutas de pepita",
           "gout": "Crujiente, jugosa, dulce y ácida",
           "description": "Manzana francesa roja y rayada, firme y muy crujiente, de buena conservación.",
           "conservation": "Varias semanas en lugar fresco.",
@@ -1509,7 +1336,7 @@
         },
         "zh": {
           "nom": "朱丽叶苹果",
-          "type": "水果",
+          "type": "仁果类水果",
           "gout": "爽脆多汁，酸甜适中",
           "description": "法国产红色条纹苹果，果肉紧实脆爽，耐储存。",
           "conservation": "在阴凉处可保存数周。",
@@ -1518,7 +1345,7 @@
         },
         "ar": {
           "nom": "تفاح جولييت",
-          "type": "فاكهة",
+          "type": "فواكه بذرية",
           "gout": "مقرمش وعصيري، حلو وحامض",
           "description": "تفاح فرنسي أحمر مخطط، متماسك ومقرمش جداً، يُحفظ جيداً.",
           "conservation": "عدة أسابيع في مكان بارد.",
@@ -1529,7 +1356,7 @@
     },
     {
       "nom": "Pomme Calville blanc d'hiver",
-      "type": "Fruit",
+      "type": "Fruits à pépins",
       "saisons": [
         11,
         12,
@@ -1546,7 +1373,7 @@
       "traductions": {
         "en": {
           "nom": "Calville blanc d'hiver apple",
-          "type": "Fruit",
+          "type": "Pome fruit",
           "gout": "Tangy, fragrant, slightly sweet",
           "description": "An old ribbed variety with pale yellow skin, known for its richness in vitamin C.",
           "conservation": "Several weeks in a cool, airy place.",
@@ -1555,7 +1382,7 @@
         },
         "es": {
           "nom": "Manzana Calville blanc d'hiver",
-          "type": "Fruta",
+          "type": "Frutas de pepita",
           "gout": "Ácida, aromática, ligeramente dulce",
           "description": "Variedad antigua acostillada de piel amarillo pálido, famosa por su riqueza en vitamina C.",
           "conservation": "Varias semanas en un lugar fresco y ventilado.",
@@ -1564,7 +1391,7 @@
         },
         "zh": {
           "nom": "白冬卡维尔苹果",
-          "type": "水果",
+          "type": "仁果类水果",
           "gout": "酸甜清香",
           "description": "外形有棱的古老品种，果皮淡黄，以维生素C含量高而闻名。",
           "conservation": "在通风阴凉处可保存数周。",
@@ -1573,7 +1400,7 @@
         },
         "ar": {
           "nom": "تفاح كالفيل بلان ديفير",
-          "type": "فاكهة",
+          "type": "فواكه بذرية",
           "gout": "حامض عطري وحلو قليلاً",
           "description": "صنف قديم مضلّع بقشرة صفراء شاحبة، معروف بغناه بفيتامين C.",
           "conservation": "عدة أسابيع في مكان بارد جيد التهوية.",
@@ -1584,7 +1411,7 @@
     },
     {
       "nom": "Pomme Granny",
-      "type": "Fruit",
+      "type": "Fruits à pépins",
       "saisons": [
         10,
         11,
@@ -1605,7 +1432,7 @@
       "traductions": {
         "en": {
           "nom": "Granny Smith apple",
-          "type": "Fruit",
+          "type": "Pome fruit",
           "gout": "Very crunchy, tart, lively",
           "description": "A green apple with firm, tangy flesh, which keeps very well.",
           "conservation": "Several weeks in a cool place.",
@@ -1614,7 +1441,7 @@
         },
         "es": {
           "nom": "Manzana Granny Smith",
-          "type": "Fruta",
+          "type": "Frutas de pepita",
           "gout": "Muy crujiente, ácida, viva",
           "description": "Manzana verde de pulpa firme y ácida, que se conserva muy bien.",
           "conservation": "Varias semanas en lugar fresco.",
@@ -1623,7 +1450,7 @@
         },
         "zh": {
           "nom": "青苹果（史密斯奶奶）",
-          "type": "水果",
+          "type": "仁果类水果",
           "gout": "非常爽脆，酸爽清新",
           "description": "绿色苹果，果肉紧实偏酸，非常耐储存。",
           "conservation": "在阴凉处可保存数周。",
@@ -1632,7 +1459,7 @@
         },
         "ar": {
           "nom": "تفاح غراني سميث",
-          "type": "فاكهة",
+          "type": "فواكه بذرية",
           "gout": "مقرمش جداً، حامض ومنعش",
           "description": "تفاح أخضر بلبّ متماسك وحامض، يُحفظ جيداً.",
           "conservation": "عدة أسابيع في مكان بارد.",
@@ -1643,7 +1470,7 @@
     },
     {
       "nom": "Clémentine de Corse",
-      "type": "Agrume",
+      "type": "Agrumes",
       "saisons": [
         11,
         12,
@@ -1659,7 +1486,7 @@
       "traductions": {
         "en": {
           "nom": "Corsican clementine",
-          "type": "Citrus",
+          "type": "Citrus fruit",
           "gout": "Sweet, fragrant, low acidity",
           "description": "Corsican clementine PGI, often sold with its leaf, easy to peel and seedless.",
           "conservation": "One to two weeks in a cool place.",
@@ -1669,7 +1496,7 @@
         },
         "es": {
           "nom": "Clementina de Córcega",
-          "type": "Cítrico",
+          "type": "Cítricos",
           "gout": "Dulce, aromática, poco ácida",
           "description": "Clementina de Córcega IGP, a menudo vendida con su hoja, fácil de pelar y sin pepitas.",
           "conservation": "Una o dos semanas en lugar fresco.",
@@ -1702,7 +1529,7 @@
     },
     {
       "nom": "Poireau",
-      "type": "Bulbe",
+      "type": "Bulbes et tiges",
       "saisons": [
         9,
         10,
@@ -1722,7 +1549,7 @@
       "traductions": {
         "en": {
           "nom": "Leek",
-          "type": "Bulb",
+          "type": "Bulbs and stalks",
           "gout": "Mild, slightly sweet, very tender when cooked",
           "description": "A long vegetable with a tender white part and a firmer green part, very aromatic.",
           "conservation": "One week in the vegetable drawer, unwashed.",
@@ -1731,7 +1558,7 @@
         },
         "es": {
           "nom": "Puerro",
-          "type": "Bulbo",
+          "type": "Bulbos y tallos",
           "gout": "Suave, ligeramente dulce, muy tierno cocinado",
           "description": "Hortaliza alargada de blanco tierno y verde más firme, muy aromática.",
           "conservation": "Una semana en el cajón de verduras, sin lavar.",
@@ -1740,7 +1567,7 @@
         },
         "zh": {
           "nom": "韭葱",
-          "type": "鳞茎类",
+          "type": "鳞茎与茎类",
           "gout": "清甜温和，煮熟后非常软嫩",
           "description": "细长的蔬菜，白色部分嫩，绿色部分较韧，香气浓郁。",
           "conservation": "未清洗放入冰箱蔬果格，可保存一周。",
@@ -1749,7 +1576,7 @@
         },
         "ar": {
           "nom": "كراث",
-          "type": "بصلة",
+          "type": "أبصال وسيقان",
           "gout": "لطيف وحلو قليلاً، طري جداً عند الطهي",
           "description": "خضار طويل بجزء أبيض طري وأخضر أكثر تماسكاً، عطري جداً.",
           "conservation": "أسبوع في درج الخضار، غير مغسول.",
@@ -1760,7 +1587,7 @@
     },
     {
       "nom": "Raisin Muscat de Moissac",
-      "type": "Fruit",
+      "type": "Raisins",
       "saisons": [
         9,
         10,
@@ -1775,7 +1602,7 @@
       "traductions": {
         "en": {
           "nom": "Muscat grapes from Moissac",
-          "type": "Fruit",
+          "type": "Grapes",
           "gout": "Very sweet, fragrant, musky",
           "description": "A table grape from Moissac with very aromatic golden berries.",
           "conservation": "A few days in the fridge, on the bunch, unwashed.",
@@ -1784,7 +1611,7 @@
         },
         "es": {
           "nom": "Uva Moscatel de Moissac",
-          "type": "Fruta",
+          "type": "Uvas",
           "gout": "Muy dulce, aromática, almizclada",
           "description": "Uva de mesa de Moissac, de granos dorados muy aromáticos.",
           "conservation": "Unos días en frío, en racimo y sin lavar.",
@@ -1793,7 +1620,7 @@
         },
         "zh": {
           "nom": "莫瓦萨克麝香葡萄",
-          "type": "水果",
+          "type": "葡萄",
           "gout": "非常甜，芳香，带麝香气息",
           "description": "产自莫瓦萨克的鲜食葡萄，金黄的果粒香气浓郁。",
           "conservation": "带梗未清洗，冷藏可保存数日。",
@@ -1802,7 +1629,7 @@
         },
         "ar": {
           "nom": "عنب مسكات من موسّاك",
-          "type": "فاكهة",
+          "type": "عنب",
           "gout": "حلو جداً، عطري بنكهة المسك",
           "description": "عنب مائدة من موسّاك بحبّات ذهبية شديدة العطر.",
           "conservation": "بضعة أيام في الثلاجة، في عنقوده وغير مغسول.",
@@ -1813,7 +1640,7 @@
     },
     {
       "nom": "Raisin Suffolk Red",
-      "type": "Fruit",
+      "type": "Raisins",
       "saisons": [
         8,
         9,
@@ -1828,7 +1655,7 @@
       "traductions": {
         "en": {
           "nom": "Suffolk Red grapes",
-          "type": "Fruit",
+          "type": "Grapes",
           "gout": "Sweet, crunchy",
           "description": "A pink to red table grape, crunchy and seedless.",
           "conservation": "A few days in the fridge, on the bunch, unwashed.",
@@ -1837,7 +1664,7 @@
         },
         "es": {
           "nom": "Uva Suffolk Red",
-          "type": "Fruta",
+          "type": "Uvas",
           "gout": "Dulce, crujiente",
           "description": "Uva de mesa de rosada a roja, crujiente y sin pepitas.",
           "conservation": "Unos días en frío, en racimo y sin lavar.",
@@ -1846,7 +1673,7 @@
         },
         "zh": {
           "nom": "萨福克红葡萄",
-          "type": "水果",
+          "type": "葡萄",
           "gout": "香甜爽脆",
           "description": "粉红至红色的鲜食葡萄，口感爽脆，无籽。",
           "conservation": "带梗未清洗，冷藏可保存数日。",
@@ -1855,7 +1682,7 @@
         },
         "ar": {
           "nom": "عنب سوفولك ريد",
-          "type": "فاكهة",
+          "type": "عنب",
           "gout": "حلو ومقرمش",
           "description": "عنب مائدة من الوردي إلى الأحمر، مقرمش وبلا بذور.",
           "conservation": "بضعة أيام في الثلاجة، في عنقوده وغير مغسول.",
@@ -1866,7 +1693,7 @@
     },
     {
       "nom": "Raisin Chasselas de Moissac",
-      "type": "Fruit",
+      "type": "Raisins",
       "saisons": [
         9,
         10,
@@ -1881,7 +1708,7 @@
       "traductions": {
         "en": {
           "nom": "Chasselas grapes from Moissac",
-          "type": "Fruit",
+          "type": "Grapes",
           "gout": "Sweet, fine, delicately fragrant",
           "description": "A golden table grape with thin skin, grown in Moissac and much loved in France.",
           "conservation": "A few days in the fridge, on the bunch, unwashed.",
@@ -1890,7 +1717,7 @@
         },
         "es": {
           "nom": "Uva Chasselas de Moissac",
-          "type": "Fruta",
+          "type": "Uvas",
           "gout": "Dulce, fina, delicadamente aromática",
           "description": "Uva de mesa dorada de piel fina, cultivada en Moissac y muy apreciada en Francia.",
           "conservation": "Unos días en frío, en racimo y sin lavar.",
@@ -1899,7 +1726,7 @@
         },
         "zh": {
           "nom": "莫瓦萨克夏瑟拉葡萄",
-          "type": "水果",
+          "type": "葡萄",
           "gout": "清甜细腻，香气淡雅",
           "description": "果皮薄的金黄色鲜食葡萄，产自莫瓦萨克，在法国备受喜爱。",
           "conservation": "带梗未清洗，冷藏可保存数日。",
@@ -1908,7 +1735,7 @@
         },
         "ar": {
           "nom": "عنب شاسلاس من موسّاك",
-          "type": "فاكهة",
+          "type": "عنب",
           "gout": "حلو ورقيق بعطر لطيف",
           "description": "عنب مائدة ذهبي رقيق القشرة، يُزرع في موسّاك ويحظى بتقدير كبير في فرنسا.",
           "conservation": "بضعة أيام في الثلاجة، في عنقوده وغير مغسول.",
@@ -1919,7 +1746,7 @@
     },
     {
       "nom": "Banane française de Martinique",
-      "type": "Fruit",
+      "type": "Fruits exotiques",
       "saisons": [
         1,
         2,
@@ -1943,7 +1770,7 @@
       "traductions": {
         "en": {
           "nom": "French banana from Martinique",
-          "type": "Fruit",
+          "type": "Exotic fruit",
           "gout": "Sweet, soft, creamy",
           "description": "A banana grown in Martinique, a French territory, with sweet, fragrant flesh.",
           "conservation": "At room temperature, away from other fruit; not in the fridge.",
@@ -1952,7 +1779,7 @@
         },
         "es": {
           "nom": "Plátano francés de Martinica",
-          "type": "Fruta",
+          "type": "Frutas exóticas",
           "gout": "Dulce, tierno, cremoso",
           "description": "Plátano cultivado en Martinica, territorio francés, de pulpa dulce y aromática.",
           "conservation": "A temperatura ambiente, lejos de otras frutas; no en la nevera.",
@@ -1961,7 +1788,7 @@
         },
         "zh": {
           "nom": "法国马提尼克香蕉",
-          "type": "水果",
+          "type": "热带水果",
           "gout": "香甜软糯，口感绵密",
           "description": "产自法国海外领地马提尼克岛的香蕉，果肉香甜芬芳。",
           "conservation": "常温保存，远离其他水果；不要放冰箱。",
@@ -1970,7 +1797,7 @@
         },
         "ar": {
           "nom": "موز فرنسي من المارتينيك",
-          "type": "فاكهة",
+          "type": "فواكه استوائية",
           "gout": "حلو وطري وكريمي",
           "description": "موز يُزرع في المارتينيك، الإقليم الفرنسي، بلبّ حلو وعطري.",
           "conservation": "في درجة حرارة الغرفة بعيداً عن الفواكه الأخرى؛ وليس في الثلاجة.",
@@ -1981,7 +1808,7 @@
     },
     {
       "nom": "Prune Reine-Claude",
-      "type": "Fruit",
+      "type": "Fruits à noyau",
       "saisons": [
         7,
         8,
@@ -1996,7 +1823,7 @@
       "traductions": {
         "en": {
           "nom": "Reine-Claude greengage plum",
-          "type": "Fruit",
+          "type": "Stone fruit",
           "gout": "Very sweet, fragrant, melting",
           "description": "A very sweet green-gold plum with a delicate fragrance, regarded as one of the finest plums.",
           "conservation": "A few days at room temperature, then in the fridge.",
@@ -2005,7 +1832,7 @@
         },
         "es": {
           "nom": "Ciruela Reina Claudia",
-          "type": "Fruta",
+          "type": "Frutas de hueso",
           "gout": "Muy dulce, aromática, fundente",
           "description": "Ciruela verde dorada muy dulce, de aroma delicado, considerada una de las mejores.",
           "conservation": "Unos días a temperatura ambiente, luego en frío.",
@@ -2014,7 +1841,7 @@
         },
         "zh": {
           "nom": "克劳德王后李",
-          "type": "水果",
+          "type": "核果类水果",
           "gout": "非常香甜，果肉软糯",
           "description": "青金色的李子，非常甜，香气细腻，被誉为最好的李子之一。",
           "conservation": "常温放置数日，之后冷藏。",
@@ -2023,7 +1850,7 @@
         },
         "ar": {
           "nom": "برقوق رين كلود",
-          "type": "فاكهة",
+          "type": "فواكه ذات نواة",
           "gout": "حلو جداً، عطري وطري",
           "description": "برقوق أخضر ذهبي شديد الحلاوة وعطره رقيق، يُعدّ من أجود أنواع البرقوق.",
           "conservation": "بضعة أيام في درجة حرارة الغرفة ثم في الثلاجة.",
@@ -2034,7 +1861,7 @@
     },
     {
       "nom": "Patate douce",
-      "type": "Racine",
+      "type": "Légumes racines",
       "saisons": [
         9,
         10,
@@ -2053,7 +1880,7 @@
       "traductions": {
         "en": {
           "nom": "Sweet potato",
-          "type": "Root",
+          "type": "Root vegetables",
           "gout": "Sweet, soft, lightly sugary",
           "description": "A tuber with soft, sweet orange flesh, delicious roasted.",
           "conservation": "Several weeks in a cool, dry place away from light.",
@@ -2062,7 +1889,7 @@
         },
         "es": {
           "nom": "Batata",
-          "type": "Raíz",
+          "type": "Raíces y tubérculos",
           "gout": "Dulce, tierna, ligeramente azucarada",
           "description": "Tubérculo de pulpa naranja, dulce y tierna, deliciosa asada.",
           "conservation": "Varias semanas en un lugar fresco y seco, protegida de la luz.",
@@ -2071,7 +1898,7 @@
         },
         "zh": {
           "nom": "红薯",
-          "type": "根茎类",
+          "type": "根茎类蔬菜",
           "gout": "香甜软糯，微甜",
           "description": "橙色果肉香甜软糯的块茎，烤着吃尤其美味。",
           "conservation": "置于阴凉干燥避光处，可保存数周。",
@@ -2080,7 +1907,7 @@
         },
         "ar": {
           "nom": "بطاطا حلوة",
-          "type": "جذري",
+          "type": "خضار جذرية",
           "gout": "حلو وطري وسكري خفيف",
           "description": "درنة بلبّ برتقالي حلو وطري، لذيذة مشوية.",
           "conservation": "عدة أسابيع في مكان بارد وجاف بعيداً عن الضوء.",
@@ -2091,7 +1918,7 @@
     },
     {
       "nom": "Pomme Chanteclerc",
-      "type": "Fruit",
+      "type": "Fruits à pépins",
       "saisons": [
         10,
         11,
@@ -2115,7 +1942,7 @@
       "traductions": {
         "en": {
           "nom": "Chanteclerc apple",
-          "type": "Fruit",
+          "type": "Pome fruit",
           "gout": "Crunchy, juicy, balanced between sweet and tangy",
           "description": "A French apple with firm, crunchy flesh that keeps for a long time.",
           "conservation": "Several weeks in a cool place, away from other fruit.",
@@ -2126,7 +1953,7 @@
         },
         "es": {
           "nom": "Manzana Chanteclerc",
-          "type": "Fruta",
+          "type": "Frutas de pepita",
           "gout": "Crujiente, jugosa, equilibrada entre dulce y ácida",
           "description": "Manzana francesa de pulpa firme y crujiente, de larga conservación.",
           "conservation": "Varias semanas en lugar fresco, lejos de otras frutas.",
@@ -2137,7 +1964,7 @@
         },
         "zh": {
           "nom": "尚特克莱克苹果",
-          "type": "水果",
+          "type": "仁果类水果",
           "gout": "爽脆多汁，酸甜平衡",
           "description": "法国产苹果，果肉紧实爽脆，耐储存。",
           "conservation": "在阴凉处可保存数周，与其他水果分开放置。",
@@ -2148,7 +1975,7 @@
         },
         "ar": {
           "nom": "تفاح شانتكلير",
-          "type": "فاكهة",
+          "type": "فواكه بذرية",
           "gout": "مقرمش وعصيري، متوازن بين الحلو والحامض",
           "description": "تفاح فرنسي بلبّ متماسك ومقرمش، يُحفظ طويلاً.",
           "conservation": "عدة أسابيع في مكان بارد، بعيداً عن الفواكه الأخرى.",
@@ -2162,7 +1989,7 @@
     },
     {
       "nom": "Citron vert",
-      "type": "Agrume",
+      "type": "Agrumes",
       "saisons": [
         1,
         2,
@@ -2186,7 +2013,7 @@
       "traductions": {
         "en": {
           "nom": "Lime",
-          "type": "Citrus",
+          "type": "Citrus fruit",
           "gout": "Sharp, zesty, very fragrant",
           "description": "A small green citrus fruit with tart juice and a very aromatic zest.",
           "conservation": "One to two weeks in the vegetable drawer.",
@@ -2195,7 +2022,7 @@
         },
         "es": {
           "nom": "Lima",
-          "type": "Cítrico",
+          "type": "Cítricos",
           "gout": "Ácida, viva, muy aromática",
           "description": "Pequeño cítrico verde de zumo ácido y corteza muy aromática.",
           "conservation": "Una o dos semanas en el cajón de verduras.",
@@ -2223,194 +2050,8 @@
       }
     },
     {
-      "nom": "Graines de courge",
-      "type": "Graine",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Croquant, noisette, légèrement sucré",
-      "description": "Graines plates et vertes de la courge, à croquer nature ou grillées.",
-      "conservation": "Plusieurs mois dans un bocal fermé, au sec et à l'abri de la lumière.",
-      "idees": "Nature en topping, grillées à sec, concassées sur un dessert ou un velouté.",
-      "bienfaits": "Riches en protéines végétales, en magnésium et en zinc, utiles à la récupération musculaire. Contiennent de bonnes graisses.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Pumpkin seeds",
-          "type": "Seed",
-          "gout": "Crunchy, nutty, lightly sweet",
-          "description": "The flat green seeds of the pumpkin, eaten plain or toasted.",
-          "conservation": "Several months in a closed jar, dry and away from light.",
-          "idees": "Plain as a topping, dry-toasted, crushed over a dessert or a soup.",
-          "bienfaits": "Rich in plant protein, magnesium and zinc, useful for muscle recovery. They contain healthy fats."
-        },
-        "es": {
-          "nom": "Semillas de calabaza",
-          "type": "Semilla",
-          "gout": "Crujientes, a nuez, ligeramente dulces",
-          "description": "Semillas planas y verdes de la calabaza, para comer al natural o tostadas.",
-          "conservation": "Varios meses en un frasco cerrado, en seco y protegidas de la luz.",
-          "idees": "Al natural como topping, tostadas en seco, troceadas sobre un postre o una crema.",
-          "bienfaits": "Ricas en proteína vegetal, magnesio y zinc, útiles para la recuperación muscular. Contienen grasas saludables."
-        },
-        "zh": {
-          "nom": "南瓜籽",
-          "type": "种子类",
-          "gout": "香脆，带坚果香，微甜",
-          "description": "南瓜扁平的绿色种子，可直接吃或烘烤后吃。",
-          "conservation": "放入密封罐，置于干燥避光处，可保存数月。",
-          "idees": "直接撒在餐食上、干烤、碎后撒在甜点或浓汤上。",
-          "bienfaits": "富含植物蛋白、镁和锌，有助于肌肉恢复。含有优质脂肪。"
-        },
-        "ar": {
-          "nom": "بذور القرع",
-          "type": "بذور",
-          "gout": "مقرمشة بنكهة المكسرات وحلاوة خفيفة",
-          "description": "بذور القرع الخضراء المسطحة، تؤكل نيئة أو محمصة.",
-          "conservation": "عدة أشهر في برطمان مغلق، في مكان جاف بعيداً عن الضوء.",
-          "idees": "كما هي فوق الأطباق، أو محمصة، أو مجروشة فوق حلوى أو شوربة.",
-          "bienfaits": "غنية بالبروتين النباتي والمغنيسيوم والزنك المفيدة لتعافي العضلات. تحتوي على دهون صحية."
-        }
-      }
-    },
-    {
-      "nom": "Miel du Gâtinais",
-      "type": "Produit de la ruche",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Doux, floral, rond",
-      "description": "Miel récolté dans la région du Gâtinais, au parfum floral et à la texture onctueuse.",
-      "conservation": "Plusieurs années à température ambiante, au sec et à l'abri de la lumière.",
-      "idees": "Sur des fruits rôtis, des légumes rôtis, dans une vinaigrette ou un yaourt.",
-      "bienfaits": "Source de glucides naturels à assimilation rapide, utiles pour un coup de pouce énergétique. À consommer avec modération.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Gâtinais honey",
-          "type": "Hive product",
-          "gout": "Mild, floral, smooth",
-          "description": "Honey harvested in the Gâtinais region, with a floral scent and a creamy texture.",
-          "conservation": "Several years at room temperature, dry and away from light.",
-          "idees": "On roasted fruit, roasted vegetables, in a dressing or with yoghurt.",
-          "bienfaits": "A source of quickly absorbed natural carbohydrates, useful for an energy boost. To be eaten in moderation."
-        },
-        "es": {
-          "nom": "Miel del Gâtinais",
-          "type": "Producto de la colmena",
-          "gout": "Suave, floral, redondo",
-          "description": "Miel recolectada en la región del Gâtinais, de aroma floral y textura untuosa.",
-          "conservation": "Varios años a temperatura ambiente, en seco y protegido de la luz.",
-          "idees": "Sobre frutas o verduras asadas, en una vinagreta o con yogur.",
-          "bienfaits": "Fuente de hidratos de carbono naturales de rápida asimilación, útiles para un empujón de energía. Consumir con moderación."
-        },
-        "zh": {
-          "nom": "加蒂奈蜂蜜",
-          "type": "蜂产品",
-          "gout": "清甜，花香，圆润",
-          "description": "采自加蒂奈地区的蜂蜜，花香宜人，质地柔滑。",
-          "conservation": "常温下可保存数年，置于干燥避光处。",
-          "idees": "淋在烤水果或烤蔬菜上、做油醋汁或配酸奶。",
-          "bienfaits": "天然碳水化合物，吸收快，适合快速补充能量。请适量食用。"
-        },
-        "ar": {
-          "nom": "عسل الغاتينيه",
-          "type": "منتج النحل",
-          "gout": "لطيف وزهري ومتوازن",
-          "description": "عسل يُجنى في منطقة الغاتينيه، برائحة زهرية وقوام كريمي.",
-          "conservation": "عدة سنوات في درجة حرارة الغرفة، في مكان جاف بعيداً عن الضوء.",
-          "idees": "فوق الفواكه أو الخضار المشوية، أو في التتبيلة، أو مع الزبادي.",
-          "bienfaits": "مصدر للكربوهيدرات الطبيعية سريعة الامتصاص المفيدة لدفعة من الطاقة. يُستهلك باعتدال."
-        }
-      }
-    },
-    {
-      "nom": "Cumin",
-      "type": "Épice",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Chaud, terreux, légèrement poivré",
-      "description": "Graines aromatiques utilisées entières ou moulues, au parfum chaud et marqué.",
-      "conservation": "Plusieurs mois en boîte fermée, au sec et à l'abri de la lumière.",
-      "idees": "Sur des légumes rôtis, notamment la patate douce et la carotte, dans les soupes et les houmous.",
-      "bienfaits": "Apporte du goût sans calories notables, ce qui permet de limiter le sel. Utilisé traditionnellement pour le confort digestif.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Cumin",
-          "type": "Spice",
-          "gout": "Warm, earthy, lightly peppery",
-          "description": "Aromatic seeds used whole or ground, with a warm and distinctive scent.",
-          "conservation": "Several months in a closed tin, dry and away from light.",
-          "idees": "On roasted vegetables, especially sweet potato and carrot, in soups and hummus.",
-          "bienfaits": "Adds flavour with no significant calories, which helps reduce salt. Traditionally used for digestive comfort."
-        },
-        "es": {
-          "nom": "Comino",
-          "type": "Especia",
-          "gout": "Cálido, terroso, ligeramente picante",
-          "description": "Semillas aromáticas usadas enteras o molidas, de aroma cálido y marcado.",
-          "conservation": "Varios meses en una lata cerrada, en seco y protegido de la luz.",
-          "idees": "Sobre verduras asadas, sobre todo batata y zanahoria, en sopas y hummus.",
-          "bienfaits": "Aporta sabor sin calorías notables, lo que ayuda a reducir la sal. Se usa tradicionalmente para el confort digestivo."
-        },
-        "zh": {
-          "nom": "孜然",
-          "type": "香料",
-          "gout": "温暖，带泥土香，微辛",
-          "description": "芳香的种子，可整粒或磨粉使用，气味温暖而鲜明。",
-          "conservation": "放入密封罐，置于干燥避光处，可保存数月。",
-          "idees": "撒在烤蔬菜上，尤其是红薯和胡萝卜，也可用于汤和鹰嘴豆泥。",
-          "bienfaits": "增添风味而热量可忽略，有助于减少盐的用量。传统上用于舒缓肠胃。"
-        },
-        "ar": {
-          "nom": "الكمون",
-          "type": "توابل",
-          "gout": "دافئ وترابي وحار قليلاً",
-          "description": "بذور عطرية تُستعمل كاملة أو مطحونة، برائحة دافئة مميزة.",
-          "conservation": "عدة أشهر في علبة مغلقة، في مكان جاف بعيداً عن الضوء.",
-          "idees": "فوق الخضار المشوية، خاصة البطاطا الحلوة والجزر، وفي الشوربات والحمص.",
-          "bienfaits": "يضيف نكهة بلا سعرات تُذكر، مما يساعد على تقليل الملح. يُستعمل تقليدياً لراحة الهضم."
-        }
-      }
-    },
-    {
       "nom": "Coriandre",
-      "type": "Herbe aromatique",
+      "type": "Herbes aromatiques",
       "saisons": [
         5,
         6,
@@ -2428,7 +2069,7 @@
       "traductions": {
         "en": {
           "nom": "Coriander",
-          "type": "Herb",
+          "type": "Fresh herbs",
           "gout": "Fresh, citrusy, very aromatic",
           "description": "A fresh herb with cut leaves and a fresh, distinctive scent.",
           "conservation": "A few days in the fridge, stems in a glass of water or wrapped in a damp cloth.",
@@ -2437,7 +2078,7 @@
         },
         "es": {
           "nom": "Cilantro",
-          "type": "Hierba aromática",
+          "type": "Hierbas aromáticas",
           "gout": "Fresco, cítrico, muy aromático",
           "description": "Hierba fresca de hojas recortadas, de aroma fresco y marcado.",
           "conservation": "Unos días en frío, con los tallos en un vaso de agua o envuelta en un paño húmedo.",
@@ -2455,7 +2096,7 @@
         },
         "ar": {
           "nom": "الكزبرة",
-          "type": "عشب عطري",
+          "type": "أعشاب عطرية",
           "gout": "منعش وفيه نفحة حمضية، عطري جداً",
           "description": "عشب طازج بأوراق مفصصة، برائحة منعشة مميزة.",
           "conservation": "بضعة أيام في الثلاجة، مع وضع السيقان في كوب ماء أو لفّها بقطعة قماش رطبة.",
@@ -2466,7 +2107,7 @@
     },
     {
       "nom": "Prune Lovita",
-      "type": "Fruit",
+      "type": "Fruits à noyau",
       "saisons": [
         8,
         9
@@ -2480,7 +2121,7 @@
       "traductions": {
         "en": {
           "nom": "Lovita plum",
-          "type": "Fruit",
+          "type": "Stone fruit",
           "gout": "Sweet, juicy, lightly tart",
           "description": "A blue-purple plum with firm, juicy and very fragrant flesh.",
           "conservation": "A few days at room temperature, then in the fridge.",
@@ -2489,7 +2130,7 @@
         },
         "es": {
           "nom": "Ciruela Lovita",
-          "type": "Fruta",
+          "type": "Frutas de hueso",
           "gout": "Dulce, jugosa, ligeramente ácida",
           "description": "Ciruela azul violácea de pulpa firme, jugosa y muy aromática.",
           "conservation": "Unos días a temperatura ambiente, luego en frío.",
@@ -2498,7 +2139,7 @@
         },
         "zh": {
           "nom": "洛维塔李",
-          "type": "水果",
+          "type": "核果类水果",
           "gout": "香甜多汁，略带酸味",
           "description": "蓝紫色李子，果肉紧实多汁，香气浓郁。",
           "conservation": "常温放置数日，之后冷藏。",
@@ -2507,7 +2148,7 @@
         },
         "ar": {
           "nom": "برقوق لوفيتا",
-          "type": "فاكهة",
+          "type": "فواكه ذات نواة",
           "gout": "حلو وعصيري وفيه حموضة خفيفة",
           "description": "برقوق أزرق بنفسجي بلب متماسك وعصيري وعطري جداً.",
           "conservation": "بضعة أيام في درجة حرارة الغرفة ثم في الثلاجة.",
@@ -2518,7 +2159,7 @@
     },
     {
       "nom": "Prune Sunkiss",
-      "type": "Fruit",
+      "type": "Fruits à noyau",
       "saisons": [
         7,
         8,
@@ -2533,7 +2174,7 @@
       "traductions": {
         "en": {
           "nom": "Sunkiss plum",
-          "type": "Fruit",
+          "type": "Stone fruit",
           "gout": "Sweet and fragrant",
           "description": "A seasonal plum with a sweet taste and melting flesh.",
           "conservation": "A few days at room temperature, then in the fridge.",
@@ -2542,7 +2183,7 @@
         },
         "es": {
           "nom": "Ciruela Sunkiss",
-          "type": "Fruta",
+          "type": "Frutas de hueso",
           "gout": "Dulce y aromática",
           "description": "Ciruela de temporada de sabor dulce y pulpa fundente.",
           "conservation": "Unos días a temperatura ambiente, luego en frío.",
@@ -2551,7 +2192,7 @@
         },
         "zh": {
           "nom": "Sunkiss李",
-          "type": "水果",
+          "type": "核果类水果",
           "gout": "香甜，气味芬芳",
           "description": "时令李子，味道香甜，果肉软糯。",
           "conservation": "常温放置数日，之后冷藏。",
@@ -2560,7 +2201,7 @@
         },
         "ar": {
           "nom": "برقوق صن كيسس",
-          "type": "فاكهة",
+          "type": "فواكه ذات نواة",
           "gout": "حلو وعطري",
           "description": "برقوق موسمي بطعم حلو ولب طري.",
           "conservation": "بضعة أيام في درجة حرارة الغرفة ثم في الثلاجة.",
@@ -2571,7 +2212,7 @@
     },
     {
       "nom": "Cèpes de forêt",
-      "type": "Champignon",
+      "type": "Champignons",
       "saisons": [
         8,
         9,
@@ -2587,7 +2228,7 @@
       "traductions": {
         "en": {
           "nom": "Forest porcini mushrooms",
-          "type": "Mushroom",
+          "type": "Mushrooms",
           "gout": "Woody, nutty, full of flavour",
           "description": "A forest mushroom with a brown cap and thick stem, with dense, fragrant flesh.",
           "conservation": "Two to three days in the fridge, in paper or a cloth, never in a plastic bag.",
@@ -2596,7 +2237,7 @@
         },
         "es": {
           "nom": "Boletus de bosque",
-          "type": "Hongo",
+          "type": "Hongos",
           "gout": "De bosque, a nuez, muy sabroso",
           "description": "Hongo de bosque de sombrero marrón y pie grueso, de carne densa y aromática.",
           "conservation": "Dos o tres días en frío, en papel o en un paño, nunca en bolsa de plástico.",
@@ -2625,7 +2266,7 @@
     },
     {
       "nom": "Persil",
-      "type": "Herbe aromatique",
+      "type": "Herbes aromatiques",
       "saisons": [
         1,
         2,
@@ -2649,7 +2290,7 @@
       "traductions": {
         "en": {
           "nom": "Parsley",
-          "type": "Herb",
+          "type": "Fresh herbs",
           "gout": "Fresh, herbal, lightly peppery",
           "description": "A fresh herb with green leaves, the most widely used in French cooking.",
           "conservation": "A few days in the fridge, stems in a glass of water or wrapped in a damp cloth.",
@@ -2658,7 +2299,7 @@
         },
         "es": {
           "nom": "Perejil",
-          "type": "Hierba aromática",
+          "type": "Hierbas aromáticas",
           "gout": "Fresco, herbáceo, ligeramente picante",
           "description": "Hierba fresca de hojas verdes, la más usada en la cocina francesa.",
           "conservation": "Unos días en frío, con los tallos en un vaso de agua o envuelto en un paño húmedo.",
@@ -2676,7 +2317,7 @@
         },
         "ar": {
           "nom": "البقدونس",
-          "type": "عشب عطري",
+          "type": "أعشاب عطرية",
           "gout": "منعش وعشبي وحار قليلاً",
           "description": "عشب طازج بأوراق خضراء، وهو الأكثر استعمالاً في المطبخ الفرنسي.",
           "conservation": "بضعة أيام في الثلاجة، مع وضع السيقان في كوب ماء أو لفّها بقطعة قماش رطبة.",
@@ -2686,132 +2327,8 @@
       }
     },
     {
-      "nom": "Fleur de sel",
-      "type": "Condiment",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Fin, délicat, légèrement iodé",
-      "description": "Fine couche de cristaux de sel récoltée à la main à la surface des marais salants.",
-      "conservation": "Plusieurs années au sec, dans un récipient fermé.",
-      "idees": "Une pincée en finition sur des champignons, des légumes, des fruits rôtis ou une salade.",
-      "bienfaits": "Utilisée en fin de cuisson, une petite quantité suffit à relever le goût. À consommer avec modération.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Fleur de sel",
-          "type": "Condiment",
-          "gout": "Fine, delicate, lightly briny",
-          "description": "A thin layer of salt crystals hand-harvested from the surface of salt marshes.",
-          "conservation": "Several years in a dry, closed container.",
-          "idees": "A pinch to finish mushrooms, vegetables, roasted fruit or a salad.",
-          "bienfaits": "Used at the end of cooking, a small amount is enough to lift the flavour. To be eaten in moderation."
-        },
-        "es": {
-          "nom": "Flor de sal",
-          "type": "Condimento",
-          "gout": "Fina, delicada, ligeramente yodada",
-          "description": "Fina capa de cristales de sal recogida a mano en la superficie de las salinas.",
-          "conservation": "Varios años en un recipiente cerrado y seco.",
-          "idees": "Una pizca para terminar champiñones, verduras, frutas asadas o una ensalada.",
-          "bienfaits": "Usada al final de la cocción, basta una pequeña cantidad para realzar el sabor. Consumir con moderación."
-        },
-        "zh": {
-          "nom": "盐之花",
-          "type": "调味料",
-          "gout": "细腻，温和，略带海洋气息",
-          "description": "在盐田表面手工采收的一层细盐结晶。",
-          "conservation": "放入干燥密封容器，可保存数年。",
-          "idees": "撒一小撮在蘑菇、蔬菜、烤水果或沙拉上提味。",
-          "bienfaits": "在烹饪最后使用，少量即可提味。请适量食用。"
-        },
-        "ar": {
-          "nom": "زهرة الملح",
-          "type": "توابل",
-          "gout": "ناعمة ورقيقة بنكهة بحرية خفيفة",
-          "description": "طبقة رقيقة من بلورات الملح تُجمع يدوياً من سطح الملاحات.",
-          "conservation": "عدة سنوات في وعاء مغلق وجاف.",
-          "idees": "رشة في النهاية فوق الفطر أو الخضار أو الفواكه المشوية أو السلطة.",
-          "bienfaits": "تُستعمل في نهاية الطهي وتكفي كمية صغيرة لإبراز النكهة. تُستهلك باعتدال."
-        }
-      }
-    },
-    {
-      "nom": "Cannelle",
-      "type": "Épice",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "gout": "Chaud, sucré, boisé",
-      "description": "Écorce séchée et roulée d'un arbuste tropical, utilisée en bâton ou en poudre.",
-      "conservation": "Plusieurs mois en boîte fermée, au sec et à l'abri de la lumière.",
-      "idees": "Saupoudrée sur une crème de fruits, des fruits rôtis, un yaourt ou un velouté.",
-      "bienfaits": "Parfume les desserts sans ajouter de sucre. Utilisée traditionnellement pour sa saveur douce et réconfortante.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Cinnamon",
-          "type": "Spice",
-          "gout": "Warm, sweet, woody",
-          "description": "The dried, rolled bark of a tropical tree, used as sticks or powder.",
-          "conservation": "Several months in a closed tin, dry and away from light.",
-          "idees": "Sprinkled on a fruit cream, roasted fruit, yoghurt or soup.",
-          "bienfaits": "Flavours desserts without adding sugar. Traditionally used for its gentle, comforting taste."
-        },
-        "es": {
-          "nom": "Canela",
-          "type": "Especia",
-          "gout": "Cálida, dulce, amaderada",
-          "description": "Corteza seca y enrollada de un árbol tropical, usada en rama o en polvo.",
-          "conservation": "Varios meses en una lata cerrada, en seco y protegida de la luz.",
-          "idees": "Espolvoreada sobre una crema de fruta, fruta asada, yogur o crema.",
-          "bienfaits": "Aromatiza los postres sin añadir azúcar. Se usa tradicionalmente por su sabor suave y reconfortante."
-        },
-        "zh": {
-          "nom": "肉桂",
-          "type": "香料",
-          "gout": "温暖，香甜，带木质香",
-          "description": "热带树木的树皮，经干燥卷曲而成，可用棒状或粉状。",
-          "conservation": "放入密封罐，置于干燥避光处，可保存数月。",
-          "idees": "撒在水果奶油、烤水果、酸奶或浓汤上。",
-          "bienfaits": "无需加糖即可为甜点增香。传统上因其温和舒适的口感而被使用。"
-        },
-        "ar": {
-          "nom": "القرفة",
-          "type": "توابل",
-          "gout": "دافئة وحلوة وخشبية",
-          "description": "لحاء مجفف وملفوف من شجرة استوائية، يُستعمل أعواداً أو مطحوناً.",
-          "conservation": "عدة أشهر في علبة مغلقة، في مكان جاف بعيداً عن الضوء.",
-          "idees": "مرشوشة فوق كريمة الفواكه أو الفواكه المشوية أو الزبادي أو الشوربة.",
-          "bienfaits": "تعطّر الحلويات دون إضافة سكر. تُستعمل تقليدياً لنكهتها اللطيفة والمريحة."
-        }
-      }
-    },
-    {
       "nom": "Figue de Solliès",
-      "type": "Fruit",
+      "type": "Autres fruits",
       "saisons": [
         8,
         9,
@@ -2827,7 +2344,7 @@
       "traductions": {
         "en": {
           "nom": "Solliès fig",
-          "type": "Fruit",
+          "type": "Other fruit",
           "gout": "Very sweet, melting, fragrant",
           "description": "A purple AOP fig from the Var, with a thin, almost black skin and red, juicy, very sweet flesh.",
           "conservation": "Very delicate: 2 to 3 days in the fridge, eat quickly.",
@@ -2837,7 +2354,7 @@
         },
         "es": {
           "nom": "Higo de Solliès",
-          "type": "Fruta",
+          "type": "Otras frutas",
           "gout": "Muy dulce, fundente, aromático",
           "description": "Higo violeta AOP del Var, de piel fina casi negra y pulpa roja, jugosa y muy dulce.",
           "conservation": "Muy delicado: de 2 a 3 días en frío, consumir pronto.",
@@ -2847,7 +2364,7 @@
         },
         "zh": {
           "nom": "索利耶斯无花果",
-          "type": "水果",
+          "type": "其他水果",
           "gout": "非常香甜，软糯芬芳",
           "description": "来自瓦尔省的紫色AOP无花果，果皮薄而近乎黑色，果肉红润多汁、非常香甜。",
           "conservation": "非常娇嫩：冷藏可保存2至3天，请尽快食用。",
@@ -2857,7 +2374,7 @@
         },
         "ar": {
           "nom": "تين سوليس",
-          "type": "فاكهة",
+          "type": "فواكه أخرى",
           "gout": "حلو جداً، طري وعطري",
           "description": "تين بنفسجي محمي بتسمية المنشأ (AOP) من منطقة الفار، بقشرة رقيقة تكاد تكون سوداء ولبّ أحمر عصيري وحلو جداً.",
           "conservation": "شديد الحساسية: من يومين إلى ثلاثة أيام في الثلاجة، ويُؤكل سريعاً.",
