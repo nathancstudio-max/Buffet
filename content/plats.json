@@ -67,7 +67,7 @@
     {
       "ingredients": "Eau aromatisée : concombre, céleri, citron vert, pomme",
       "pastilles": [],
-      "histoire_image": "/images/eau.png",
+      "histoire_image": "",
       "nom": "Teddy Riner",
       "allergenes": [
         "Céleri"
@@ -105,7 +105,7 @@
         "Citron vert"
       ],
       "categorie": "Les jus olympiques",
-      "image": "",
+      "image": "/images/eau.png",
       "description": "",
       "bienfaits": "Une eau aromatisée très hydratante et légère, sans sucre ajouté. Idéale en récupération ou pour une pause légère.",
       "etiquette": "L'équilibre"
@@ -279,7 +279,7 @@
       "ingredients": "Cèpes de forêt, persil et fleur de sel",
       "histoire_titre": "Paul Bocuse, le pape de la gastronomie",
       "pastilles": [],
-      "histoire_image": "",
+      "histoire_image": "/images/paul-bocuse.jpg",
       "nom": "Paul Bocuse",
       "histoire": "Paul Bocuse naît en 1926 à Collonges-au-Mont-d'Or, près de Lyon, dans une famille de cuisiniers qui tient l'auberge du Pont de Collonges, au bord de la Saône.\n\nÀ 18 ans, il s'engage dans l'armée de la Libération. Gravement blessé en Alsace, il reçoit la Croix de guerre. La paix revenue, il se forme auprès de grands noms de la cuisine lyonnaise : Eugénie Brazier, puis Fernand Point.\n\nMeilleur Ouvrier de France en 1961, il reprend l'auberge familiale et l'emmène au sommet : le restaurant décroche trois étoiles au Guide Michelin en 1965 et les garde pendant 55 ans, un record.\n\nAvec la nouvelle cuisine, il défend des produits frais et de saison, des cuissons plus justes, des assiettes plus légères. En 1975, il crée pour l'Élysée la célèbre soupe aux truffes, aujourd'hui servie sous le nom de Soupe V.G.E. Il fait aussi des cuisiniers des figures publiques.\n\nEn 1987 naît le Bocuse d'Or, concours mondial de cuisine souvent comparé aux Jeux olympiques de la gastronomie : même exigence, même goût de l'excellence et du dépassement. Paul Bocuse s'éteint à Collonges le 20 janvier 2018, à 91 ans, nommé « Chef du siècle » par le Culinary Institute of America.\n\nCe plat s'en inspire : des cèpes de forêt, du persil, une pincée de fleur de sel. Peu d'ingrédients, de la saison, et le goût avant tout.",
       "allergenes": [],
@@ -324,7 +324,7 @@
       ],
       "intitule": "",
       "categorie": "Préparations olympiques salées",
-      "image": "",
+      "image": "/images/cepe.jpg",
       "description": "",
       "bienfaits": "Une préparation simple et savoureuse : les cèpes, peu caloriques, apportent des fibres, des protéines végétales et du potassium. Le persil relève le plat, la fleur de sel le finit sans excès.",
       "etiquette": ""
@@ -370,7 +370,7 @@
       ],
       "intitule": "La ferveur des supporters",
       "categorie": "Préparations olympiques sucrées",
-      "image": "",
+      "image": "/images/1bc30e52-02d5-4257-8275-e1e4a8197d6f.jpg",
       "description": "",
       "bienfaits": "Un dessert fruité et énergisant : la prune apporte des glucides naturels, les graines de courge aident à la récupération.",
       "etiquette": ""
@@ -414,7 +414,7 @@
       ],
       "intitule": "Départ fruité",
       "categorie": "Préparations olympiques sucrées",
-      "image": "",
+      "image": "/images/da3e2301-9298-4c5b-a2b2-e3677346efd2.jpg",
       "description": "",
       "bienfaits": "Une préparation fruitée et énergisante : la banane apporte des glucides naturels, les noix de bonnes graisses, et les fruits frais de la fraîcheur.",
       "etiquette": ""
