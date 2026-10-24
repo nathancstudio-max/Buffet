@@ -67,6 +67,7 @@
     {
       "ingredients": "Eau aromatisée : concombre, céleri, citron vert, pomme",
       "pastilles": [],
+      "histoire_image": "/images/eau.png",
       "nom": "Teddy Riner",
       "allergenes": [
         "Céleri"
@@ -112,7 +113,7 @@
     {
       "ingredients": "Betterave, poire",
       "pastilles": [],
-      "histoire_image": "/images/jus-rouge.png",
+      "histoire_image": "",
       "nom": "Léon Marchand",
       "discipline": "Natation",
       "traductions": {
@@ -145,7 +146,7 @@
         "Betterave"
       ],
       "categorie": "Les jus olympiques",
-      "image": "",
+      "image": "/images/jus-rouge.png",
       "description": "",
       "bienfaits": "La betterave apporte des nitrates naturels, souvent étudiés dans le sport d'endurance, et la poire des fibres. Un jus coloré et énergétique, idéal pour le sport.",
       "etiquette": "Énergie"
@@ -269,7 +270,7 @@
       "legumes": [],
       "intitule": "Le plateau des champions",
       "categorie": "Préparations olympiques salées",
-      "image": "",
+      "image": "/images/6db091b9-5447-459b-87f0-88ac1bce919c.jpg",
       "description": "",
       "bienfaits": "Des légumes crus de saison à croquer : de l'eau, des fibres, des vitamines et des minéraux. Le guacamole apporte de bonnes graisses et du potassium. Une collation idéale avant ou après l'effort.",
       "etiquette": ""
