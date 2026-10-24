@@ -112,6 +112,7 @@
     {
       "ingredients": "Betterave, poire",
       "pastilles": [],
+      "histoire_image": "/images/jus-rouge.png",
       "nom": "Léon Marchand",
       "discipline": "Natation",
       "traductions": {
@@ -152,6 +153,7 @@
     {
       "ingredients": "Smoothie d'automne : poire Comice, raisin rose Suffolk Red sans pépins",
       "pastilles": [],
+      "histoire_image": "",
       "nom": "Laura Flessel",
       "discipline": "Escrime",
       "traductions": {
