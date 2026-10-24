@@ -165,7 +165,7 @@
     if (hd && window.ResizeObserver) { hdObs = new ResizeObserver(setHdr); hdObs.observe(hd); }
   }
 
-  /* Contrôle segmenté « Menu du jour | Légumes disponibles aujourd'hui » : la pastille glisse d'un segment à l'autre */
+  /* Contrôle segmenté « Menu du jour | Légumes du moment » : la pastille glisse d'un segment à l'autre */
   function segmented(cur) {
     var from = segPrev == null ? cur : segPrev;
     return '<div class="seg-row"><nav class="seg" data-i="' + from + '" data-cur="' + cur + '" aria-label="' + esc(t("nav_label")) + '">' +
@@ -317,7 +317,7 @@
       '<span class="row-main"><span class="row-name">' + esc(p.nom) + "</span>" +
       (sub ? '<span class="row-sub">' + esc(sub) + "</span>" : "") +
       '<span class="row-ing">' + ingredientsHtml(p) + "</span>" +
-      (al.length ? '<span class="row-all">' + esc(t("contains")) + " : " + esc(al.join(", ")) + "</span>" : "") + "</span>" +
+      (al.length ? '<span class="row-all">' + esc(t(al.length === 1 ? "allergen1" : "allergens")) + " : " + esc(al.join(", ")) + "</span>" : "") + "</span>" +
       tagHtml(tr(p, "etiquette")) + ARROW + "</a></li>";
   }
   function tile(href, img, alt, tag, season, label, name) {
@@ -428,7 +428,7 @@
     }).join("");
     var al = allergList(p);
     var extra = "<dl><dt>" + esc(t("ingredients")) + "</dt><dd>" + ingredientsHtml(p) + "</dd>" +
-      (al.length ? "<dt>" + esc(t("allergens")) + '</dt><dd class="allergens">' + al.map(function (x) { return '<strong class="all-chip">' + esc(x) + "</strong>"; }).join("") + "</dd>" : "") +
+      (al.length ? "<dt>" + esc(t(al.length === 1 ? "allergen1" : "allergens")) + '</dt><dd class="allergens">' + al.map(function (x) { return '<strong class="all-chip">' + esc(x) + "</strong>"; }).join("") + "</dd>" : "") +
       (tr(p, "bienfaits") ? "<dt>" + esc(t("benefits")) + "</dt><dd>" + esc(tr(p, "bienfaits")) + "</dd>" : "") +
       (liens ? "<dt>" + esc(t("veg_links")) + '</dt><dd class="links">' + liens + "</dd>" : "") + "</dl>" +
       (tr(p, "histoire") ? '<a class="story-btn" href="#/histoire/' + esc(p.id) + '">' + esc(t("h_read")) + "</a>" : "");
