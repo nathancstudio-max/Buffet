@@ -1,20 +1,12 @@
 {
   "plats": [
     {
-      "nom": "Usain Bolt",
-      "categorie": "Les jus olympiques",
-      "etiquette": "Vitalité",
       "ingredients": "Orange, carotte",
       "pastilles": [
         "250 ml",
         "45 kcal pour 100 ml"
       ],
-      "description": "Une composition vive, fraîche et solaire, pensée pour réveiller les papilles dès la première gorgée. Ce jus associe la douceur fruitée de l'orange à la douceur naturelle de la carotte.",
-      "legumes": [
-        "Orange",
-        "Carotte"
-      ],
-      "image": "/images/le-gabin.jpg",
+      "nom": "Usain Bolt",
       "discipline": "Athlétisme",
       "traductions": {
         "en": {
@@ -62,25 +54,24 @@
           "bienfaits": "عصير مرطّب يمدّ الجسم بكربوهيدرات طبيعية لطاقة سريعة، وبفيتامين C (البرتقال) والبيتاكاروتين (الجزر). يُشرب قبل الجهد أو بعده."
         }
       },
-      "bienfaits": "Un jus hydratant qui apporte des glucides naturels pour une énergie rapide, de la vitamine C (orange) et du bêta-carotène (carotte). À boire avant ou après l'effort."
+      "legumes": [
+        "Orange",
+        "Carotte"
+      ],
+      "categorie": "Les jus olympiques",
+      "image": "/images/jus-orange.png",
+      "description": "Une composition vive, fraîche et solaire, pensée pour réveiller les papilles dès la première gorgée. Ce jus associe la douceur fruitée de l'orange à la douceur naturelle de la carotte.",
+      "bienfaits": "Un jus hydratant qui apporte des glucides naturels pour une énergie rapide, de la vitamine C (orange) et du bêta-carotène (carotte). À boire avant ou après l'effort.",
+      "etiquette": "Vitalité"
     },
     {
-      "nom": "Teddy Riner",
-      "categorie": "Les jus olympiques",
-      "etiquette": "L'équilibre",
       "ingredients": "Eau aromatisée : concombre, céleri, citron vert, pomme",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Concombre",
-        "Céleri",
-        "Citron vert"
-      ],
-      "image": "",
-      "discipline": "Judo",
+      "nom": "Teddy Riner",
       "allergenes": [
         "Céleri"
       ],
+      "discipline": "Judo",
       "traductions": {
         "en": {
           "discipline": "Judo",
@@ -107,19 +98,21 @@
           "bienfaits": "ماء بنكهات مرطّب وخفيف دون سكر مضاف. مثالي للتعافي أو لاستراحة خفيفة."
         }
       },
-      "bienfaits": "Une eau aromatisée très hydratante et légère, sans sucre ajouté. Idéale en récupération ou pour une pause légère."
+      "legumes": [
+        "Concombre",
+        "Céleri",
+        "Citron vert"
+      ],
+      "categorie": "Les jus olympiques",
+      "image": "",
+      "description": "",
+      "bienfaits": "Une eau aromatisée très hydratante et légère, sans sucre ajouté. Idéale en récupération ou pour une pause légère.",
+      "etiquette": "L'équilibre"
     },
     {
-      "nom": "Léon Marchand",
-      "categorie": "Les jus olympiques",
-      "etiquette": "Énergie",
       "ingredients": "Betterave, poire",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Betterave"
-      ],
-      "image": "",
+      "nom": "Léon Marchand",
       "discipline": "Natation",
       "traductions": {
         "en": {
@@ -147,22 +140,20 @@
           "bienfaits": "يمدّ الشمندر الجسم بالنترات الطبيعية التي كثيراً ما تُدرس في رياضات التحمّل، والإجاص بالألياف. عصير ملوّن ومنشّط، مثالي للرياضة."
         }
       },
-      "bienfaits": "La betterave apporte des nitrates naturels, souvent étudiés dans le sport d'endurance, et la poire des fibres. Un jus coloré et énergétique, idéal pour le sport."
+      "legumes": [
+        "Betterave"
+      ],
+      "categorie": "Les jus olympiques",
+      "image": "",
+      "description": "",
+      "bienfaits": "La betterave apporte des nitrates naturels, souvent étudiés dans le sport d'endurance, et la poire des fibres. Un jus coloré et énergétique, idéal pour le sport.",
+      "etiquette": "Énergie"
     },
     {
-      "nom": "Laura Flessel",
-      "categorie": "Les jus olympiques",
-      "etiquette": "",
       "ingredients": "Smoothie d'automne : poire Comice, raisin rose Suffolk Red sans pépins",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Poire Comice Oudard",
-        "Raisin Suffolk Red"
-      ],
-      "image": "",
+      "nom": "Laura Flessel",
       "discipline": "Escrime",
-      "intitule": "La légende des championnes",
       "traductions": {
         "en": {
           "discipline": "Fencing",
@@ -189,22 +180,22 @@
           "bienfaits": "يمدّ الإجاص والعنب الجسم بكربوهيدرات طبيعية لطاقة سريعة، مع فيتامين C والألياف. وجبة خفيفة لذيذة قبل التدريب."
         }
       },
-      "bienfaits": "La poire et le raisin apportent des glucides naturels pour une énergie rapide, avec de la vitamine C et des fibres. Une collation gourmande avant l'entraînement."
+      "legumes": [
+        "Poire Comice Oudard",
+        "Raisin Suffolk Red"
+      ],
+      "intitule": "La légende des championnes",
+      "categorie": "Les jus olympiques",
+      "image": "",
+      "description": "",
+      "bienfaits": "La poire et le raisin apportent des glucides naturels pour une énergie rapide, avec de la vitamine C et des fibres. Une collation gourmande avant l'entraînement.",
+      "etiquette": ""
     },
     {
-      "nom": "Nadia Comăneci",
-      "categorie": "Velouté olympique de saison",
-      "etiquette": "",
       "ingredients": "Velouté de potimarron, gingembre",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Potimarron",
-        "Gingembre"
-      ],
-      "image": "",
+      "nom": "Nadia Comăneci",
       "discipline": "Gymnastique",
-      "intitule": "Le chaudron olympique",
       "traductions": {
         "en": {
           "discipline": "Gymnastics",
@@ -231,19 +222,22 @@
           "bienfaits": "حساء كريمي مريح: يمدّ قرع البوتيمارون الجسم بكربوهيدرات معقّدة لطاقة تدوم، وبالبيتاكاروتين والبوتاسيوم. مثالي لوجبة التعافي، دافئ وسهل الهضم."
         }
       },
-      "bienfaits": "Un velouté réconfortant : le potimarron apporte des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Idéal pour un repas de récupération, chaud et digeste."
+      "legumes": [
+        "Potimarron",
+        "Gingembre"
+      ],
+      "intitule": "Le chaudron olympique",
+      "categorie": "Velouté olympique de saison",
+      "image": "",
+      "description": "",
+      "bienfaits": "Un velouté réconfortant : le potimarron apporte des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Idéal pour un repas de récupération, chaud et digeste.",
+      "etiquette": ""
     },
     {
-      "nom": "Pierre Durand et Jappeloup",
-      "categorie": "Préparations olympiques salées",
-      "etiquette": "",
       "ingredients": "Verrines de légumes crus de saison à croquer, guacamole revisité",
       "pastilles": [],
-      "description": "",
-      "legumes": [],
-      "image": "",
+      "nom": "Pierre Durand et Jappeloup",
       "discipline": "Équitation",
-      "intitule": "Le plateau des champions",
       "traductions": {
         "en": {
           "discipline": "Equestrian",
@@ -270,24 +264,23 @@
           "bienfaits": "خضار نيئة موسمية للقضم: ماء وألياف وفيتامينات ومعادن. ويضيف الغواكامولي دهوناً صحية وبوتاسيوم. وجبة خفيفة مثالية قبل الجهد أو بعده."
         }
       },
-      "bienfaits": "Des légumes crus de saison à croquer : de l'eau, des fibres, des vitamines et des minéraux. Le guacamole apporte de bonnes graisses et du potassium. Une collation idéale avant ou après l'effort."
+      "legumes": [],
+      "intitule": "Le plateau des champions",
+      "categorie": "Préparations olympiques salées",
+      "image": "",
+      "description": "",
+      "bienfaits": "Des légumes crus de saison à croquer : de l'eau, des fibres, des vitamines et des minéraux. Le guacamole apporte de bonnes graisses et du potassium. Une collation idéale avant ou après l'effort.",
+      "etiquette": ""
     },
     {
-      "nom": "Paul Bocuse",
-      "categorie": "Préparations olympiques salées",
-      "etiquette": "",
       "ingredients": "Cèpes de forêt, persil et fleur de sel",
+      "histoire_titre": "Paul Bocuse, le pape de la gastronomie",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Cèpes de forêt",
-        "Persil"
-      ],
-      "image": "",
-      "discipline": "Gastronomie",
-      "intitule": "",
+      "histoire_image": "",
+      "nom": "Paul Bocuse",
+      "histoire": "Paul Bocuse naît en 1926 à Collonges-au-Mont-d'Or, près de Lyon, dans une famille de cuisiniers qui tient l'auberge du Pont de Collonges, au bord de la Saône.\n\nÀ 18 ans, il s'engage dans l'armée de la Libération. Gravement blessé en Alsace, il reçoit la Croix de guerre. La paix revenue, il se forme auprès de grands noms de la cuisine lyonnaise : Eugénie Brazier, puis Fernand Point.\n\nMeilleur Ouvrier de France en 1961, il reprend l'auberge familiale et l'emmène au sommet : le restaurant décroche trois étoiles au Guide Michelin en 1965 et les garde pendant 55 ans, un record.\n\nAvec la nouvelle cuisine, il défend des produits frais et de saison, des cuissons plus justes, des assiettes plus légères. En 1975, il crée pour l'Élysée la célèbre soupe aux truffes, aujourd'hui servie sous le nom de Soupe V.G.E. Il fait aussi des cuisiniers des figures publiques.\n\nEn 1987 naît le Bocuse d'Or, concours mondial de cuisine souvent comparé aux Jeux olympiques de la gastronomie : même exigence, même goût de l'excellence et du dépassement. Paul Bocuse s'éteint à Collonges le 20 janvier 2018, à 91 ans, nommé « Chef du siècle » par le Culinary Institute of America.\n\nCe plat s'en inspire : des cèpes de forêt, du persil, une pincée de fleur de sel. Peu d'ingrédients, de la saison, et le goût avant tout.",
       "allergenes": [],
-      "bienfaits": "Une préparation simple et savoureuse : les cèpes, peu caloriques, apportent des fibres, des protéines végétales et du potassium. Le persil relève le plat, la fleur de sel le finit sans excès.",
+      "discipline": "Gastronomie",
       "traductions": {
         "en": {
           "discipline": "Gastronomy",
@@ -322,29 +315,25 @@
           "histoire": "وُلد بول بوكوس عام 1926 في كولونج أو مون دور قرب مدينة ليون، في عائلة من الطهاة تدير نزل «أوبيرج دو بون دو كولونج» على ضفاف نهر السّون.\n\nفي الثامنة عشرة تطوّع في جيش التحرير، وأصيب بجروح بالغة في الألزاس ونال وسام صليب الحرب. وبعد الحرب تتلمذ على أيدي كبار أعلام المطبخ الليوني: أوجيني برازييه ثم فرنان بوان.\n\nنال لقب «أفضل عامل في فرنسا» عام 1961، وتولّى إدارة نزل العائلة وقاده إلى القمة: حصل المطعم على ثلاث نجوم ميشلان عام 1965 واحتفظ بها 55 عاماً، وهو رقم قياسي.\n\nدافع مع «المطبخ الجديد» عن المنتجات الطازجة والموسمية وعن طهي أدق وأطباق أخف. وفي عام 1975 ابتكر لقصر الإليزيه شوربة الكمأة الشهيرة التي تُقدَّم اليوم باسم «Soupe V.G.E». كما ساهم في جعل الطهاة شخصيات عامة.\n\nوفي عام 1987 وُلدت مسابقة «بوكوس دور»، وهي مسابقة عالمية للطهي تُشبَّه غالباً بالألعاب الأولمبية لفن الطهي: الصرامة نفسها وحب التميّز والتفوّق. توفي بول بوكوس في كولونج يوم 20 يناير 2018 عن 91 عاماً، وكان قد لُقّب «طاهي القرن» من معهد الطهي الأمريكي.\n\nهذا الطبق مستوحى منه: فطر البورسيني من الغابة والبقدونس ورشة من زهرة الملح. مكوّنات قليلة وموسمية، والنكهة قبل كل شيء."
         }
       },
-      "histoire_titre": "Paul Bocuse, le pape de la gastronomie",
-      "histoire": "Paul Bocuse naît en 1926 à Collonges-au-Mont-d'Or, près de Lyon, dans une famille de cuisiniers qui tient l'auberge du Pont de Collonges, au bord de la Saône.\n\nÀ 18 ans, il s'engage dans l'armée de la Libération. Gravement blessé en Alsace, il reçoit la Croix de guerre. La paix revenue, il se forme auprès de grands noms de la cuisine lyonnaise : Eugénie Brazier, puis Fernand Point.\n\nMeilleur Ouvrier de France en 1961, il reprend l'auberge familiale et l'emmène au sommet : le restaurant décroche trois étoiles au Guide Michelin en 1965 et les garde pendant 55 ans, un record.\n\nAvec la nouvelle cuisine, il défend des produits frais et de saison, des cuissons plus justes, des assiettes plus légères. En 1975, il crée pour l'Élysée la célèbre soupe aux truffes, aujourd'hui servie sous le nom de Soupe V.G.E. Il fait aussi des cuisiniers des figures publiques.\n\nEn 1987 naît le Bocuse d'Or, concours mondial de cuisine souvent comparé aux Jeux olympiques de la gastronomie : même exigence, même goût de l'excellence et du dépassement. Paul Bocuse s'éteint à Collonges le 20 janvier 2018, à 91 ans, nommé « Chef du siècle » par le Culinary Institute of America.\n\nCe plat s'en inspire : des cèpes de forêt, du persil, une pincée de fleur de sel. Peu d'ingrédients, de la saison, et le goût avant tout.",
-      "histoire_image": ""
+      "legumes": [
+        "Cèpes de forêt",
+        "Persil"
+      ],
+      "intitule": "",
+      "categorie": "Préparations olympiques salées",
+      "image": "",
+      "description": "",
+      "bienfaits": "Une préparation simple et savoureuse : les cèpes, peu caloriques, apportent des fibres, des protéines végétales et du potassium. Le persil relève le plat, la fleur de sel le finit sans excès.",
+      "etiquette": ""
     },
     {
-      "nom": "Marie-José Pérec",
-      "categorie": "Préparations olympiques sucrées",
-      "etiquette": "",
       "ingredients": "Prunes d'automne rôties au miel du Gâtinais et graines de courge",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Prune Lovita",
-        "Prune Sunkiss",
-        "Prune Reine-Claude"
-      ],
-      "image": "",
-      "discipline": "Athlétisme",
-      "intitule": "La ferveur des supporters",
+      "nom": "Marie-José Pérec",
       "allergenes": [
         "Graines de courge"
       ],
-      "bienfaits": "Un dessert fruité et énergisant : la prune apporte des glucides naturels, les graines de courge aident à la récupération.",
+      "discipline": "Athlétisme",
       "traductions": {
         "en": {
           "discipline": "Athletics",
@@ -370,24 +359,27 @@
           "ingredients": "برقوق الخريف مشوي بعسل الغاتينيه وبذور القرع",
           "bienfaits": "حلوى فاكهية منشّطة: يمدّ البرقوق الجسم بكربوهيدرات طبيعية وتساعد بذور القرع على التعافي."
         }
-      }
+      },
+      "legumes": [
+        "Prune Lovita",
+        "Prune Sunkiss",
+        "Prune Reine-Claude"
+      ],
+      "intitule": "La ferveur des supporters",
+      "categorie": "Préparations olympiques sucrées",
+      "image": "",
+      "description": "",
+      "bienfaits": "Un dessert fruité et énergisant : la prune apporte des glucides naturels, les graines de courge aident à la récupération.",
+      "etiquette": ""
     },
     {
-      "nom": "Laure Manaudou",
-      "categorie": "Préparations olympiques sucrées",
-      "etiquette": "",
       "ingredients": "Verrine : crème de banane, cannelle et noix au fond, fruits frais de saison coupés par-dessus",
       "pastilles": [],
-      "description": "",
-      "legumes": [
-        "Banane française de Martinique"
-      ],
-      "image": "",
-      "discipline": "Natation",
+      "nom": "Laure Manaudou",
       "allergenes": [
         "Noix"
       ],
-      "bienfaits": "Une verrine fruitée et énergisante : la banane apporte des glucides naturels, les noix de bonnes graisses, et les fruits frais de la fraîcheur.",
+      "discipline": "Natation",
       "traductions": {
         "en": {
           "ingredients": "Verrine: banana cream, cinnamon and walnuts at the bottom, topped with freshly cut seasonal fruit",
@@ -414,7 +406,15 @@
           "intitule": "انطلاقة فاكهية"
         }
       },
-      "intitule": "Départ fruité"
+      "legumes": [
+        "Banane française de Martinique"
+      ],
+      "intitule": "Départ fruité",
+      "categorie": "Préparations olympiques sucrées",
+      "image": "",
+      "description": "",
+      "bienfaits": "Une verrine fruitée et énergisante : la banane apporte des glucides naturels, les noix de bonnes graisses, et les fruits frais de la fraîcheur.",
+      "etiquette": ""
     }
   ]
 }
