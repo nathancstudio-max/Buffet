@@ -2517,7 +2517,7 @@
       }
     },
     {
-      "nom": "Prune Sun Kises",
+      "nom": "Prune Sunkiss",
       "type": "Fruit",
       "saisons": [
         7,
@@ -2532,7 +2532,7 @@
       "image": "",
       "traductions": {
         "en": {
-          "nom": "Sun Kises plum",
+          "nom": "Sunkiss plum",
           "type": "Fruit",
           "gout": "Sweet and fragrant",
           "description": "A seasonal plum with a sweet taste and melting flesh.",
@@ -2541,7 +2541,7 @@
           "bienfaits": "Rich in water and fibre, with natural carbohydrates for gentle energy. A source of vitamin C and potassium."
         },
         "es": {
-          "nom": "Ciruela Sun Kises",
+          "nom": "Ciruela Sunkiss",
           "type": "Fruta",
           "gout": "Dulce y aromática",
           "description": "Ciruela de temporada de sabor dulce y pulpa fundente.",
@@ -2550,7 +2550,7 @@
           "bienfaits": "Rica en agua y fibra, con hidratos de carbono naturales para una energía suave. Fuente de vitamina C y potasio."
         },
         "zh": {
-          "nom": "Sun Kises李",
+          "nom": "Sunkiss李",
           "type": "水果",
           "gout": "香甜，气味芬芳",
           "description": "时令李子，味道香甜，果肉软糯。",
