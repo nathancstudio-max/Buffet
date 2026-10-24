@@ -1,335 +1,294 @@
 {
   "plats": [
     {
-      "ingredients": "Orange, carotte, pomme, citron, gingembre",
+      "nom": "Usain Bolt",
+      "categorie": "Les jus olympiques",
+      "etiquette": "Vitalité",
+      "ingredients": "Orange, carotte",
       "pastilles": [
         "250 ml",
         "45 kcal pour 100 ml"
       ],
-      "nom": "Usain Bolt",
+      "description": "Une composition vive, fraîche et solaire, pensée pour réveiller les papilles dès la première gorgée. Ce jus associe la douceur fruitée de l'orange à la douceur naturelle de la carotte.",
+      "legumes": [
+        "Orange",
+        "Carotte"
+      ],
+      "image": "/images/le-gabin.jpg",
       "discipline": "Athlétisme",
       "traductions": {
         "en": {
           "discipline": "Athletics",
           "etiquette": "Vitality",
-          "ingredients": "Orange, carrot, apple, lemon, ginger",
-          "description": "A lively, fresh and sunny blend, designed to wake up your taste buds from the very first sip. This juice pairs the fruity sweetness of orange and apple with the lightly spicy character of ginger, lifted by the tangy freshness of lemon and the natural sweetness of carrot.",
+          "ingredients": "Orange, carrot",
+          "description": "A lively, fresh and sunny blend, designed to wake up your taste buds from the very first sip. This juice pairs the fruity sweetness of orange with the natural sweetness of carrot.",
           "pastilles": [
             "250 ml",
             "45 kcal per 100 ml"
           ],
-          "bienfaits": "A hydrating juice providing natural carbohydrates for quick energy, vitamin C (orange, lemon) and beta-carotene (carrot). Ginger adds a kick with no added sugar. To drink before or after exercise."
+          "bienfaits": "A hydrating juice providing natural carbohydrates for quick energy, vitamin C (orange) and beta-carotene (carrot). To drink before or after exercise."
         },
         "es": {
           "discipline": "Atletismo",
           "etiquette": "Vitalidad",
-          "ingredients": "Naranja, zanahoria, manzana, limón, jengibre",
-          "description": "Una composición viva, fresca y soleada, pensada para despertar el paladar desde el primer sorbo. Este zumo combina la dulzura frutal de la naranja y la manzana con el carácter ligeramente picante del jengibre, realzado por la frescura ácida del limón y la dulzura natural de la zanahoria.",
+          "ingredients": "Naranja, zanahoria",
+          "description": "Una composición viva, fresca y soleada, pensada para despertar el paladar desde el primer sorbo. Este zumo combina la dulzura frutal de la naranja con la dulzura natural de la zanahoria.",
           "pastilles": [
             "250 ml",
             "45 kcal por 100 ml"
           ],
-          "bienfaits": "Un zumo hidratante que aporta hidratos de carbono naturales para una energía rápida, vitamina C (naranja, limón) y betacaroteno (zanahoria). El jengibre realza el sabor sin azúcar añadido. Para tomar antes o después del esfuerzo."
+          "bienfaits": "Un zumo hidratante que aporta hidratos de carbono naturales para una energía rápida, vitamina C (naranja) y betacaroteno (zanahoria). Para tomar antes o después del esfuerzo."
         },
         "zh": {
           "discipline": "田径",
           "etiquette": "活力",
-          "ingredients": "橙子、胡萝卜、苹果、柠檬、生姜",
-          "description": "这款果汁活泼、清新、充满阳光气息，从第一口起就唤醒您的味蕾。它将橙子与苹果的果香甘甜，同略带辛辣的生姜相融合，再以柠檬的清爽酸味和胡萝卜的天然甜味提升层次。",
+          "ingredients": "橙子、胡萝卜",
+          "description": "这款果汁活泼、清新、充满阳光气息，从第一口起就唤醒您的味蕾。它将橙子的果香甘甜与胡萝卜的天然甜味相融合。",
           "pastilles": [
             "250毫升",
             "每100毫升 45千卡"
           ],
-          "bienfaits": "这款果汁补水，提供天然碳水化合物以快速补充能量，并含有维生素C（橙子、柠檬）和β-胡萝卜素（胡萝卜）。生姜提味，无添加糖。适合在运动前后饮用。"
+          "bienfaits": "这款果汁补水，提供天然碳水化合物以快速补充能量，并含有维生素C（橙子）和β-胡萝卜素（胡萝卜）。适合在运动前后饮用。"
         },
         "ar": {
           "discipline": "ألعاب القوى",
           "etiquette": "حيوية",
-          "ingredients": "برتقال، جزر، تفاح، ليمون، زنجبيل",
-          "description": "تركيبة نابضة بالحياة ومنعشة ومشرقة، صُمّمت لإيقاظ حاسة التذوق منذ الرشفة الأولى. يجمع هذا العصير بين حلاوة البرتقال والتفاح الفاكهية ونكهة الزنجبيل الحارة قليلاً، مع انتعاش الليمون الحامض وحلاوة الجزر الطبيعية.",
+          "ingredients": "برتقال، جزر",
+          "description": "تركيبة نابضة بالحياة ومنعشة ومشرقة، صُمّمت لإيقاظ حاسة التذوق منذ الرشفة الأولى. يجمع هذا العصير بين حلاوة البرتقال الفاكهية وحلاوة الجزر الطبيعية.",
           "pastilles": [
             "250 مل",
             "45 سعرة حرارية لكل 100 مل"
           ],
-          "bienfaits": "عصير مرطّب يمدّ الجسم بكربوهيدرات طبيعية لطاقة سريعة، وبفيتامين C (البرتقال والليمون) والبيتاكاروتين (الجزر). يضيف الزنجبيل نكهة دون سكر مضاف. يُشرب قبل الجهد أو بعده."
+          "bienfaits": "عصير مرطّب يمدّ الجسم بكربوهيدرات طبيعية لطاقة سريعة، وبفيتامين C (البرتقال) والبيتاكاروتين (الجزر). يُشرب قبل الجهد أو بعده."
         }
       },
-      "legumes": [
-        "Orange",
-        "Carotte",
-        "Citron",
-        "Gingembre"
-      ],
-      "categorie": "Les jus olympiques",
-      "image": "/images/le-gabin.jpg",
-      "description": "Une composition vive, fraîche et solaire, pensée pour réveiller les papilles dès la première gorgée. Ce jus associe la douceur fruitée de l'orange et de la pomme au caractère légèrement épicé du gingembre, relevé par la fraîcheur acidulée du citron et la douceur naturelle de la carotte.",
-      "bienfaits": "Un jus hydratant qui apporte des glucides naturels pour une énergie rapide, de la vitamine C (orange, citron) et du bêta-carotène (carotte). Le gingembre relève le goût sans sucre ajouté. À boire avant ou après l'effort.",
-      "etiquette": "Vitalité"
+      "bienfaits": "Un jus hydratant qui apporte des glucides naturels pour une énergie rapide, de la vitamine C (orange) et du bêta-carotène (carotte). À boire avant ou après l'effort."
     },
     {
-      "ingredients": "Eau aromatisée : concombre, céleri, citron vert, pommes",
-      "pastilles": [],
       "nom": "Teddy Riner",
-      "allergenes": [
-        "Céleri"
-      ],
-      "discipline": "Judo",
-      "traductions": {
-        "en": {
-          "discipline": "Judo",
-          "etiquette": "Balance",
-          "ingredients": "Flavoured water: cucumber, celery, lime, apples",
-          "bienfaits": "A very hydrating, light flavoured water with no added sugar. Cucumber provides water, celery provides potassium and natural minerals lost through sweat, apple provides fibre and lime adds freshness. Ideal for recovery or a light break."
-        },
-        "es": {
-          "discipline": "Judo",
-          "etiquette": "El equilibrio",
-          "ingredients": "Agua aromatizada: pepino, apio, lima, manzanas",
-          "bienfaits": "Un agua aromatizada muy hidratante y ligera, sin azúcar añadido. El pepino aporta agua, el apio potasio y minerales naturales que se pierden con el sudor, la manzana fibra y la lima frescor. Ideal para la recuperación o una pausa ligera."
-        },
-        "zh": {
-          "discipline": "柔道",
-          "etiquette": "平衡",
-          "ingredients": "风味水：黄瓜、芹菜、青柠、苹果",
-          "bienfaits": "清爽、补水的风味水，不额外加糖。黄瓜提供水分，芹菜提供随汗水流失的钾和天然矿物质，苹果提供膳食纤维，青柠带来清新口感。适合运动后恢复或轻盈地休息一下。"
-        },
-        "ar": {
-          "discipline": "الجودو",
-          "etiquette": "التوازن",
-          "ingredients": "ماء بنكهات: خيار، كرفس، ليمون أخضر، تفاح",
-          "bienfaits": "ماء بنكهات مرطّب وخفيف دون سكر مضاف. يمدّ الخيار الجسم بالماء، والكرفس بالبوتاسيوم والمعادن الطبيعية التي تُفقد مع العرق، والتفاح بالألياف، ويضيف الليمون الأخضر انتعاشاً. مثالي للتعافي أو لاستراحة خفيفة."
-        }
-      },
+      "categorie": "Les jus olympiques",
+      "etiquette": "L'équilibre",
+      "ingredients": "Eau aromatisée : concombre, céleri, citron vert, pomme",
+      "pastilles": [],
+      "description": "",
       "legumes": [
         "Concombre",
         "Céleri",
         "Citron vert"
       ],
-      "categorie": "Les jus olympiques",
       "image": "",
-      "description": "",
-      "bienfaits": "Une eau aromatisée très hydratante et légère, sans sucre ajouté. Le concombre apporte de l'eau, le céleri du potassium et des minéraux naturels perdus avec la sueur, la pomme des fibres et le citron vert de la fraîcheur. Idéale en récupération ou pour une pause légère.",
-      "etiquette": "L'équilibre"
+      "discipline": "Judo",
+      "allergenes": [
+        "Céleri"
+      ],
+      "traductions": {
+        "en": {
+          "discipline": "Judo",
+          "etiquette": "Balance",
+          "ingredients": "Flavoured water: cucumber, celery, lime, apple",
+          "bienfaits": "A very hydrating, light flavoured water with no added sugar. Ideal for recovery or a light break."
+        },
+        "es": {
+          "discipline": "Judo",
+          "etiquette": "El equilibrio",
+          "ingredients": "Agua aromatizada: pepino, apio, lima, manzana",
+          "bienfaits": "Un agua aromatizada muy hidratante y ligera, sin azúcar añadido. Ideal para la recuperación o una pausa ligera."
+        },
+        "zh": {
+          "discipline": "柔道",
+          "etiquette": "平衡",
+          "ingredients": "风味水：黄瓜、芹菜、青柠、苹果",
+          "bienfaits": "清爽补水的风味水，不额外加糖。适合运动后恢复或轻盈地休息一下。"
+        },
+        "ar": {
+          "discipline": "الجودو",
+          "etiquette": "التوازن",
+          "ingredients": "ماء بنكهات: خيار، كرفس، ليمون أخضر، تفاح",
+          "bienfaits": "ماء بنكهات مرطّب وخفيف دون سكر مضاف. مثالي للتعافي أو لاستراحة خفيفة."
+        }
+      },
+      "bienfaits": "Une eau aromatisée très hydratante et légère, sans sucre ajouté. Idéale en récupération ou pour une pause légère."
     },
     {
-      "ingredients": "Betterave, carotte, pomme",
-      "pastilles": [],
       "nom": "Léon Marchand",
+      "categorie": "Les jus olympiques",
+      "etiquette": "Énergie",
+      "ingredients": "Betterave, poire",
+      "pastilles": [],
+      "description": "",
+      "legumes": [
+        "Betterave"
+      ],
+      "image": "",
       "discipline": "Natation",
       "traductions": {
         "en": {
           "discipline": "Swimming",
           "etiquette": "Energy",
-          "ingredients": "Beetroot, carrot, apple",
-          "bienfaits": "Beetroot provides natural nitrates, often studied in endurance sport, carrot provides beta-carotene and apple provides fibre. A colourful, energising juice, with potassium."
+          "ingredients": "Beetroot, pear",
+          "bienfaits": "Beetroot provides natural nitrates, often studied in endurance sport, and pear provides fibre. A colourful, energising juice, ideal for sport."
         },
         "es": {
           "discipline": "Natación",
           "etiquette": "Energía",
-          "ingredients": "Remolacha, zanahoria, manzana",
-          "bienfaits": "La remolacha aporta nitratos naturales, a menudo estudiados en el deporte de resistencia, la zanahoria betacaroteno y la manzana fibra. Un zumo colorido y energético, con potasio."
+          "ingredients": "Remolacha, pera",
+          "bienfaits": "La remolacha aporta nitratos naturales, a menudo estudiados en el deporte de resistencia, y la pera fibra. Un zumo colorido y energético, ideal para el deporte."
         },
         "zh": {
           "discipline": "游泳",
           "etiquette": "能量",
-          "ingredients": "甜菜根、胡萝卜、苹果",
-          "bienfaits": "甜菜根提供天然硝酸盐（常被用于耐力运动研究），胡萝卜提供β-胡萝卜素，苹果提供膳食纤维。色彩鲜艳、提供能量的果汁，并含有钾。"
+          "ingredients": "甜菜根、梨",
+          "bienfaits": "甜菜根提供天然硝酸盐（常被用于耐力运动研究），梨提供膳食纤维。色彩鲜艳、提供能量的果汁，非常适合运动。"
         },
         "ar": {
           "discipline": "السباحة",
           "etiquette": "طاقة",
-          "ingredients": "شمندر، جزر، تفاح",
-          "bienfaits": "يمدّ الشمندر الجسم بالنترات الطبيعية التي كثيراً ما تُدرس في رياضات التحمّل، والجزر بالبيتاكاروتين، والتفاح بالألياف. عصير ملوّن ومنشّط، يحتوي على البوتاسيوم."
+          "ingredients": "شمندر، إجاص",
+          "bienfaits": "يمدّ الشمندر الجسم بالنترات الطبيعية التي كثيراً ما تُدرس في رياضات التحمّل، والإجاص بالألياف. عصير ملوّن ومنشّط، مثالي للرياضة."
         }
       },
-      "legumes": [
-        "Betterave",
-        "Carotte"
-      ],
-      "categorie": "Les jus olympiques",
-      "image": "",
-      "description": "",
-      "bienfaits": "La betterave apporte des nitrates naturels, souvent étudiés dans le sport d'endurance, la carotte du bêta-carotène et la pomme des fibres. Un jus coloré et énergétique, avec du potassium.",
-      "etiquette": "Énergie"
+      "bienfaits": "La betterave apporte des nitrates naturels, souvent étudiés dans le sport d'endurance, et la poire des fibres. Un jus coloré et énergétique, idéal pour le sport."
     },
     {
+      "nom": "Laura Flessel",
+      "categorie": "Les jus olympiques",
+      "etiquette": "",
       "ingredients": "Smoothie d'automne : poire Comice, raisin rose Suffolk Red sans pépins",
       "pastilles": [],
-      "nom": "Laura Flessel",
+      "description": "",
+      "legumes": [
+        "Poire Comice Oudard",
+        "Raisin Suffolk Red"
+      ],
+      "image": "",
       "discipline": "Escrime",
+      "intitule": "La légende des championnes",
       "traductions": {
         "en": {
           "discipline": "Fencing",
           "intitule": "The legend of the champions",
           "ingredients": "Autumn smoothie: Comice pear, pink seedless Suffolk Red grapes",
-          "bienfaits": "Pear and grapes provide easily absorbed natural carbohydrates for quick energy, with vitamin C, potassium and fibre. A tasty snack before training."
+          "bienfaits": "Pear and grape provide natural carbohydrates for quick energy, with vitamin C and fibre. A tasty snack before training."
         },
         "es": {
           "discipline": "Esgrima",
           "intitule": "La leyenda de las campeonas",
           "ingredients": "Smoothie de otoño: pera Comice, uva rosada Suffolk Red sin pepitas",
-          "bienfaits": "La pera y la uva aportan hidratos de carbono naturales de fácil asimilación para una energía rápida, con vitamina C, potasio y fibra. Un tentempié goloso antes del entrenamiento."
+          "bienfaits": "La pera y la uva aportan hidratos de carbono naturales para una energía rápida, con vitamina C y fibra. Un tentempié delicioso antes del entrenamiento."
         },
         "zh": {
           "discipline": "击剑",
           "intitule": "女冠军传奇",
           "ingredients": "秋季思慕雪：考密斯梨、粉红无籽萨福克红葡萄",
-          "bienfaits": "梨和葡萄提供易吸收的天然碳水化合物，可快速补充能量，并含有维生素C、钾和膳食纤维。训练前的美味小食。"
+          "bienfaits": "梨和葡萄提供天然碳水化合物以快速补充能量，并含维生素C和膳食纤维。训练前的美味小食。"
         },
         "ar": {
           "discipline": "المبارزة",
           "intitule": "أسطورة البطلات",
           "ingredients": "سموذي الخريف: إجاص كوميس، عنب سوفولك ريد وردي بلا بذور",
-          "bienfaits": "يمدّ الإجاص والعنب الجسم بكربوهيدرات طبيعية سهلة الامتصاص لطاقة سريعة، مع فيتامين C والبوتاسيوم والألياف. وجبة خفيفة لذيذة قبل التدريب."
+          "bienfaits": "يمدّ الإجاص والعنب الجسم بكربوهيدرات طبيعية لطاقة سريعة، مع فيتامين C والألياف. وجبة خفيفة لذيذة قبل التدريب."
         }
       },
-      "legumes": [
-        "Poire Comice Oudard",
-        "Raisin Suffolk Red"
-      ],
-      "intitule": "La légende des championnes",
-      "categorie": "Les jus olympiques",
-      "image": "",
-      "description": "",
-      "bienfaits": "La poire et le raisin apportent des glucides naturels facilement assimilables pour une énergie rapide, avec de la vitamine C, du potassium et des fibres. Une collation gourmande avant l'entraînement.",
-      "etiquette": ""
+      "bienfaits": "La poire et le raisin apportent des glucides naturels pour une énergie rapide, avec de la vitamine C et des fibres. Une collation gourmande avant l'entraînement."
     },
     {
-      "ingredients": "Velouté de butternut, potimarron, gingembre",
-      "pastilles": [],
       "nom": "Nadia Comăneci",
+      "categorie": "Velouté olympique de saison",
+      "etiquette": "",
+      "ingredients": "Velouté de potimarron, gingembre",
+      "pastilles": [],
+      "description": "",
+      "legumes": [
+        "Potimarron",
+        "Gingembre"
+      ],
+      "image": "",
       "discipline": "Gymnastique",
+      "intitule": "Le chaudron olympique",
       "traductions": {
         "en": {
           "discipline": "Gymnastics",
           "intitule": "The Olympic cauldron",
-          "ingredients": "Butternut squash, red kuri squash and ginger velouté",
-          "bienfaits": "A comforting soup: squashes provide complex carbohydrates for lasting energy, beta-carotene and potassium. Ideal for a recovery meal, warm and easy to digest."
+          "ingredients": "Red kuri squash and ginger velouté",
+          "bienfaits": "A comforting soup: red kuri squash provides complex carbohydrates for lasting energy, beta-carotene and potassium. Ideal for a recovery meal, warm and easy to digest."
         },
         "es": {
           "discipline": "Gimnasia",
           "intitule": "El caldero olímpico",
-          "ingredients": "Crema de calabaza butternut, calabaza potimarron y jengibre",
-          "bienfaits": "Una crema reconfortante: las calabazas aportan hidratos de carbono complejos para una energía duradera, betacaroteno y potasio. Ideal para una comida de recuperación, caliente y digestiva."
+          "ingredients": "Crema de potimarron y jengibre",
+          "bienfaits": "Una crema reconfortante: el potimarron aporta hidratos de carbono complejos para una energía duradera, betacaroteno y potasio. Ideal para una comida de recuperación, caliente y digestiva."
         },
         "zh": {
           "discipline": "体操",
           "intitule": "奥林匹克大汤锅",
-          "ingredients": "奶油南瓜、红栗南瓜与生姜浓汤",
-          "bienfaits": "一碗暖心的浓汤：南瓜类提供复合碳水化合物，带来持久能量，并含有β-胡萝卜素和钾。热腾腾、易消化，非常适合运动后的恢复餐。"
+          "ingredients": "红栗南瓜与生姜浓汤",
+          "bienfaits": "暖心的浓汤：红栗南瓜提供复合碳水化合物，带来持久能量，并含有β-胡萝卜素和钾。热腾腾、易消化，非常适合运动后的恢复餐。"
         },
         "ar": {
           "discipline": "الجمباز",
           "intitule": "قِدر الألعاب الأولمبية",
-          "ingredients": "حساء كريمي من القرع «بَترنت» وقرع «بوتيمارون» والزنجبيل",
-          "bienfaits": "حساء كريمي مريح: يمدّ القرع الجسم بكربوهيدرات معقّدة لطاقة تدوم، وبالبيتاكاروتين والبوتاسيوم. مثالي لوجبة التعافي، دافئ وسهل الهضم."
+          "ingredients": "حساء كريمي من قرع «بوتيمارون» والزنجبيل",
+          "bienfaits": "حساء كريمي مريح: يمدّ قرع البوتيمارون الجسم بكربوهيدرات معقّدة لطاقة تدوم، وبالبيتاكاروتين والبوتاسيوم. مثالي لوجبة التعافي، دافئ وسهل الهضم."
         }
       },
-      "legumes": [
-        "Courge butternut",
-        "Potimarron",
-        "Gingembre"
-      ],
-      "intitule": "Le chaudron olympique",
-      "categorie": "Velouté olympique de saison",
-      "image": "",
-      "description": "",
-      "bienfaits": "Un velouté réconfortant : les courges apportent des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Idéal pour un repas de récupération, chaud et digeste.",
-      "etiquette": ""
+      "bienfaits": "Un velouté réconfortant : le potimarron apporte des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Idéal pour un repas de récupération, chaud et digeste."
     },
     {
-      "ingredients": "Patates douces rôties au miel du Gâtinais, cumin et coriandre",
-      "pastilles": [],
       "nom": "Pierre Durand et Jappeloup",
-      "allergenes": [],
+      "categorie": "Préparations olympiques salées",
+      "etiquette": "",
+      "ingredients": "Verrines de légumes crus de saison à croquer, guacamole revisité",
+      "pastilles": [],
+      "description": "",
+      "legumes": [],
+      "image": "",
       "discipline": "Équitation",
+      "intitule": "Le plateau des champions",
       "traductions": {
         "en": {
           "discipline": "Equestrian",
-          "intitule": "The bites of victory",
-          "ingredients": "Sweet potatoes roasted with Gâtinais honey, cumin and coriander",
-          "bienfaits": "An energising bite: sweet potato provides complex carbohydrates for lasting energy, beta-carotene and potassium. Cumin and coriander add flavour without extra calories, and honey a touch of sweetness."
-        },
-        "es": {
-          "discipline": "Equitación",
-          "intitule": "Los bocados de la victoria",
-          "ingredients": "Batatas asadas con miel del Gâtinais, comino y cilantro",
-          "bienfaits": "Un bocado energético: la batata aporta hidratos de carbono complejos para una energía duradera, betacaroteno y potasio. El comino y el cilantro realzan el plato sin calorías añadidas, y la miel un toque de dulzura."
-        },
-        "zh": {
-          "discipline": "马术",
-          "intitule": "胜利小点",
-          "ingredients": "加蒂奈蜂蜜烤红薯，配孜然和香菜",
-          "bienfaits": "提供能量的一口小点：红薯含复合碳水化合物，能量持久，并含β-胡萝卜素和钾。孜然和香菜增添风味而不增加热量，蜂蜜带来一丝甜味。"
-        },
-        "ar": {
-          "discipline": "الفروسية",
-          "intitule": "لقيمات النصر",
-          "ingredients": "بطاطا حلوة مشوية بعسل الغاتينيه مع الكمون والكزبرة",
-          "bienfaits": "لقمة مليئة بالطاقة: تمدّ البطاطا الحلوة الجسم بكربوهيدرات معقّدة لطاقة تدوم، وبالبيتاكاروتين والبوتاسيوم. يضيف الكمون والكزبرة نكهة بلا سعرات إضافية، والعسل لمسة حلاوة."
-        }
-      },
-      "legumes": [
-        "Patate douce",
-        "Miel du Gâtinais",
-        "Cumin",
-        "Coriandre"
-      ],
-      "intitule": "Les bouchées de la victoire",
-      "categorie": "Préparations olympiques salées",
-      "image": "",
-      "description": "",
-      "bienfaits": "Une bouchée énergisante : la patate douce apporte des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Le cumin et la coriandre relèvent le plat sans calories ajoutées, le miel une pointe de douceur.",
-      "etiquette": ""
-    },
-    {
-      "ingredients": "Verrines de légumes crus de saison à croquer, guacamole revisité",
-      "pastilles": [],
-      "nom": "Jesse Owens",
-      "discipline": "Athlétisme",
-      "traductions": {
-        "en": {
-          "discipline": "Athletics",
           "intitule": "The champions' platter",
           "ingredients": "Verrines of raw seasonal vegetables to crunch on, reinvented guacamole",
           "bienfaits": "Raw seasonal vegetables to crunch on: water, fibre, vitamins and minerals. The guacamole adds healthy fats and potassium. An ideal snack before or after exercise."
         },
         "es": {
-          "discipline": "Atletismo",
+          "discipline": "Equitación",
           "intitule": "El plato de los campeones",
           "ingredients": "Vasitos de verduras crudas de temporada para picar, guacamole reinventado",
           "bienfaits": "Verduras crudas de temporada para picar: agua, fibra, vitaminas y minerales. El guacamole aporta grasas saludables y potasio. Un tentempié ideal antes o después del esfuerzo."
         },
         "zh": {
-          "discipline": "田径",
+          "discipline": "马术",
           "intitule": "冠军拼盘",
           "ingredients": "时令生蔬杯，配创意牛油果酱",
           "bienfaits": "可直接生吃的时令蔬菜：含水分、膳食纤维、维生素和矿物质。牛油果酱提供优质脂肪和钾。运动前后的理想小食。"
         },
         "ar": {
-          "discipline": "ألعاب القوى",
+          "discipline": "الفروسية",
           "intitule": "طبق الأبطال",
           "ingredients": "أكواب خضار نيئة موسمية للتقرمش مع غواكامولي بلمسة جديدة",
           "bienfaits": "خضار نيئة موسمية للقضم: ماء وألياف وفيتامينات ومعادن. ويضيف الغواكامولي دهوناً صحية وبوتاسيوم. وجبة خفيفة مثالية قبل الجهد أو بعده."
         }
       },
-      "legumes": [],
-      "intitule": "Le plateau des champions",
-      "categorie": "Préparations olympiques salées",
-      "image": "",
-      "description": "",
-      "bienfaits": "Des légumes crus de saison à croquer : de l'eau, des fibres, des vitamines et des minéraux. Le guacamole apporte de bonnes graisses et du potassium. Une collation idéale avant ou après l'effort.",
-      "etiquette": ""
+      "bienfaits": "Des légumes crus de saison à croquer : de l'eau, des fibres, des vitamines et des minéraux. Le guacamole apporte de bonnes graisses et du potassium. Une collation idéale avant ou après l'effort."
     },
     {
-      "ingredients": "Cèpes de forêt, persil et fleur de sel",
-      "histoire_titre": "Paul Bocuse, le pape de la gastronomie",
-      "pastilles": [],
-      "histoire_image": "",
       "nom": "Paul Bocuse",
-      "histoire": "Paul Bocuse naît en 1926 à Collonges-au-Mont-d'Or, près de Lyon, dans une famille de cuisiniers qui tient l'auberge du Pont de Collonges, au bord de la Saône.\n\nÀ 18 ans, il s'engage dans l'armée de la Libération. Gravement blessé en Alsace, il reçoit la Croix de guerre. La paix revenue, il se forme auprès de grands noms de la cuisine lyonnaise : Eugénie Brazier, puis Fernand Point.\n\nMeilleur Ouvrier de France en 1961, il reprend l'auberge familiale et l'emmène au sommet : le restaurant décroche trois étoiles au Guide Michelin en 1965 et les garde pendant 55 ans, un record.\n\nAvec la nouvelle cuisine, il défend des produits frais et de saison, des cuissons plus justes, des assiettes plus légères. En 1975, il crée pour l'Élysée la célèbre soupe aux truffes, aujourd'hui servie sous le nom de Soupe V.G.E. Il fait aussi des cuisiniers des figures publiques.\n\nEn 1987 naît le Bocuse d'Or, concours mondial de cuisine souvent comparé aux Jeux olympiques de la gastronomie : même exigence, même goût de l'excellence et du dépassement. Paul Bocuse s'éteint à Collonges le 20 janvier 2018, à 91 ans, nommé « Chef du siècle » par le Culinary Institute of America.\n\nCe plat s'en inspire : des cèpes de forêt, du persil, une pincée de fleur de sel. Peu d'ingrédients, de la saison, et le goût avant tout.",
-      "allergenes": [],
+      "categorie": "Préparations olympiques salées",
+      "etiquette": "",
+      "ingredients": "Cèpes de forêt, persil et fleur de sel",
+      "pastilles": [],
+      "description": "",
+      "legumes": [
+        "Cèpes de forêt",
+        "Persil",
+        "Fleur de sel"
+      ],
+      "image": "",
       "discipline": "Gastronomie",
+      "intitule": "",
+      "allergenes": [],
+      "bienfaits": "Une préparation simple et savoureuse : les cèpes, peu caloriques, apportent des fibres, des protéines végétales et du potassium. Le persil relève le plat, la fleur de sel le finit sans excès.",
       "traductions": {
         "en": {
           "discipline": "Gastronomy",
@@ -364,52 +323,17 @@
           "histoire": "وُلد بول بوكوس عام 1926 في كولونج أو مون دور قرب مدينة ليون، في عائلة من الطهاة تدير نزل «أوبيرج دو بون دو كولونج» على ضفاف نهر السّون.\n\nفي الثامنة عشرة تطوّع في جيش التحرير، وأصيب بجروح بالغة في الألزاس ونال وسام صليب الحرب. وبعد الحرب تتلمذ على أيدي كبار أعلام المطبخ الليوني: أوجيني برازييه ثم فرنان بوان.\n\nنال لقب «أفضل عامل في فرنسا» عام 1961، وتولّى إدارة نزل العائلة وقاده إلى القمة: حصل المطعم على ثلاث نجوم ميشلان عام 1965 واحتفظ بها 55 عاماً، وهو رقم قياسي.\n\nدافع مع «المطبخ الجديد» عن المنتجات الطازجة والموسمية وعن طهي أدق وأطباق أخف. وفي عام 1975 ابتكر لقصر الإليزيه شوربة الكمأة الشهيرة التي تُقدَّم اليوم باسم «Soupe V.G.E». كما ساهم في جعل الطهاة شخصيات عامة.\n\nوفي عام 1987 وُلدت مسابقة «بوكوس دور»، وهي مسابقة عالمية للطهي تُشبَّه غالباً بالألعاب الأولمبية لفن الطهي: الصرامة نفسها وحب التميّز والتفوّق. توفي بول بوكوس في كولونج يوم 20 يناير 2018 عن 91 عاماً، وكان قد لُقّب «طاهي القرن» من معهد الطهي الأمريكي.\n\nهذا الطبق مستوحى منه: فطر البورسيني من الغابة والبقدونس ورشة من زهرة الملح. مكوّنات قليلة وموسمية، والنكهة قبل كل شيء."
         }
       },
-      "legumes": [
-        "Cèpes de forêt",
-        "Persil",
-        "Fleur de sel"
-      ],
-      "intitule": "",
-      "categorie": "Préparations olympiques salées",
-      "image": "",
-      "description": "",
-      "bienfaits": "Une préparation simple et savoureuse : les cèpes, peu caloriques, apportent des fibres, des protéines végétales et du potassium. Le persil relève le plat, la fleur de sel le finit sans excès.",
-      "etiquette": ""
+      "histoire_titre": "Paul Bocuse, le pape de la gastronomie",
+      "histoire": "Paul Bocuse naît en 1926 à Collonges-au-Mont-d'Or, près de Lyon, dans une famille de cuisiniers qui tient l'auberge du Pont de Collonges, au bord de la Saône.\n\nÀ 18 ans, il s'engage dans l'armée de la Libération. Gravement blessé en Alsace, il reçoit la Croix de guerre. La paix revenue, il se forme auprès de grands noms de la cuisine lyonnaise : Eugénie Brazier, puis Fernand Point.\n\nMeilleur Ouvrier de France en 1961, il reprend l'auberge familiale et l'emmène au sommet : le restaurant décroche trois étoiles au Guide Michelin en 1965 et les garde pendant 55 ans, un record.\n\nAvec la nouvelle cuisine, il défend des produits frais et de saison, des cuissons plus justes, des assiettes plus légères. En 1975, il crée pour l'Élysée la célèbre soupe aux truffes, aujourd'hui servie sous le nom de Soupe V.G.E. Il fait aussi des cuisiniers des figures publiques.\n\nEn 1987 naît le Bocuse d'Or, concours mondial de cuisine souvent comparé aux Jeux olympiques de la gastronomie : même exigence, même goût de l'excellence et du dépassement. Paul Bocuse s'éteint à Collonges le 20 janvier 2018, à 91 ans, nommé « Chef du siècle » par le Culinary Institute of America.\n\nCe plat s'en inspire : des cèpes de forêt, du persil, une pincée de fleur de sel. Peu d'ingrédients, de la saison, et le goût avant tout.",
+      "histoire_image": ""
     },
     {
+      "nom": "Marie-José Pérec",
+      "categorie": "Préparations olympiques sucrées",
+      "etiquette": "",
       "ingredients": "Prunes d'automne rôties au miel du Gâtinais et graines de courge",
       "pastilles": [],
-      "nom": "Marie-José Pérec",
-      "allergenes": [
-        "Graines de courge"
-      ],
-      "discipline": "Athlétisme",
-      "traductions": {
-        "en": {
-          "discipline": "Athletics",
-          "intitule": "The fervour of the supporters",
-          "ingredients": "Autumn plums roasted with Gâtinais honey and pumpkin seeds",
-          "bienfaits": "A fruity, energising dessert: plum provides natural carbohydrates, vitamin C and fibre, and pumpkin seeds provide plant protein, magnesium and zinc, useful for recovery."
-        },
-        "es": {
-          "discipline": "Atletismo",
-          "intitule": "El fervor de los aficionados",
-          "ingredients": "Ciruelas de otoño asadas con miel del Gâtinais y semillas de calabaza",
-          "bienfaits": "Un postre afrutado y energético: la ciruela aporta hidratos de carbono naturales, vitamina C y fibra, y las semillas de calabaza proteína vegetal, magnesio y zinc, útiles para la recuperación."
-        },
-        "zh": {
-          "discipline": "田径",
-          "intitule": "球迷的热情",
-          "ingredients": "加蒂奈蜂蜜烤秋季李子，配南瓜籽",
-          "bienfaits": "果香浓郁、补充能量的甜点：李子提供天然碳水化合物、维生素C和膳食纤维，南瓜籽提供植物蛋白、镁和锌，有助于恢复。"
-        },
-        "ar": {
-          "discipline": "ألعاب القوى",
-          "intitule": "حماس المشجعين",
-          "ingredients": "برقوق الخريف مشوي بعسل الغاتينيه وبذور القرع",
-          "bienfaits": "حلوى فاكهية مليئة بالطاقة: يمدّ البرقوق الجسم بالكربوهيدرات الطبيعية وفيتامين C والألياف، وتمدّه بذور القرع بالبروتين النباتي والمغنيسيوم والزنك المفيدة للتعافي."
-        }
-      },
+      "description": "",
       "legumes": [
         "Prune Lovita",
         "Prune Sun Kises",
@@ -417,58 +341,85 @@
         "Graines de courge",
         "Miel du Gâtinais"
       ],
-      "intitule": "La ferveur des supporters",
-      "categorie": "Préparations olympiques sucrées",
       "image": "",
-      "description": "",
-      "bienfaits": "Un dessert fruité et énergisant : la prune apporte des glucides naturels, de la vitamine C et des fibres, les graines de courge des protéines végétales, du magnésium et du zinc, utiles à la récupération.",
-      "etiquette": ""
-    },
-    {
-      "ingredients": "Crème de banane, cannelle et noix au fond, fruits frais de saison coupés par-dessus",
-      "pastilles": [],
-      "nom": "Laure Manaudou",
+      "discipline": "Athlétisme",
+      "intitule": "La ferveur des supporters",
       "allergenes": [
-        "Noix"
+        "Graines de courge"
       ],
-      "discipline": "Natation",
+      "bienfaits": "Un dessert fruité et énergisant : la prune apporte des glucides naturels, les graines de courge aident à la récupération.",
       "traductions": {
         "en": {
-          "ingredients": "Verrine: banana cream, cinnamon and walnuts at the bottom, topped with freshly cut seasonal fruit",
-          "bienfaits": "A fruity, energising verrine: banana cream provides natural carbohydrates and potassium, walnuts healthy fats and plant protein, cinnamon a gentle aroma with no added sugar, and the fresh-cut fruit water, fibre and vitamins.",
-          "discipline": "Swimming",
-          "intitule": "Fruity start"
+          "discipline": "Athletics",
+          "intitule": "The fervour of the supporters",
+          "ingredients": "Autumn plums roasted with Gâtinais honey and pumpkin seeds",
+          "bienfaits": "A fruity, energising dessert: plum provides natural carbohydrates, and pumpkin seeds help recovery."
         },
         "es": {
-          "ingredients": "Vasito: crema de plátano, canela y nueces en el fondo, con fruta fresca de temporada cortada por encima",
-          "bienfaits": "Un vasito afrutado y energético: la crema de plátano aporta hidratos de carbono naturales y potasio, las nueces grasas saludables y proteína vegetal, la canela un aroma suave sin azúcar añadido, y la fruta fresca cortada agua, fibra y vitaminas.",
-          "discipline": "Natación",
-          "intitule": "Salida afrutada"
+          "discipline": "Atletismo",
+          "intitule": "El fervor de los aficionados",
+          "ingredients": "Ciruelas de otoño asadas con miel del Gâtinais y semillas de calabaza",
+          "bienfaits": "Un postre afrutado y energético: la ciruela aporta hidratos de carbono naturales y las semillas de calabaza ayudan a la recuperación."
         },
         "zh": {
-          "ingredients": "杯装：底层为香蕉奶油、肉桂和核桃，上面铺新鲜切好的时令水果",
-          "bienfaits": "果香浓郁、提供能量的杯装甜点：香蕉奶油含天然碳水化合物和钾，核桃含优质脂肪和植物蛋白，肉桂带来不加糖的柔和香气，新鲜切果则提供水分、膳食纤维和维生素。",
-          "discipline": "游泳",
-          "intitule": "果香起跑"
+          "discipline": "田径",
+          "intitule": "球迷的热情",
+          "ingredients": "加蒂奈蜂蜜烤秋季李子，配南瓜籽",
+          "bienfaits": "果香浓郁、提供能量的甜点：李子提供天然碳水化合物，南瓜籽有助于恢复。"
         },
         "ar": {
-          "ingredients": "كوب: كريمة الموز مع القرفة والجوز في القاع، وفوقها فواكه موسمية طازجة مقطّعة",
-          "bienfaits": "كوب فاكهي مليء بالطاقة: تمدّ كريمة الموز بكربوهيدرات طبيعية وبوتاسيوم، والجوز بدهون صحية وبروتين نباتي، وتضيف القرفة عطراً لطيفاً دون سكر مضاف، وتمدّ الفواكه الطازجة المقطّعة بالماء والألياف والفيتامينات.",
-          "discipline": "السباحة",
-          "intitule": "انطلاقة فاكهية"
+          "discipline": "ألعاب القوى",
+          "intitule": "حماس المشجعين",
+          "ingredients": "برقوق الخريف مشوي بعسل الغاتينيه وبذور القرع",
+          "bienfaits": "حلوى فاكهية منشّطة: يمدّ البرقوق الجسم بكربوهيدرات طبيعية وتساعد بذور القرع على التعافي."
         }
-      },
+      }
+    },
+    {
+      "nom": "Laure Manaudou",
+      "categorie": "Préparations olympiques sucrées",
+      "etiquette": "",
+      "ingredients": "Verrine : crème de banane, cannelle et noix au fond, fruits frais de saison coupés par-dessus",
+      "pastilles": [],
+      "description": "",
       "legumes": [
         "Banane française de Martinique",
         "Cannelle",
         "Noix"
       ],
-      "intitule": "Départ fruité",
-      "categorie": "Préparations olympiques sucrées",
       "image": "",
-      "description": "",
-      "bienfaits": "Une salade de fruits frais, fruitée et énergisante : la crème de banane apporte des glucides naturels et du potassium, les noix, de bonnes graisses et des protéines végétales, la cannelle, une douce saveur sans sucre ajouté, et les fruits frais coupés, de l’eau, des fibres et des vitamines.",
-      "etiquette": ""
+      "discipline": "Natation",
+      "allergenes": [
+        "Noix"
+      ],
+      "bienfaits": "Une verrine fruitée et énergisante : la banane apporte des glucides naturels, les noix de bonnes graisses, et les fruits frais de la fraîcheur.",
+      "traductions": {
+        "en": {
+          "ingredients": "Verrine: banana cream, cinnamon and walnuts at the bottom, topped with freshly cut seasonal fruit",
+          "bienfaits": "A fruity, energising verrine: banana provides natural carbohydrates, walnuts healthy fats, and fresh fruit brings freshness.",
+          "discipline": "Swimming",
+          "intitule": "Fruity start"
+        },
+        "es": {
+          "ingredients": "Vasito: crema de plátano, canela y nueces en el fondo, con fruta fresca de temporada cortada por encima",
+          "bienfaits": "Un vasito afrutado y energético: el plátano aporta hidratos de carbono naturales, las nueces grasas saludables y la fruta fresca frescor.",
+          "discipline": "Natación",
+          "intitule": "Salida afrutada"
+        },
+        "zh": {
+          "ingredients": "杯装：底层为香蕉奶油、肉桂和核桃，上面铺新鲜切好的时令水果",
+          "bienfaits": "果香浓郁、提供能量的杯装甜点：香蕉提供天然碳水化合物，核桃含优质脂肪，鲜果带来清新口感。",
+          "discipline": "游泳",
+          "intitule": "果香起跑"
+        },
+        "ar": {
+          "ingredients": "كوب: كريمة الموز مع القرفة والجوز في القاع، وفوقها فواكه موسمية طازجة مقطّعة",
+          "bienfaits": "كوب فاكهي منشّط: يمدّ الموز الجسم بكربوهيدرات طبيعية، والجوز بدهون صحية، وتضيف الفاكهة الطازجة انتعاشاً.",
+          "discipline": "السباحة",
+          "intitule": "انطلاقة فاكهية"
+        }
+      },
+      "intitule": "Départ fruité"
     }
   ]
 }
