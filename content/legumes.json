@@ -1,27 +1,8 @@
 {
   "legumes": [
     {
-      "nom": "Carotte",
-      "type": "Légumes racines",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
       "gout": "Sucré, croquant",
-      "description": "Racine orange riche en bêta-carotène, délicieuse crue ou cuite.",
-      "conservation": "Une à deux semaines au bac à légumes, sans les fanes.",
-      "idees": "Râpée en salade, pressée en jus, rôtie au four.",
-      "image": "",
+      "nom": "Carotte",
       "traductions": {
         "en": {
           "nom": "Carrot",
@@ -60,24 +41,30 @@
           "bienfaits": "غنية بالبيتاكاروتين والألياف والماء. كربوهيدراتها الطبيعية تجعلها وجبة خفيفة ومنشّطة، نيئة أو عصيراً."
         }
       },
-      "bienfaits": "Riche en bêta-carotène, en fibres et en eau. Ses glucides naturels en font une collation légère et énergétique, crue ou en jus."
-    },
-    {
-      "nom": "Courge butternut",
-      "type": "Courges",
+      "idees": "Râpée en salade, pressée en jus, rôtie au four.",
+      "type": "Légumes racines",
+      "image": "/images/pexels-mateus-belarmino-1944648540-29585718.jpg",
       "saisons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
         9,
         10,
         11,
-        12,
-        1,
-        2
+        12
       ],
+      "description": "Racine orange riche en bêta-carotène, délicieuse crue ou cuite.",
+      "bienfaits": "Riche en bêta-carotène, en fibres et en eau. Ses glucides naturels en font une collation légère et énergétique, crue ou en jus.",
+      "conservation": "Une à deux semaines au bac à légumes, sans les fanes."
+    },
+    {
       "gout": "Doux, noisette",
-      "description": "Courge à chair fondante, très facile à cuisiner.",
-      "conservation": "Plusieurs mois entière, dans un endroit frais et sec.",
-      "idees": "Velouté, rôtie, en purée ou en tarte salée.",
-      "image": "",
+      "nom": "Courge butternut",
       "traductions": {
         "en": {
           "nom": "Butternut squash",
@@ -116,25 +103,24 @@
           "bienfaits": "غنية بالبيتاكاروتين والبوتاسيوم والألياف. كربوهيدراتها المعقّدة تمنح طاقة تدوم، وهي رفيقة جيدة لوجبات التعافي."
         }
       },
-      "bienfaits": "Riche en bêta-carotène, en potassium et en fibres. Ses glucides complexes apportent une énergie durable : un bon allié des repas de récupération."
-    },
-    {
-      "nom": "Betterave",
-      "type": "Légumes racines",
+      "idees": "Velouté, rôtie, en purée ou en tarte salée.",
+      "type": "Courges",
+      "image": "/images/pexels-justus-menke-3490295-5574269.jpg",
       "saisons": [
         9,
         10,
         11,
         12,
         1,
-        2,
-        3
+        2
       ],
+      "description": "Courge à chair fondante, très facile à cuisiner.",
+      "bienfaits": "Riche en bêta-carotène, en potassium et en fibres. Ses glucides complexes apportent une énergie durable : un bon allié des repas de récupération.",
+      "conservation": "Plusieurs mois entière, dans un endroit frais et sec."
+    },
+    {
       "gout": "Terreux, sucré",
-      "description": "Racine d'un rouge profond, vendue crue ou déjà cuite.",
-      "conservation": "Deux semaines au frais ; cuite, 4 à 5 jours.",
-      "idees": "En carpaccio, en houmous, en salade avec du chèvre.",
-      "image": "",
+      "nom": "Betterave",
       "traductions": {
         "en": {
           "nom": "Beetroot",
@@ -173,24 +159,25 @@
           "bienfaits": "مثالي للرياضة: غني بالنترات الطبيعية، عون جيد على التحمّل. غني أيضاً بالألياف والبوتاسيوم."
         }
       },
-      "bienfaits": "Idéale pour le sport : riche en nitrates naturels, un bon allié pour l'endurance. Riche aussi en fibres et en potassium."
-    },
-    {
-      "nom": "Épinard",
-      "type": "Légumes feuilles",
+      "idees": "En carpaccio, en houmous, en salade avec du chèvre.",
+      "type": "Légumes racines",
+      "image": "/images/pexels-planka-20517382.jpg",
       "saisons": [
-        3,
-        4,
-        5,
         9,
         10,
-        11
+        11,
+        12,
+        1,
+        2,
+        3
       ],
+      "description": "Racine d'un rouge profond, vendue crue ou déjà cuite.",
+      "bienfaits": "Idéale pour le sport : riche en nitrates naturels, un bon allié pour l'endurance. Riche aussi en fibres et en potassium.",
+      "conservation": "Deux semaines au frais ; cuite, 4 à 5 jours."
+    },
+    {
       "gout": "Végétal, légèrement acidulé",
-      "description": "Feuilles tendres, à manger jeunes en salade ou cuites.",
-      "conservation": "Deux à trois jours au réfrigérateur.",
-      "idees": "En jeunes pousses, sautés à l'ail, dans un jus vert.",
-      "image": "",
+      "nom": "Épinard",
       "traductions": {
         "en": {
           "nom": "Spinach",
@@ -229,22 +216,24 @@
           "bienfaits": "غني بالحديد والفيتامينات. قليل السعرات ومغذٍّ جداً."
         }
       },
-      "bienfaits": "Riche en fer et en vitamines. Peu calorique et très nourrissant."
+      "idees": "En jeunes pousses, sautés à l'ail, dans un jus vert.",
+      "type": "Légumes feuilles",
+      "image": "/images/pexels-magda-ehlers-pexels-28797268.jpg",
+      "saisons": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "description": "Feuilles tendres, à manger jeunes en salade ou cuites.",
+      "bienfaits": "Riche en fer et en vitamines. Peu calorique et très nourrissant.",
+      "conservation": "Deux à trois jours au réfrigérateur."
     },
     {
-      "nom": "Tomate",
-      "type": "Légumes-fruits",
-      "saisons": [
-        6,
-        7,
-        8,
-        9
-      ],
       "gout": "Juteux, acidulé",
-      "description": "À savourer en plein été, bien mûre.",
-      "conservation": "À température ambiante, loin du frigo.",
-      "idees": "En salade, en gaspacho, farcie.",
-      "image": "",
+      "nom": "Tomate",
       "traductions": {
         "en": {
           "nom": "Tomato",
@@ -283,24 +272,22 @@
           "bienfaits": "غنية بفيتامين C والبوتاسيوم. مرطّبة جداً."
         }
       },
-      "bienfaits": "Riche en vitamine C et en potassium. Très hydratante."
+      "idees": "En salade, en gaspacho, farcie.",
+      "type": "Légumes-fruits",
+      "image": "/images/pexels-s-deniz-310264642-15634908.jpg",
+      "saisons": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "description": "À savourer en plein été, bien mûre.",
+      "bienfaits": "Riche en vitamine C et en potassium. Très hydratante.",
+      "conservation": "À température ambiante, loin du frigo."
     },
     {
-      "nom": "Orange",
-      "type": "Agrumes",
-      "saisons": [
-        12,
-        1,
-        2,
-        3,
-        4
-      ],
       "gout": "Doux, juteux, acidulé",
-      "description": "Agrume juteux et parfumé, à presser ou à croquer en quartiers.",
-      "conservation": "Une à deux semaines à température ambiante, plus longtemps au frais.",
-      "idees": "Pressée en jus, en quartiers ou en zestes dans une salade.",
-      "bienfaits": "Riche en vitamine C et en eau : elle hydrate et apporte des glucides naturels pour un coup d'énergie avant ou après l'effort.",
-      "image": "",
+      "nom": "Orange",
       "traductions": {
         "en": {
           "nom": "Orange",
@@ -338,26 +325,24 @@
           "idees": "عصيراً، أو شرائح، أو قشراً مبشوراً فوق السلطة.",
           "bienfaits": "غنية بفيتامين C والماء: ترطّب الجسم وتمدّه بكربوهيدرات طبيعية لدفعة طاقة قبل الجهد أو بعده."
         }
-      }
-    },
-    {
-      "nom": "Citron",
+      },
+      "idees": "Pressée en jus, en quartiers ou en zestes dans une salade.",
       "type": "Agrumes",
+      "image": "/images/pexels-mr__-j-2153596824-32801459.jpg",
       "saisons": [
-        11,
         12,
         1,
         2,
         3,
-        4,
-        5
+        4
       ],
+      "description": "Agrume juteux et parfumé, à presser ou à croquer en quartiers.",
+      "bienfaits": "Riche en vitamine C et en eau : elle hydrate et apporte des glucides naturels pour un coup d'énergie avant ou après l'effort.",
+      "conservation": "Une à deux semaines à température ambiante, plus longtemps au frais."
+    },
+    {
       "gout": "Acide, frais, vif",
-      "description": "Agrume acide dont le jus relève les saveurs et les préparations.",
-      "conservation": "Deux à trois semaines au bac à légumes.",
-      "idees": "Un filet sur les salades, dans les jus, en zeste.",
-      "bienfaits": "Source de vitamine C, avec très peu de calories. Son acidité relève les plats et permet de limiter le sel et l'assaisonnement.",
-      "image": "",
+      "nom": "Citron",
       "traductions": {
         "en": {
           "nom": "Lemon",
@@ -395,31 +380,26 @@
           "idees": "رشة عصير على السلطات، أو في العصائر، أو قشراً مبشوراً.",
           "bienfaits": "مصدر لفيتامين C وسعراته الحرارية قليلة جداً. حموضته تُبرز النكهات وتساعد على تقليل الملح والتتبيلة."
         }
-      }
-    },
-    {
-      "nom": "Gingembre",
-      "type": "Légumes racines",
+      },
+      "idees": "Un filet sur les salades, dans les jus, en zeste.",
+      "type": "Agrumes",
+      "image": "/images/pexels-christelle-wehbe-72523922-29310032.jpg",
       "saisons": [
+        11,
+        12,
         1,
         2,
         3,
         4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
+        5
       ],
+      "description": "Agrume acide dont le jus relève les saveurs et les préparations.",
+      "bienfaits": "Source de vitamine C, avec très peu de calories. Son acidité relève les plats et permet de limiter le sel et l'assaisonnement.",
+      "conservation": "Deux à trois semaines au bac à légumes."
+    },
+    {
       "gout": "Piquant, chaud, citronné",
-      "description": "Rhizome au parfum vif et piquant, à utiliser frais ou râpé.",
-      "conservation": "Deux à trois semaines au frais, ou congelé en morceaux.",
-      "idees": "Râpé dans les jus et les veloutés, en tranches fines dans l'eau chaude.",
-      "bienfaits": "Apporte du goût et de la chaleur sans calories notables. Utilisé traditionnellement pour le confort digestif, il est agréable avant comme après l'effort.",
-      "image": "",
+      "nom": "Gingembre",
       "traductions": {
         "en": {
           "nom": "Ginger",
@@ -457,24 +437,31 @@
           "idees": "مبشوراً في العصائر والحساء، أو شرائح رفيعة في الماء الساخن.",
           "bienfaits": "يضيف نكهة ودفئاً دون سعرات تُذكر. يُستخدم تقليدياً لراحة الجهاز الهضمي، وهو مناسب قبل الجهد وبعده."
         }
-      }
-    },
-    {
-      "nom": "Concombre",
-      "type": "Légumes-fruits",
+      },
+      "idees": "Râpé dans les jus et les veloutés, en tranches fines dans l'eau chaude.",
+      "type": "Légumes racines",
+      "image": "/images/pexels-enginakyurt-33930747.jpg",
       "saisons": [
+        1,
+        2,
+        3,
+        4,
         5,
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11,
+        12
       ],
+      "description": "Rhizome au parfum vif et piquant, à utiliser frais ou râpé.",
+      "bienfaits": "Apporte du goût et de la chaleur sans calories notables. Utilisé traditionnellement pour le confort digestif, il est agréable avant comme après l'effort.",
+      "conservation": "Deux à trois semaines au frais, ou congelé en morceaux."
+    },
+    {
       "gout": "Frais, aqueux, doux",
-      "description": "Légume-fruit très rafraîchissant, composé à plus de 95 % d'eau.",
-      "conservation": "Une semaine au bac à légumes.",
-      "idees": "En rondelles, en jus, en salade avec de la menthe.",
-      "bienfaits": "Très riche en eau et peu calorique : il aide à s'hydrater. Apporte un peu de potassium.",
-      "image": "",
+      "nom": "Concombre",
       "traductions": {
         "en": {
           "nom": "Cucumber",
@@ -512,24 +499,24 @@
           "idees": "شرائح، أو عصيراً، أو في سلطة مع النعناع.",
           "bienfaits": "غني جداً بالماء وقليل السعرات: يساعد على الترطيب. يحتوي على قليل من البوتاسيوم."
         }
-      }
-    },
-    {
-      "nom": "Céleri",
-      "type": "Bulbes et tiges",
+      },
+      "idees": "En rondelles, en jus, en salade avec de la menthe.",
+      "type": "Légumes-fruits",
+      "image": "/images/pexels-daniel-dan-47825192-7543157.jpg",
       "saisons": [
+        5,
+        6,
         7,
         8,
-        9,
-        10,
-        11
+        9
       ],
+      "description": "Légume-fruit très rafraîchissant, composé à plus de 95 % d'eau.",
+      "bienfaits": "Très riche en eau et peu calorique : il aide à s'hydrater. Apporte un peu de potassium.",
+      "conservation": "Une semaine au bac à légumes."
+    },
+    {
       "gout": "Herbacé, légèrement salé",
-      "description": "Céleri branche : des tiges croquantes au goût marqué.",
-      "conservation": "Une semaine au frigo, tiges enveloppées dans un linge humide.",
-      "idees": "Cru en bâtonnets, en jus, dans les bouillons.",
-      "bienfaits": "Riche en eau et en fibres, avec du potassium. Allergène à signaler.",
-      "image": "",
+      "nom": "Céleri",
       "traductions": {
         "en": {
           "nom": "Celery",
@@ -567,24 +554,24 @@
           "idees": "نيئاً على شكل أعواد، أو عصيراً، أو في المرق.",
           "bienfaits": "غني بالماء والألياف مع البوتاسيوم. مسبب للحساسية يجب التنبيه إليه."
         }
-      }
-    },
-    {
-      "nom": "Potimarron",
-      "type": "Courges",
+      },
+      "idees": "Cru en bâtonnets, en jus, dans les bouillons.",
+      "type": "Bulbes et tiges",
+      "image": "/images/pexels-nestor-santos-16617699-13044694.jpg",
       "saisons": [
+        7,
+        8,
         9,
         10,
-        11,
-        12,
-        1
+        11
       ],
+      "description": "Céleri branche : des tiges croquantes au goût marqué.",
+      "bienfaits": "Riche en eau et en fibres, avec du potassium. Allergène à signaler.",
+      "conservation": "Une semaine au frigo, tiges enveloppées dans un linge humide."
+    },
+    {
       "gout": "Doux, goût de châtaigne",
-      "description": "Petite courge orange au goût de châtaigne, dont la peau se mange.",
-      "conservation": "Plusieurs semaines à l'abri de la lumière, au sec.",
-      "idees": "En velouté, rôti au four, en purée.",
-      "bienfaits": "Riche en bêta-carotène, en potassium et en fibres. Ses glucides complexes donnent une énergie durable, idéale pour un repas de récupération.",
-      "image": "",
+      "nom": "Potimarron",
       "traductions": {
         "en": {
           "nom": "Red kuri squash",
@@ -622,26 +609,24 @@
           "idees": "في الحساء، أو محمّصاً في الفرن، أو هريساً.",
           "bienfaits": "غني بالبيتاكاروتين والبوتاسيوم والألياف. كربوهيدراته المعقّدة تمنح طاقة تدوم، مثالي لوجبة التعافي."
         }
-      }
-    },
-    {
-      "nom": "Endive",
-      "type": "Légumes feuilles",
+      },
+      "idees": "En velouté, rôti au four, en purée.",
+      "type": "Courges",
+      "image": "/images/pexels-pexels-user-927916899-20010980-1-.jpg",
       "saisons": [
+        9,
         10,
         11,
         12,
-        1,
-        2,
-        3,
-        4
+        1
       ],
+      "description": "Petite courge orange au goût de châtaigne, dont la peau se mange.",
+      "bienfaits": "Riche en bêta-carotène, en potassium et en fibres. Ses glucides complexes donnent une énergie durable, idéale pour un repas de récupération.",
+      "conservation": "Plusieurs semaines à l'abri de la lumière, au sec."
+    },
+    {
       "gout": "Légèrement amer, croquant",
-      "description": "Chicon blanc aux feuilles croquantes, cultivé à l'abri de la lumière.",
-      "conservation": "Une semaine au frais, à l'abri de la lumière pour éviter l'amertume.",
-      "idees": "Crue en barquettes garnies, braisée, en salade.",
-      "bienfaits": "Très peu calorique, riche en eau et en fibres. Légère et digeste.",
-      "image": "",
+      "nom": "Endive",
       "traductions": {
         "en": {
           "nom": "Chicory (endive)",
@@ -679,24 +664,26 @@
           "idees": "نيئة في قوارب محشوة، أو مطهوّة ببطء، أو في السلطة.",
           "bienfaits": "قليلة السعرات جداً، غنية بالماء والألياف. خفيفة وسهلة الهضم."
         }
-      }
-    },
-    {
-      "nom": "Cerfeuil tubéreux",
-      "type": "Légumes racines",
+      },
+      "idees": "Crue en barquettes garnies, braisée, en salade.",
+      "type": "Légumes feuilles",
+      "image": "/images/2048.webp",
       "saisons": [
         10,
         11,
         12,
         1,
-        2
+        2,
+        3,
+        4
       ],
+      "description": "Chicon blanc aux feuilles croquantes, cultivé à l'abri de la lumière.",
+      "bienfaits": "Très peu calorique, riche en eau et en fibres. Légère et digeste.",
+      "conservation": "Une semaine au frais, à l'abri de la lumière pour éviter l'amertume."
+    },
+    {
       "gout": "Farineux, entre la châtaigne et la carotte",
-      "description": "Racine ancienne et peu connue, à la chair dense et sucrée.",
-      "conservation": "Une à deux semaines au frais ; elle durcit à la longue.",
-      "idees": "En purée, en velouté, rôti au four, en chips.",
-      "bienfaits": "Riche en glucides complexes et en fibres, avec du potassium : plus énergétique que la plupart des racines.",
-      "image": "",
+      "nom": "Cerfeuil tubéreux",
       "traductions": {
         "en": {
           "nom": "Turnip-rooted chervil",
@@ -734,82 +721,24 @@
           "idees": "هريساً، أو في الحساء، أو محمّصاً، أو رقائق مقرمشة.",
           "bienfaits": "غني بالكربوهيدرات المعقّدة والألياف مع البوتاسيوم: أكثر طاقة من معظم الجذور."
         }
-      }
-    },
-    {
-      "nom": "Fenouil",
-      "type": "Bulbes et tiges",
-      "saisons": [
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "gout": "Anisé, frais",
-      "description": "Bulbe croquant au parfum d'anis, délicat cru comme cuit.",
-      "conservation": "Une semaine au bac à légumes.",
-      "idees": "Émincé cru en salade, rôti, braisé.",
-      "bienfaits": "Riche en eau, en fibres et en potassium, avec de la vitamine C et peu de calories. Léger et rafraîchissant.",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Fennel",
-          "type": "Bulbs and stalks",
-          "gout": "Aniseed-like, fresh",
-          "description": "A crunchy bulb with an aniseed aroma, delicate raw or cooked.",
-          "conservation": "One week in the vegetable drawer.",
-          "idees": "Thinly sliced raw in salads, roasted, or braised.",
-          "bienfaits": "Rich in water, fibre and potassium, with vitamin C and few calories. Light and refreshing."
-        },
-        "es": {
-          "nom": "Hinojo",
-          "type": "Bulbos y tallos",
-          "gout": "Anisado, fresco",
-          "description": "Bulbo crujiente de aroma a anís, delicado crudo o cocinado.",
-          "conservation": "Una semana en el cajón de verduras.",
-          "idees": "Laminado crudo en ensalada, asado o braseado.",
-          "bienfaits": "Rico en agua, fibra y potasio, con vitamina C y pocas calorías. Ligero y refrescante."
-        },
-        "zh": {
-          "nom": "茴香球茎",
-          "type": "鳞茎与茎类",
-          "gout": "带茴香味，清新",
-          "description": "爽脆的球茎，带有茴香香气，生吃熟吃都细腻。",
-          "conservation": "放入冰箱蔬果格可保存一周。",
-          "idees": "生切薄片拌沙拉、烤制或焖煮。",
-          "bienfaits": "富含水分、膳食纤维和钾，含维生素C，热量低。清淡爽口。"
-        },
-        "ar": {
-          "nom": "شمر",
-          "type": "أبصال وسيقان",
-          "gout": "بنكهة اليانسون ومنعش",
-          "description": "بصلة مقرمشة برائحة اليانسون، رقيقة نيئة أو مطبوخة.",
-          "conservation": "أسبوع في درج الخضار.",
-          "idees": "شرائح رفيعة نيئة في السلطة، أو محمّصاً، أو مطهواً ببطء.",
-          "bienfaits": "غني بالماء والألياف والبوتاسيوم، ويحتوي على فيتامين C وسعراته قليلة. خفيف ومنعش."
-        }
-      }
-    },
-    {
-      "nom": "Radis Pink Meat",
+      },
+      "idees": "En purée, en velouté, rôti au four, en chips.",
       "type": "Légumes racines",
+      "image": "/images/images.jpeg",
       "saisons": [
         10,
         11,
         12,
         1,
-        2,
-        3
+        2
       ],
+      "description": "Racine ancienne et peu connue, à la chair dense et sucrée.",
+      "bienfaits": "Riche en glucides complexes et en fibres, avec du potassium : plus énergétique que la plupart des racines.",
+      "conservation": "Une à deux semaines au frais ; elle durcit à la longue."
+    },
+    {
       "gout": "Doux, légèrement poivré, croquant",
-      "description": "Radis d'hiver à l'écorce verte et au cœur rose vif, très décoratif.",
-      "conservation": "Une à deux semaines au bac à légumes.",
-      "idees": "Émincé finement cru, en carpaccio, mariné.",
-      "bienfaits": "Riche en eau, avec de la vitamine C, des fibres et du potassium, pour très peu de calories. Croquant et rafraîchissant.",
-      "image": "",
+      "nom": "Radis Pink Meat",
       "traductions": {
         "en": {
           "nom": "Pink Meat radish",
@@ -847,11 +776,10 @@
           "idees": "شرائح رفيعة جداً نيئة، أو كارباتشو، أو مخللاً.",
           "bienfaits": "غني بالماء، ويحتوي على فيتامين C والألياف والبوتاسيوم، بسعرات قليلة جداً. مقرمش ومنعش."
         }
-      }
-    },
-    {
-      "nom": "Radis Blue Meat",
+      },
+      "idees": "Émincé finement cru, en carpaccio, mariné.",
       "type": "Légumes racines",
+      "image": "/images/ficheproduit_bluemeat_radis.jpg",
       "saisons": [
         10,
         11,
@@ -860,12 +788,13 @@
         2,
         3
       ],
+      "description": "Radis d'hiver à l'écorce verte et au cœur rose vif, très décoratif.",
+      "bienfaits": "Riche en eau, avec de la vitamine C, des fibres et du potassium, pour très peu de calories. Croquant et rafraîchissant.",
+      "conservation": "Une à deux semaines au bac à légumes."
+    },
+    {
       "gout": "Doux, légèrement piquant",
-      "description": "Radis d'hiver à la chair violet-bleuté, plus doux que le radis rond.",
-      "conservation": "Une à deux semaines au bac à légumes.",
-      "idees": "Émincé finement cru, en carpaccio, mariné.",
-      "bienfaits": "Riche en eau, en vitamine C et en fibres, avec des anthocyanes, les pigments violets. Très peu calorique.",
-      "image": "",
+      "nom": "Radis Blue Meat",
       "traductions": {
         "en": {
           "nom": "Blue Meat radish",
@@ -903,27 +832,25 @@
           "idees": "شرائح رفيعة جداً نيئة، أو كارباتشو، أو مخللاً.",
           "bienfaits": "غني بالماء وفيتامين C والألياف، مع الأنثوسيانين وهي الأصباغ البنفسجية. قليل السعرات جداً."
         }
-      }
-    },
-    {
-      "nom": "Chou rouge",
-      "type": "Choux",
+      },
+      "idees": "Émincé finement cru, en carpaccio, mariné.",
+      "type": "Légumes racines",
+      "image": "/images/blue.jpg",
       "saisons": [
-        9,
         10,
         11,
         12,
         1,
         2,
-        3,
-        4
+        3
       ],
+      "description": "Radis d'hiver à la chair violet-bleuté, plus doux que le radis rond.",
+      "bienfaits": "Riche en eau, en vitamine C et en fibres, avec des anthocyanes, les pigments violets. Très peu calorique.",
+      "conservation": "Une à deux semaines au bac à légumes."
+    },
+    {
       "gout": "Croquant, légèrement poivré",
-      "description": "Chou aux feuilles violettes, savoureux cru comme cuit.",
-      "conservation": "Une à deux semaines au frais.",
-      "idees": "Émincé finement cru, mariné, braisé.",
-      "bienfaits": "Riche en vitamines et en fibres, avec des anthocyanes, les pigments qui lui donnent sa couleur. Peu calorique et très croquant.",
-      "image": "",
+      "nom": "Chou rouge",
       "traductions": {
         "en": {
           "nom": "Red cabbage",
@@ -961,24 +888,27 @@
           "idees": "شرائح رفيعة نيئة، أو مخللاً، أو مطهواً ببطء.",
           "bienfaits": "غني بالفيتامينات والألياف، مع الأنثوسيانين وهي الأصباغ التي تعطيه لونه. قليل السعرات ومقرمش جداً."
         }
-      }
-    },
-    {
-      "nom": "Chou-fleur violet",
+      },
+      "idees": "Émincé finement cru, mariné, braisé.",
       "type": "Choux",
+      "image": "/images/pexels-daniel-dan-47825192-7543203.jpg",
       "saisons": [
+        9,
         10,
         11,
         12,
         1,
-        2
+        2,
+        3,
+        4
       ],
+      "description": "Chou aux feuilles violettes, savoureux cru comme cuit.",
+      "bienfaits": "Riche en vitamines et en fibres, avec des anthocyanes, les pigments qui lui donnent sa couleur. Peu calorique et très croquant.",
+      "conservation": "Une à deux semaines au frais."
+    },
+    {
       "gout": "Doux, noisette, légèrement sucré",
-      "description": "Chou-fleur à la belle couleur violette, plus doux que le blanc.",
-      "conservation": "Une semaine au bac à légumes, entier et non lavé.",
-      "idees": "Cru en fines lamelles, rôti, en salade ou à la vapeur courte pour garder sa couleur.",
-      "bienfaits": "Riche en vitamine C et en fibres, pour peu de calories. Sa couleur vient des anthocyanes. Une cuisson courte garde ses bienfaits.",
-      "image": "",
+      "nom": "Chou-fleur violet",
       "traductions": {
         "en": {
           "nom": "Purple cauliflower",
@@ -1016,26 +946,24 @@
           "idees": "نيئاً شرائح رقيقة، أو مشوياً، أو في السلطة، أو مطهواً على البخار قليلاً للحفاظ على لونه.",
           "bienfaits": "غني بفيتامين C والألياف مع سعرات قليلة. لونه من الأنثوسيانين. الطهي القصير يحافظ على فوائده."
         }
-      }
-    },
-    {
-      "nom": "Chou-fleur blanc",
+      },
+      "idees": "Cru en fines lamelles, rôti, en salade ou à la vapeur courte pour garder sa couleur.",
       "type": "Choux",
+      "image": "/images/pexels-vinod-palan-2149985972-30890191.jpg",
       "saisons": [
-        9,
         10,
         11,
         12,
         1,
-        2,
-        3
+        2
       ],
+      "description": "Chou-fleur à la belle couleur violette, plus doux que le blanc.",
+      "bienfaits": "Riche en vitamine C et en fibres, pour peu de calories. Sa couleur vient des anthocyanes. Une cuisson courte garde ses bienfaits.",
+      "conservation": "Une semaine au bac à légumes, entier et non lavé."
+    },
+    {
       "gout": "Doux, légèrement sucré, noisette à la cuisson",
-      "description": "Le chou-fleur classique, aux fleurettes serrées et compactes.",
-      "conservation": "Une semaine au bac à légumes, entier.",
-      "idees": "Cru en salade, en purée, en gratin, rôti ou en velouté.",
-      "bienfaits": "Riche en vitamine C et en fibres, peu calorique. Léger et facile à digérer.",
-      "image": "",
+      "nom": "Chou-fleur blanc",
       "traductions": {
         "en": {
           "nom": "White cauliflower",
@@ -1073,24 +1001,26 @@
           "idees": "نيئاً في السلطة، أو هريساً، أو بالفرن، أو مشوياً، أو شوربة.",
           "bienfaits": "غني بفيتامين C والألياف، قليل السعرات. خفيف وسهل الهضم."
         }
-      }
-    },
-    {
-      "nom": "Chou-fleur jaune",
+      },
+      "idees": "Cru en salade, en purée, en gratin, rôti ou en velouté.",
       "type": "Choux",
+      "image": "/images/pexels-alesiakozik-6631953.jpg",
       "saisons": [
+        9,
         10,
         11,
         12,
         1,
-        2
+        2,
+        3
       ],
+      "description": "Le chou-fleur classique, aux fleurettes serrées et compactes.",
+      "bienfaits": "Riche en vitamine C et en fibres, peu calorique. Léger et facile à digérer.",
+      "conservation": "Une semaine au bac à légumes, entier."
+    },
+    {
       "gout": "Doux, légèrement sucré",
-      "description": "Chou-fleur à la couleur jaune dorée, au goût tendre.",
-      "conservation": "Une semaine au bac à légumes, entier.",
-      "idees": "Cru en lamelles, rôti, à la vapeur ou en salade colorée.",
-      "bienfaits": "Riche en vitamine C et en fibres, peu calorique. Sa belle couleur dorée est naturelle.",
-      "image": "",
+      "nom": "Chou-fleur jaune",
       "traductions": {
         "en": {
           "nom": "Yellow cauliflower",
@@ -1128,25 +1058,24 @@
           "idees": "نيئاً شرائح، أو مشوياً، أو على البخار، أو في سلطة ملونة.",
           "bienfaits": "غني بفيتامين C والألياف، قليل السعرات. لونه الذهبي الجميل طبيعي."
         }
-      }
-    },
-    {
-      "nom": "Chou romanesco",
+      },
+      "idees": "Cru en lamelles, rôti, à la vapeur ou en salade colorée.",
       "type": "Choux",
+      "image": "/images/pexels-dg1streetphoto-14770745.jpg",
       "saisons": [
-        9,
         10,
         11,
         12,
         1,
         2
       ],
+      "description": "Chou-fleur à la couleur jaune dorée, au goût tendre.",
+      "bienfaits": "Riche en vitamine C et en fibres, peu calorique. Sa belle couleur dorée est naturelle.",
+      "conservation": "Une semaine au bac à légumes, entier."
+    },
+    {
       "gout": "Fin, noisette, plus délicat que le chou-fleur",
-      "description": "Chou vert aux fleurettes en spirales pointues, aussi beau que bon.",
-      "conservation": "Quelques jours au bac à légumes, entier.",
-      "idees": "Cru en fines lamelles, à la vapeur, rôti ou en salade.",
-      "bienfaits": "Riche en vitamines et en fibres, pour peu de calories. Léger et rassasiant.",
-      "image": "",
+      "nom": "Chou romanesco",
       "traductions": {
         "en": {
           "nom": "Romanesco",
@@ -1184,26 +1113,25 @@
           "idees": "نيئاً شرائح رقيقة، أو على البخار، أو مشوياً، أو في السلطة.",
           "bienfaits": "غني بالفيتامينات والألياف مع سعرات قليلة. خفيف ومُشبع."
         }
-      }
-    },
-    {
-      "nom": "Carottes de couleur",
-      "type": "Légumes racines",
+      },
+      "idees": "Cru en fines lamelles, à la vapeur, rôti ou en salade.",
+      "type": "Choux",
+      "image": "/images/pexels-nihad-35550167.jpg",
       "saisons": [
-        5,
-        6,
-        7,
-        8,
         9,
         10,
-        11
+        11,
+        12,
+        1,
+        2
       ],
+      "description": "Chou vert aux fleurettes en spirales pointues, aussi beau que bon.",
+      "bienfaits": "Riche en vitamines et en fibres, pour peu de calories. Léger et rassasiant.",
+      "conservation": "Quelques jours au bac à légumes, entier."
+    },
+    {
       "gout": "Sucré, croquant, légèrement poivré",
-      "description": "Botte de carottes violettes, jaunes, orange et blanches, avec leurs fanes.",
-      "conservation": "Quelques jours au frais, fanes retirées pour garder le croquant.",
-      "idees": "Crues en rubans, rôties entières, en jus ou en salade colorée.",
-      "bienfaits": "Riches en fibres, en eau et en glucides naturels pour un coup de fouet léger. Chaque couleur a ses bienfaits : bêta-carotène pour l'orange, anthocyanes pour le violet.",
-      "image": "",
+      "nom": "Carottes de couleur",
       "traductions": {
         "en": {
           "nom": "Rainbow carrots",
@@ -1241,23 +1169,26 @@
           "idees": "نيئاً شرائح طويلة، أو مشوياً كاملاً، أو عصيراً، أو في سلطة ملونة.",
           "bienfaits": "غنية بالألياف والماء والكربوهيدرات الطبيعية لدفعة طاقة خفيفة. لكل لون فوائده: البيتاكاروتين للبرتقالي والأنثوسيانين للبنفسجي."
         }
-      }
+      },
+      "idees": "Crues en rubans, rôties entières, en jus ou en salade colorée.",
+      "type": "Légumes racines",
+      "image": "/images/pexels-l-lum-2158594693-39052349.jpg",
+      "saisons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "description": "Botte de carottes violettes, jaunes, orange et blanches, avec leurs fanes.",
+      "bienfaits": "Riches en fibres, en eau et en glucides naturels pour un coup de fouet léger. Chaque couleur a ses bienfaits : bêta-carotène pour l'orange, anthocyanes pour le violet.",
+      "conservation": "Quelques jours au frais, fanes retirées pour garder le croquant."
     },
     {
-      "nom": "Poire Comice Oudard",
-      "type": "Fruits à pépins",
-      "saisons": [
-        10,
-        11,
-        12,
-        1
-      ],
       "gout": "Très fondant, sucré, parfumé",
-      "description": "Poire Comice du producteur Oudard, à la chair fondante et juteuse, considérée comme l'une des meilleures.",
-      "conservation": "À température ambiante jusqu'à maturité (quelques jours), puis au frais.",
-      "idees": "Croquée à pleine maturité, en quartiers dans une salade, pochée ou pressée.",
-      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de potassium et de vitamine C. Mieux vaut la manger avec sa peau, bien lavée.",
-      "image": "",
+      "nom": "Poire Comice Oudard",
       "traductions": {
         "en": {
           "nom": "Comice pear (Oudard)",
@@ -1295,26 +1226,23 @@
           "idees": "يؤكل ناضجاً، أو شرائح في السلطة، أو مسلوقاً بالسكر، أو عصيراً.",
           "bienfaits": "غني بالماء والألياف مع كربوهيدرات طبيعية لطاقة لطيفة. مصدر للبوتاسيوم وفيتامين C. الأفضل أكله بقشره بعد غسله جيداً."
         }
-      }
-    },
-    {
-      "nom": "Pomme Juliet",
+      },
+      "idees": "Croquée à pleine maturité, en quartiers dans une salade, pochée ou pressée.",
       "type": "Fruits à pépins",
+      "image": "/images/poire-oudard-ok.webp",
       "saisons": [
-        9,
         10,
         11,
         12,
-        1,
-        2,
-        3
+        1
       ],
+      "description": "Poire Comice du producteur Oudard, à la chair fondante et juteuse, considérée comme l'une des meilleures.",
+      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de potassium et de vitamine C. Mieux vaut la manger avec sa peau, bien lavée.",
+      "conservation": "À température ambiante jusqu'à maturité (quelques jours), puis au frais."
+    },
+    {
       "gout": "Croquant, juteux, sucré-acidulé",
-      "description": "Pomme française rouge et rayée, ferme et très croquante, bonne conservation.",
-      "conservation": "Plusieurs semaines au frais.",
-      "idees": "Croquée, en lamelles dans une salade, en jus.",
-      "bienfaits": "Riche en fibres et en eau, pour une énergie progressive. On garde la peau, bien lavée.",
-      "image": "",
+      "nom": "Pomme Juliet",
       "traductions": {
         "en": {
           "nom": "Juliet apple",
@@ -1352,24 +1280,26 @@
           "idees": "يؤكل طازجاً، أو شرائح في السلطة، أو عصيراً.",
           "bienfaits": "غنية بالألياف والماء لطاقة تدريجية. تُؤكل بقشرها بعد غسلها جيداً."
         }
-      }
-    },
-    {
-      "nom": "Pomme Calville blanc d'hiver",
+      },
+      "idees": "Croquée, en lamelles dans une salade, en jus.",
       "type": "Fruits à pépins",
+      "image": "/images/julie.jpeg",
       "saisons": [
+        9,
+        10,
         11,
         12,
         1,
         2,
         3
       ],
+      "description": "Pomme française rouge et rayée, ferme et très croquante, bonne conservation.",
+      "bienfaits": "Riche en fibres et en eau, pour une énergie progressive. On garde la peau, bien lavée.",
+      "conservation": "Plusieurs semaines au frais."
+    },
+    {
       "gout": "Acidulé, parfumé, légèrement sucré",
-      "description": "Ancienne variété côtelée à la peau jaune pâle, réputée pour sa richesse en vitamine C.",
-      "conservation": "Plusieurs semaines au frais, dans un endroit aéré.",
-      "idees": "Croquée, en tarte, en compote ou en fines tranches dans une salade.",
-      "bienfaits": "Réputée très riche en vitamine C, bien plus que la plupart des pommes, avec des fibres et peu de calories. Variété ancienne, appréciée pour son acidité vive.",
-      "image": "",
+      "nom": "Pomme Calville blanc d'hiver",
       "traductions": {
         "en": {
           "nom": "Calville blanc d'hiver apple",
@@ -1407,28 +1337,24 @@
           "idees": "يؤكل طازجاً، أو في فطيرة، أو كمُرَبّى، أو شرائح رقيقة في السلطة.",
           "bienfaits": "يُعرف بغناه الكبير بفيتامين C مقارنة بمعظم أنواع التفاح، مع الألياف وسعرات قليلة. صنف تراثي محبوب لحموضته المنعشة."
         }
-      }
-    },
-    {
-      "nom": "Pomme Granny",
+      },
+      "idees": "Croquée, en tarte, en compote ou en fines tranches dans une salade.",
       "type": "Fruits à pépins",
+      "image": "/images/calville-blanc-dhiver-1.jpeg",
       "saisons": [
-        10,
         11,
         12,
         1,
         2,
-        3,
-        4,
-        5,
-        6
+        3
       ],
+      "description": "Ancienne variété côtelée à la peau jaune pâle, réputée pour sa richesse en vitamine C.",
+      "bienfaits": "Réputée très riche en vitamine C, bien plus que la plupart des pommes, avec des fibres et peu de calories. Variété ancienne, appréciée pour son acidité vive.",
+      "conservation": "Plusieurs semaines au frais, dans un endroit aéré."
+    },
+    {
       "gout": "Très croquant, acidulé, vif",
-      "description": "Pomme verte à la chair ferme et acidulée, qui se garde très bien.",
-      "conservation": "Plusieurs semaines au frais.",
-      "idees": "Croquée, en julienne dans une salade, pressée en jus.",
-      "bienfaits": "Riche en fibres et en eau, moins sucrée que d'autres pommes, avec une énergie progressive. Son acidité relève salades et jus.",
-      "image": "",
+      "nom": "Pomme Granny",
       "traductions": {
         "en": {
           "nom": "Granny Smith apple",
@@ -1466,23 +1392,28 @@
           "idees": "يؤكل طازجاً، أو شرائح رفيعة في السلطة، أو عصيراً.",
           "bienfaits": "غني بالألياف والماء، أقل حلاوة من كثير من أنواع التفاح، مع طاقة تدريجية. حموضته تنعش السلطات والعصائر."
         }
-      }
-    },
-    {
-      "nom": "Clémentine de Corse",
-      "type": "Agrumes",
+      },
+      "idees": "Croquée, en julienne dans une salade, pressée en jus.",
+      "type": "Fruits à pépins",
+      "image": "/images/pexels-elchin-ahmadov-2154113621-38934166.jpg",
       "saisons": [
+        10,
         11,
         12,
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6
       ],
+      "description": "Pomme verte à la chair ferme et acidulée, qui se garde très bien.",
+      "bienfaits": "Riche en fibres et en eau, moins sucrée que d'autres pommes, avec une énergie progressive. Son acidité relève salades et jus.",
+      "conservation": "Plusieurs semaines au frais."
+    },
+    {
       "gout": "Sucré, parfumé, peu acide",
-      "description": "Clémentine de Corse IGP, souvent vendue avec sa feuille, facile à peler et sans pépins.",
-      "conservation": "Une à deux semaines au frais.",
-      "idees": "Pelée et croquée, en jus ou en segments dans une salade.",
-      "bienfaits": "Riche en vitamine C et en eau : elle hydrate et apporte des glucides naturels pour un coup d'énergie rapide.",
-      "image": "",
+      "nom": "Clémentine de Corse",
       "traductions": {
         "en": {
           "nom": "Corsican clementine",
@@ -1525,27 +1456,23 @@
           "origine": "كورسيكا، فرنسا · IGP"
         }
       },
-      "origine": "Corse, France · IGP"
-    },
-    {
-      "nom": "Poireau",
-      "type": "Bulbes et tiges",
+      "idees": "Pelée et croquée, en jus ou en segments dans une salade.",
+      "type": "Agrumes",
+      "image": "/images/pexels-fiki-35141870.jpg",
       "saisons": [
-        9,
-        10,
         11,
         12,
         1,
-        2,
-        3,
-        4
+        2
       ],
+      "description": "Clémentine de Corse IGP, souvent vendue avec sa feuille, facile à peler et sans pépins.",
+      "bienfaits": "Riche en vitamine C et en eau : elle hydrate et apporte des glucides naturels pour un coup d'énergie rapide.",
+      "conservation": "Une à deux semaines au frais.",
+      "origine": "Corse, France · IGP"
+    },
+    {
       "gout": "Doux, légèrement sucré, très tendre cuit",
-      "description": "Légume allongé au blanc tendre et au vert plus ferme, très parfumé.",
-      "conservation": "Une semaine au bac à légumes, non lavé.",
-      "idees": "Braisé, en velouté, en vinaigrette ou finement émincé cru.",
-      "bienfaits": "Riche en fibres et en eau, peu calorique. Bon pour la digestion et la récupération.",
-      "image": "",
+      "nom": "Poireau",
       "traductions": {
         "en": {
           "nom": "Leek",
@@ -1583,22 +1510,27 @@
           "idees": "مطهواً على نار هادئة، أو شوربة، أو بالخل والزيت، أو مقطعاً رقيقاً نيئاً.",
           "bienfaits": "غني بالألياف والماء، قليل السعرات. مفيد للهضم والتعافي."
         }
-      }
-    },
-    {
-      "nom": "Raisin Muscat de Moissac",
-      "type": "Raisins",
+      },
+      "idees": "Braisé, en velouté, en vinaigrette ou finement émincé cru.",
+      "type": "Bulbes et tiges",
+      "image": "/images/pexels-badun-34245181.jpg",
       "saisons": [
         9,
         10,
-        11
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
       ],
+      "description": "Légume allongé au blanc tendre et au vert plus ferme, très parfumé.",
+      "bienfaits": "Riche en fibres et en eau, peu calorique. Bon pour la digestion et la récupération.",
+      "conservation": "Une semaine au bac à légumes, non lavé."
+    },
+    {
       "gout": "Très sucré, parfumé, musqué",
-      "description": "Raisin de table de Moissac, aux grains dorés très aromatiques.",
-      "conservation": "Quelques jours au frais, en grappe, non lavé.",
-      "idees": "En jus et en smoothie.",
-      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
-      "image": "",
+      "nom": "Raisin Muscat de Moissac",
       "traductions": {
         "en": {
           "nom": "Muscat grapes from Moissac",
@@ -1636,22 +1568,22 @@
           "idees": "عصيراً وفي السموذي.",
           "bienfaits": "مصدر سريع للكربوهيدرات الطبيعية لدفعة طاقة، مثالي قبل الجهد أو بعده."
         }
-      }
+      },
+      "idees": "En jus et en smoothie.",
+      "type": "Raisins",
+      "image": "",
+      "saisons": [
+        9,
+        10,
+        11
+      ],
+      "description": "Raisin de table de Moissac, aux grains dorés très aromatiques.",
+      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
+      "conservation": "Quelques jours au frais, en grappe, non lavé."
     },
     {
-      "nom": "Raisin Suffolk Red",
-      "type": "Raisins",
-      "saisons": [
-        8,
-        9,
-        10
-      ],
       "gout": "Sucré, croquant",
-      "description": "Raisin de table rose à rouge, croquant, sans pépins.",
-      "conservation": "Quelques jours au frais, en grappe, non lavé.",
-      "idees": "En jus et en smoothie.",
-      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
-      "image": "",
+      "nom": "Raisin Suffolk Red",
       "traductions": {
         "en": {
           "nom": "Suffolk Red grapes",
@@ -1689,22 +1621,22 @@
           "idees": "عصيراً وفي السموذي.",
           "bienfaits": "مصدر سريع للكربوهيدرات الطبيعية لدفعة طاقة، مثالي قبل الجهد أو بعده."
         }
-      }
+      },
+      "idees": "En jus et en smoothie.",
+      "type": "Raisins",
+      "image": "",
+      "saisons": [
+        8,
+        9,
+        10
+      ],
+      "description": "Raisin de table rose à rouge, croquant, sans pépins.",
+      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
+      "conservation": "Quelques jours au frais, en grappe, non lavé."
     },
     {
-      "nom": "Raisin Chasselas de Moissac",
-      "type": "Raisins",
-      "saisons": [
-        9,
-        10,
-        11
-      ],
       "gout": "Sucré, fin, délicatement parfumé",
-      "description": "Raisin de table doré à la peau fine, cultivé à Moissac, très apprécié en France.",
-      "conservation": "Quelques jours au frais, en grappe, non lavé.",
-      "idees": "En jus et en smoothie.",
-      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
-      "image": "",
+      "nom": "Raisin Chasselas de Moissac",
       "traductions": {
         "en": {
           "nom": "Chasselas grapes from Moissac",
@@ -1742,31 +1674,22 @@
           "idees": "عصيراً وفي السموذي.",
           "bienfaits": "مصدر سريع للكربوهيدرات الطبيعية لدفعة طاقة، مثالي قبل الجهد أو بعده."
         }
-      }
-    },
-    {
-      "nom": "Banane française de Martinique",
-      "type": "Fruits exotiques",
+      },
+      "idees": "En jus et en smoothie.",
+      "type": "Raisins",
+      "image": "",
       "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
         9,
         10,
-        11,
-        12
+        11
       ],
+      "description": "Raisin de table doré à la peau fine, cultivé à Moissac, très apprécié en France.",
+      "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
+      "conservation": "Quelques jours au frais, en grappe, non lavé."
+    },
+    {
       "gout": "Sucré, fondant, crémeux",
-      "description": "Banane cultivée en Martinique, territoire français, à la chair douce et parfumée.",
-      "conservation": "À température ambiante, loin des autres fruits ; pas au frigo.",
-      "idees": "Croquée, en smoothie, écrasée sur une tartine ou en rondelles dans une salade.",
-      "bienfaits": "Riche en potassium et en glucides naturels : l'encas de l'athlète par excellence, avant, pendant et après l'effort.",
-      "image": "",
+      "nom": "Banane française de Martinique",
       "traductions": {
         "en": {
           "nom": "French banana from Martinique",
@@ -1804,22 +1727,31 @@
           "idees": "يؤكل طازجاً، أو في المخفوق، أو مهروساً على الخبز، أو شرائح في السلطة.",
           "bienfaits": "غنية بالبوتاسيوم والكربوهيدرات الطبيعية: وجبة الرياضي المثالية قبل الجهد وأثناءه وبعده."
         }
-      }
-    },
-    {
-      "nom": "Prune Reine-Claude",
-      "type": "Fruits à noyau",
+      },
+      "idees": "Croquée, en smoothie, écrasée sur une tartine ou en rondelles dans une salade.",
+      "type": "Fruits exotiques",
+      "image": "/images/pexels-claudia-almeida-1296652107-30543146.jpg",
       "saisons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7,
         8,
-        9
+        9,
+        10,
+        11,
+        12
       ],
+      "description": "Banane cultivée en Martinique, territoire français, à la chair douce et parfumée.",
+      "bienfaits": "Riche en potassium et en glucides naturels : l'encas de l'athlète par excellence, avant, pendant et après l'effort.",
+      "conservation": "À température ambiante, loin des autres fruits ; pas au frigo."
+    },
+    {
       "gout": "Très sucré, parfumé, fondant",
-      "description": "Prune verte-dorée très sucrée, au parfum délicat, réputée parmi les meilleures prunes.",
-      "conservation": "Quelques jours à température ambiante, puis au frais.",
-      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
-      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de vitamine C et de potassium.",
-      "image": "",
+      "nom": "Prune Reine-Claude",
       "traductions": {
         "en": {
           "nom": "Reine-Claude greengage plum",
@@ -1857,26 +1789,22 @@
           "idees": "طازجاً، أو مشوياً بالعسل، أو كمُرَبّى، أو في فطيرة.",
           "bienfaits": "غني بالماء والألياف مع كربوهيدرات طبيعية لطاقة لطيفة. مصدر لفيتامين C والبوتاسيوم."
         }
-      }
+      },
+      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
+      "type": "Fruits à noyau",
+      "image": "/images/reine.webp",
+      "saisons": [
+        7,
+        8,
+        9
+      ],
+      "description": "Prune verte-dorée très sucrée, au parfum délicat, réputée parmi les meilleures prunes.",
+      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de vitamine C et de potassium.",
+      "conservation": "Quelques jours à température ambiante, puis au frais."
     },
     {
-      "nom": "Patate douce",
-      "type": "Légumes racines",
-      "saisons": [
-        9,
-        10,
-        11,
-        12,
-        1,
-        2,
-        3
-      ],
       "gout": "Doux, fondant, légèrement sucré",
-      "description": "Tubercule à la chair orange, douce et fondante, délicieuse rôtie.",
-      "conservation": "Plusieurs semaines dans un endroit sec et frais, à l'abri de la lumière.",
-      "idees": "Rôtie au four, en purée, en frites, en velouté.",
-      "bienfaits": "Riche en glucides complexes pour une énergie durable, en bêta-carotène, en fibres et en potassium. Un féculent idéal pour les sportifs.",
-      "image": "",
+      "nom": "Patate douce",
       "traductions": {
         "en": {
           "nom": "Sweet potato",
@@ -1914,11 +1842,79 @@
           "idees": "مشوية بالفرن، أو هريساً، أو مقلية، أو في الشوربة.",
           "bienfaits": "غنية بالكربوهيدرات المعقّدة لطاقة تدوم وبالبيتاكاروتين والألياف والبوتاسيوم. نشويات مثالية للرياضيين."
         }
-      }
+      },
+      "idees": "Rôtie au four, en purée, en frites, en velouté.",
+      "type": "Légumes racines",
+      "image": "/images/pexels-jonathan-david-1312107-32146989.jpg",
+      "saisons": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "description": "Tubercule à la chair orange, douce et fondante, délicieuse rôtie.",
+      "bienfaits": "Riche en glucides complexes pour une énergie durable, en bêta-carotène, en fibres et en potassium. Un féculent idéal pour les sportifs.",
+      "conservation": "Plusieurs semaines dans un endroit sec et frais, à l'abri de la lumière."
     },
     {
+      "gout": "Croquant, juteux, équilibré entre sucré et acidulé",
       "nom": "Pomme Chanteclerc",
+      "traductions": {
+        "en": {
+          "gout": "Crunchy, juicy, balanced between sweet and tangy",
+          "nom": "Chanteclerc apple",
+          "prix": "€4.90 per kilo",
+          "idees": "Eaten fresh: in wedges, with a squeeze of lemon to stop it browning.\nIn a salad: in thin slices with fennel, walnuts or fresh cheese.\nRoasted: in wedges in the oven with a knob of butter, a drizzle of honey and cinnamon, 20 to 25 minutes at 180 °C.\nJuiced: pressed with carrot and ginger, as in our Olympic juices.",
+          "type": "Pome fruit",
+          "description": "A French apple with firm, crunchy flesh that keeps for a long time.",
+          "bienfaits": "Rich in fibre and water, for steady energy. Keep the skin on, well washed.",
+          "conservation": "Several weeks in a cool place, away from other fruit.",
+          "origine": "France"
+        },
+        "es": {
+          "gout": "Crujiente, jugosa, equilibrada entre dulce y ácida",
+          "nom": "Manzana Chanteclerc",
+          "prix": "4,90 € el kilo",
+          "idees": "Mordida: en cuñas, con un chorrito de limón para que no se oscurezca.\nEn ensalada: en láminas finas con hinojo, nueces o queso fresco.\nAsada: en cuñas al horno con una nuez de mantequilla, un chorrito de miel y canela, de 20 a 25 minutos a 180 °C.\nEn zumo: prensada con zanahoria y jengibre, como en nuestros zumos olímpicos.",
+          "type": "Frutas de pepita",
+          "description": "Manzana francesa de pulpa firme y crujiente, de larga conservación.",
+          "bienfaits": "Rica en fibra y agua, para una energía progresiva. Mejor con piel, bien lavada.",
+          "conservation": "Varias semanas en lugar fresco, lejos de otras frutas.",
+          "origine": "Francia"
+        },
+        "zh": {
+          "gout": "爽脆多汁，酸甜平衡",
+          "nom": "尚特克莱克苹果",
+          "prix": "每公斤4.90欧元",
+          "idees": "直接吃：切块，挤几滴柠檬汁防止氧化变色。\n沙拉：切薄片，配茴香、核桃或新鲜奶酪。\n烤制：切块放入烤箱，加一小块黄油、少许蜂蜜和肉桂，180 °C烤20至25分钟。\n榨汁：与胡萝卜和生姜一起榨汁，就像我们的奥运果汁。",
+          "type": "仁果类水果",
+          "description": "法国产苹果，果肉紧实爽脆，耐储存。",
+          "bienfaits": "富含膳食纤维和水分，能量释放平稳。洗净后连皮食用。",
+          "conservation": "在阴凉处可保存数周，与其他水果分开放置。",
+          "origine": "法国"
+        },
+        "ar": {
+          "gout": "مقرمش وعصيري، متوازن بين الحلو والحامض",
+          "nom": "تفاح شانتكلير",
+          "prix": "4.90 يورو للكيلو",
+          "idees": "طازجة: شرائح مع رشة ليمون لمنع اسمرارها.\nفي السلطة: شرائح رقيقة مع الشمر أو الجوز أو الجبن الطازج.\nمشوية: شرائح في الفرن مع قطعة زبدة وقليل من العسل والقرفة، من 20 إلى 25 دقيقة على 180 درجة مئوية.\nعصيراً: مع الجزر والزنجبيل، كما في عصائرنا الأولمبية.",
+          "type": "فواكه بذرية",
+          "description": "تفاح فرنسي بلبّ متماسك ومقرمش، يُحفظ طويلاً.",
+          "bienfaits": "غنية بالألياف والماء لطاقة تدريجية. تُؤكل بقشرها بعد غسلها جيداً.",
+          "conservation": "عدة أسابيع في مكان بارد، بعيداً عن الفواكه الأخرى.",
+          "origine": "فرنسا"
+        }
+      },
+      "prix": "4,90 € le kilo",
+      "variete": "Chanteclerc",
+      "categorie": "II",
+      "idees": "Croquée : en quartiers, avec un filet de citron pour éviter qu'elle brunisse.\nEn salade : en fines lamelles avec du fenouil, des noix ou du fromage frais.\nRôtie : en quartiers au four avec une noix de beurre, un filet de miel et de la cannelle, 20 à 25 minutes à 180 °C.\nEn jus : pressée avec de la carotte et du gingembre, comme dans nos jus olympiques.",
+      "calibre": "15",
       "type": "Fruits à pépins",
+      "image": "/images/chante.webp",
       "saisons": [
         10,
         11,
@@ -1929,87 +1925,14 @@
         4,
         5
       ],
-      "gout": "Croquant, juteux, équilibré entre sucré et acidulé",
       "description": "Pomme française à la chair ferme et croquante, qui se garde longtemps.",
-      "conservation": "Plusieurs semaines au frais, à l'écart des autres fruits.",
-      "idees": "Croquée : en quartiers, avec un filet de citron pour éviter qu'elle brunisse.\nEn salade : en fines lamelles avec du fenouil, des noix ou du fromage frais.\nRôtie : en quartiers au four avec une noix de beurre, un filet de miel et de la cannelle, 20 à 25 minutes à 180 °C.\nEn jus : pressée avec de la carotte et du gingembre, comme dans nos jus olympiques.",
       "bienfaits": "Riche en fibres et en eau, pour une énergie progressive. On garde la peau, bien lavée.",
-      "variete": "Chanteclerc",
-      "calibre": "15",
-      "origine": "France",
-      "prix": "4,90 € le kilo",
-      "image": "",
-      "traductions": {
-        "en": {
-          "nom": "Chanteclerc apple",
-          "type": "Pome fruit",
-          "gout": "Crunchy, juicy, balanced between sweet and tangy",
-          "description": "A French apple with firm, crunchy flesh that keeps for a long time.",
-          "conservation": "Several weeks in a cool place, away from other fruit.",
-          "idees": "Eaten fresh: in wedges, with a squeeze of lemon to stop it browning.\nIn a salad: in thin slices with fennel, walnuts or fresh cheese.\nRoasted: in wedges in the oven with a knob of butter, a drizzle of honey and cinnamon, 20 to 25 minutes at 180 °C.\nJuiced: pressed with carrot and ginger, as in our Olympic juices.",
-          "bienfaits": "Rich in fibre and water, for steady energy. Keep the skin on, well washed.",
-          "origine": "France",
-          "prix": "€4.90 per kilo"
-        },
-        "es": {
-          "nom": "Manzana Chanteclerc",
-          "type": "Frutas de pepita",
-          "gout": "Crujiente, jugosa, equilibrada entre dulce y ácida",
-          "description": "Manzana francesa de pulpa firme y crujiente, de larga conservación.",
-          "conservation": "Varias semanas en lugar fresco, lejos de otras frutas.",
-          "idees": "Mordida: en cuñas, con un chorrito de limón para que no se oscurezca.\nEn ensalada: en láminas finas con hinojo, nueces o queso fresco.\nAsada: en cuñas al horno con una nuez de mantequilla, un chorrito de miel y canela, de 20 a 25 minutos a 180 °C.\nEn zumo: prensada con zanahoria y jengibre, como en nuestros zumos olímpicos.",
-          "bienfaits": "Rica en fibra y agua, para una energía progresiva. Mejor con piel, bien lavada.",
-          "origine": "Francia",
-          "prix": "4,90 € el kilo"
-        },
-        "zh": {
-          "nom": "尚特克莱克苹果",
-          "type": "仁果类水果",
-          "gout": "爽脆多汁，酸甜平衡",
-          "description": "法国产苹果，果肉紧实爽脆，耐储存。",
-          "conservation": "在阴凉处可保存数周，与其他水果分开放置。",
-          "idees": "直接吃：切块，挤几滴柠檬汁防止氧化变色。\n沙拉：切薄片，配茴香、核桃或新鲜奶酪。\n烤制：切块放入烤箱，加一小块黄油、少许蜂蜜和肉桂，180 °C烤20至25分钟。\n榨汁：与胡萝卜和生姜一起榨汁，就像我们的奥运果汁。",
-          "bienfaits": "富含膳食纤维和水分，能量释放平稳。洗净后连皮食用。",
-          "origine": "法国",
-          "prix": "每公斤4.90欧元"
-        },
-        "ar": {
-          "nom": "تفاح شانتكلير",
-          "type": "فواكه بذرية",
-          "gout": "مقرمش وعصيري، متوازن بين الحلو والحامض",
-          "description": "تفاح فرنسي بلبّ متماسك ومقرمش، يُحفظ طويلاً.",
-          "conservation": "عدة أسابيع في مكان بارد، بعيداً عن الفواكه الأخرى.",
-          "idees": "طازجة: شرائح مع رشة ليمون لمنع اسمرارها.\nفي السلطة: شرائح رقيقة مع الشمر أو الجوز أو الجبن الطازج.\nمشوية: شرائح في الفرن مع قطعة زبدة وقليل من العسل والقرفة، من 20 إلى 25 دقيقة على 180 درجة مئوية.\nعصيراً: مع الجزر والزنجبيل، كما في عصائرنا الأولمبية.",
-          "bienfaits": "غنية بالألياف والماء لطاقة تدريجية. تُؤكل بقشرها بعد غسلها جيداً.",
-          "origine": "فرنسا",
-          "prix": "4.90 يورو للكيلو"
-        }
-      },
-      "categorie": "II"
+      "conservation": "Plusieurs semaines au frais, à l'écart des autres fruits.",
+      "origine": "France"
     },
     {
-      "nom": "Citron vert",
-      "type": "Agrumes",
-      "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
       "gout": "Acide, vif, très parfumé",
-      "description": "Petit agrume vert au jus acide et à l'écorce très aromatique.",
-      "conservation": "Une à deux semaines au bac à légumes.",
-      "idees": "Quelques gouttes dans l'eau, les jus et les salades, ou en zeste.",
-      "bienfaits": "Source de vitamine C, avec très peu de calories. Son acidité rafraîchit les boissons et permet de limiter le sucre et le sel.",
-      "image": "",
+      "nom": "Citron vert",
       "traductions": {
         "en": {
           "nom": "Lime",
@@ -2047,25 +1970,31 @@
           "idees": "بضع قطرات في الماء والعصائر والسلطات، أو قشراً مبشوراً.",
           "bienfaits": "مصدر لفيتامين C وسعراته قليلة جداً. حموضته تنعش المشروبات وتساعد على تقليل السكر والملح."
         }
-      }
-    },
-    {
-      "nom": "Coriandre",
-      "type": "Herbes aromatiques",
+      },
+      "idees": "Quelques gouttes dans l'eau, les jus et les salades, ou en zeste.",
+      "type": "Agrumes",
+      "image": "/images/pexels-messina-40239618.jpg",
       "saisons": [
+        1,
+        2,
+        3,
+        4,
         5,
         6,
         7,
         8,
         9,
-        10
+        10,
+        11,
+        12
       ],
+      "description": "Petit agrume vert au jus acide et à l'écorce très aromatique.",
+      "bienfaits": "Source de vitamine C, avec très peu de calories. Son acidité rafraîchit les boissons et permet de limiter le sucre et le sel.",
+      "conservation": "Une à deux semaines au bac à légumes."
+    },
+    {
       "gout": "Frais, citronné, très aromatique",
-      "description": "Herbe fraîche aux feuilles découpées, au parfum frais et marqué.",
-      "conservation": "Quelques jours au frais, les tiges dans un verre d'eau ou enveloppée d'un linge humide.",
-      "idees": "Ciselée sur des légumes rôtis, des salades, des soupes et du guacamole.",
-      "bienfaits": "Apporte du goût et de la fraîcheur sans calories notables, avec un peu de vitamine K. Permet de limiter le sel.",
-      "image": "",
+      "nom": "Coriandre",
       "traductions": {
         "en": {
           "nom": "Coriander",
@@ -2103,21 +2032,25 @@
           "idees": "مفرومة فوق الخضار المشوية والسلطات والشوربات والغواكامولي.",
           "bienfaits": "تضيف نكهة وانتعاشاً بلا سعرات تُذكر، مع قليل من فيتامين K. تساعد على تقليل الملح."
         }
-      }
+      },
+      "idees": "Ciselée sur des légumes rôtis, des salades, des soupes et du guacamole.",
+      "type": "Herbes aromatiques",
+      "image": "/images/pexels-verolova-38457037.jpg",
+      "saisons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "description": "Herbe fraîche aux feuilles découpées, au parfum frais et marqué.",
+      "bienfaits": "Apporte du goût et de la fraîcheur sans calories notables, avec un peu de vitamine K. Permet de limiter le sel.",
+      "conservation": "Quelques jours au frais, les tiges dans un verre d'eau ou enveloppée d'un linge humide."
     },
     {
-      "nom": "Prune Lovita",
-      "type": "Fruits à noyau",
-      "saisons": [
-        8,
-        9
-      ],
       "gout": "Sucré, juteux, légèrement acidulé",
-      "description": "Prune bleu-violet à la chair ferme et juteuse, très parfumée.",
-      "conservation": "Quelques jours à température ambiante, puis au frais.",
-      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
-      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de vitamine C et de potassium.",
-      "image": "",
+      "nom": "Prune Lovita",
       "traductions": {
         "en": {
           "nom": "Lovita plum",
@@ -2155,22 +2088,21 @@
           "idees": "يؤكل طازجاً أو مشوياً بالعسل أو كمربى أو في فطيرة.",
           "bienfaits": "غني بالماء والألياف مع كربوهيدرات طبيعية لطاقة لطيفة. مصدر لفيتامين C والبوتاسيوم."
         }
-      }
-    },
-    {
-      "nom": "Prune Sunkiss",
+      },
+      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
       "type": "Fruits à noyau",
+      "image": "/images/images-2-.jpeg",
       "saisons": [
-        7,
         8,
         9
       ],
-      "gout": "Sucré et parfumé",
-      "description": "Prune de saison au goût sucré et à la chair fondante.",
-      "conservation": "Quelques jours à température ambiante, puis au frais.",
-      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
+      "description": "Prune bleu-violet à la chair ferme et juteuse, très parfumée.",
       "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de vitamine C et de potassium.",
-      "image": "",
+      "conservation": "Quelques jours à température ambiante, puis au frais."
+    },
+    {
+      "gout": "Sucré et parfumé",
+      "nom": "Prune Sunkiss",
       "traductions": {
         "en": {
           "nom": "Sunkiss plum",
@@ -2208,23 +2140,22 @@
           "idees": "يؤكل طازجاً أو مشوياً بالعسل أو كمربى أو في فطيرة.",
           "bienfaits": "غني بالماء والألياف مع كربوهيدرات طبيعية لطاقة لطيفة. مصدر لفيتامين C والبوتاسيوم."
         }
-      }
+      },
+      "idees": "Croquée, rôtie au miel, en compote ou en tarte.",
+      "type": "Fruits à noyau",
+      "image": "/images/prune_jaune_ia_2.webp",
+      "saisons": [
+        7,
+        8,
+        9
+      ],
+      "description": "Prune de saison au goût sucré et à la chair fondante.",
+      "bienfaits": "Riche en eau et en fibres, avec des glucides naturels pour une énergie douce. Source de vitamine C et de potassium.",
+      "conservation": "Quelques jours à température ambiante, puis au frais."
     },
     {
-      "nom": "Cèpes de forêt",
-      "type": "Champignons",
-      "saisons": [
-        8,
-        9,
-        10,
-        11
-      ],
       "gout": "Boisé, noisette, très savoureux",
-      "description": "Champignon de forêt à chapeau brun et pied épais, à la chair dense et parfumée.",
-      "conservation": "Deux à trois jours au frais, dans un papier ou un torchon, jamais en sac plastique.",
-      "idees": "Poêlés avec un peu de persil et de fleur de sel, en velouté, en risotto ou crus en lamelles.",
-      "bienfaits": "Peu caloriques, riches en fibres, avec des protéines végétales, du potassium et des vitamines du groupe B.",
-      "image": "",
+      "nom": "Cèpes de forêt",
       "traductions": {
         "en": {
           "nom": "Forest porcini mushrooms",
@@ -2262,31 +2193,23 @@
           "idees": "مقلي مع قليل من البقدونس وزهرة الملح، أو في شوربة أو ريزوتو أو نيئاً شرائح رقيقة.",
           "bienfaits": "قليل السعرات وغني بالألياف، ويحتوي على بروتين نباتي وبوتاسيوم وفيتامينات ب."
         }
-      }
-    },
-    {
-      "nom": "Persil",
-      "type": "Herbes aromatiques",
+      },
+      "idees": "Poêlés avec un peu de persil et de fleur de sel, en velouté, en risotto ou crus en lamelles.",
+      "type": "Champignons",
+      "image": "/images/pexels-nadin-sh-78971847-18363394.jpg",
       "saisons": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
         8,
         9,
         10,
-        11,
-        12
+        11
       ],
+      "description": "Champignon de forêt à chapeau brun et pied épais, à la chair dense et parfumée.",
+      "bienfaits": "Peu caloriques, riches en fibres, avec des protéines végétales, du potassium et des vitamines du groupe B.",
+      "conservation": "Deux à trois jours au frais, dans un papier ou un torchon, jamais en sac plastique."
+    },
+    {
       "gout": "Frais, herbacé, légèrement poivré",
-      "description": "Herbe fraîche aux feuilles vertes, la plus utilisée de la cuisine française.",
-      "conservation": "Quelques jours au frais, les tiges dans un verre d'eau ou enveloppé d'un linge humide.",
-      "idees": "Ciselé sur des champignons poêlés, des légumes, des salades et des soupes.",
-      "bienfaits": "Riche en vitamine K et en vitamine C, avec un peu de fer. Relève les plats sans calories ajoutées.",
-      "image": "",
+      "nom": "Persil",
       "traductions": {
         "en": {
           "nom": "Parsley",
@@ -2324,23 +2247,31 @@
           "idees": "مفروم فوق الفطر المقلي والخضار والسلطات والشوربات.",
           "bienfaits": "غني بفيتامين K وفيتامين C مع قليل من الحديد. يضفي نكهة بلا سعرات إضافية."
         }
-      }
-    },
-    {
-      "nom": "Figue de Solliès",
-      "type": "Autres fruits",
+      },
+      "idees": "Ciselé sur des champignons poêlés, des légumes, des salades et des soupes.",
+      "type": "Herbes aromatiques",
+      "image": "/images/pexels-boryslav-13354859.jpg",
       "saisons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
+      "description": "Herbe fraîche aux feuilles vertes, la plus utilisée de la cuisine française.",
+      "bienfaits": "Riche en vitamine K et en vitamine C, avec un peu de fer. Relève les plats sans calories ajoutées.",
+      "conservation": "Quelques jours au frais, les tiges dans un verre d'eau ou enveloppé d'un linge humide."
+    },
+    {
       "gout": "Très sucrée, fondante, parfumée",
-      "description": "Figue violette AOP du Var, à la peau fine presque noire et à la chair rouge, juteuse et très sucrée.",
-      "conservation": "Très fragile : 2 à 3 jours au frais, à consommer rapidement.",
-      "idees": "Croquée nature, coupée en quartiers dans une salade, rôtie au miel ou avec un fromage frais.",
-      "bienfaits": "Riche en fibres et en glucides naturels pour une énergie douce. Source de potassium, de calcium et de magnésium.",
-      "image": "",
+      "nom": "Figue de Solliès",
       "traductions": {
         "en": {
           "nom": "Solliès fig",
@@ -2383,6 +2314,18 @@
           "origine": "الفار، فرنسا · AOP"
         }
       },
+      "idees": "Croquée nature, coupée en quartiers dans une salade, rôtie au miel ou avec un fromage frais.",
+      "type": "Autres fruits",
+      "image": "/images/images-3-.jpeg",
+      "saisons": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "description": "Figue violette AOP du Var, à la peau fine presque noire et à la chair rouge, juteuse et très sucrée.",
+      "bienfaits": "Riche en fibres et en glucides naturels pour une énergie douce. Source de potassium, de calcium et de magnésium.",
+      "conservation": "Très fragile : 2 à 3 jours au frais, à consommer rapidement.",
       "origine": "Var, France · AOP"
     }
   ]
