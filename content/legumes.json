@@ -105,7 +105,7 @@
       },
       "idees": "En carpaccio, en houmous, en salade avec du chèvre.",
       "type": "Légumes racines",
-      "image": "/images/pexels-planka-20517382.jpg",
+      "image": "/images/betterave.webp",
       "saisons": [
         9,
         10,
@@ -1282,7 +1282,7 @@
       },
       "idees": "Croquée, en smoothie, écrasée sur une tartine ou en rondelles dans une salade.",
       "type": "Fruits exotiques",
-      "image": "/images/pexels-claudia-almeida-1296652107-30543146.jpg",
+      "image": "/images/bananae.jpeg",
       "saisons": [
         1,
         2,
@@ -1299,7 +1299,7 @@
       ],
       "description": "Banane cultivée en Martinique, territoire français, à la chair douce et parfumée.",
       "bienfaits": "Riche en potassium et en glucides naturels : l'encas de l'athlète par excellence, avant, pendant et après l'effort.",
-      "conservation": "À température ambiante, loin des autres fruits ; pas au frigo."
+      "conservation": "À température ambiante, loin des autres fruits, pas au frigo."
     },
     {
       "gout": "Très sucré, parfumé, fondant",
