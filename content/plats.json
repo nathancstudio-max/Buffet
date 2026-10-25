@@ -418,6 +418,23 @@
       "description": "",
       "bienfaits": "Une préparation fruitée et énergisante : la banane apporte des glucides naturels, les noix de bonnes graisses, et les fruits frais de la fraîcheur.",
       "etiquette": ""
+    },
+    {
+      "nom": "Soupe prête à cuire",
+      "categorie": "Préparations olympiques salées",
+      "ingredients": "Carottes, poireaux, pommes de terre",
+      "legumes": [
+        "Carotte",
+        "Poireau"
+      ]
+    },
+    {
+      "nom": "Velouté de potimarron prêt à cuire",
+      "categorie": "Préparations olympiques salées",
+      "ingredients": "Potimarron",
+      "legumes": [
+        "Potimarron"
+      ]
     }
   ]
 }
