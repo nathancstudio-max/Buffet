@@ -426,7 +426,8 @@
       "legumes": [
         "Carotte",
         "Poireau"
-      ]
+      ],
+      "image": "/images/bocal-soupe.png"
     },
     {
       "nom": "Velouté de potimarron prêt à cuire",
@@ -434,7 +435,8 @@
       "ingredients": "Potimarron",
       "legumes": [
         "Potimarron"
-      ]
+      ],
+      "image": "/images/e2d28e49-ee3b-4c66-b4b6-779c159cde82.png"
     }
   ]
 }
