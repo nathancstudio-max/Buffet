@@ -63,62 +63,6 @@
       "conservation": "Une à deux semaines au bac à légumes, sans les fanes."
     },
     {
-      "gout": "Doux, noisette",
-      "nom": "Courge butternut",
-      "traductions": {
-        "en": {
-          "nom": "Butternut squash",
-          "type": "Squashes",
-          "gout": "Mild, nutty",
-          "description": "Squash with a tender, melting flesh, very easy to cook.",
-          "conservation": "Several months whole, in a cool, dry place.",
-          "idees": "Soup, roasted, mashed or in a savoury tart.",
-          "bienfaits": "Rich in beta-carotene, potassium and fibre. Its complex carbohydrates give lasting energy: a good ally for recovery meals."
-        },
-        "es": {
-          "nom": "Calabaza butternut",
-          "type": "Calabazas",
-          "gout": "Suave, con notas de avellana",
-          "description": "Calabaza de pulpa tierna, muy fácil de cocinar.",
-          "conservation": "Varios meses entera, en un lugar fresco y seco.",
-          "idees": "En crema, asada, en puré o en tarta salada.",
-          "bienfaits": "Rica en betacaroteno, potasio y fibra. Sus hidratos de carbono complejos aportan una energía duradera: una buena aliada de las comidas de recuperación."
-        },
-        "zh": {
-          "nom": "黄油南瓜",
-          "type": "南瓜类",
-          "gout": "清甜、带坚果香",
-          "description": "果肉软糯，非常容易烹饪。",
-          "conservation": "整个存放在阴凉干燥处可保存数月。",
-          "idees": "可做浓汤、烤制、制泥或做咸味馅饼。",
-          "bienfaits": "富含β-胡萝卜素、钾和膳食纤维。复合碳水化合物提供持久能量，是恢复餐的好帮手。"
-        },
-        "ar": {
-          "nom": "القرع الجوزي",
-          "type": "القرع",
-          "gout": "حلو، بنكهة البندق",
-          "description": "قرع بلبّ طري ناعم، سهل الطهي جداً.",
-          "conservation": "عدة أشهر وهو كامل في مكان بارد وجاف.",
-          "idees": "حساءً، أو محمّصاً، أو هريساً، أو في فطيرة مالحة.",
-          "bienfaits": "غنية بالبيتاكاروتين والبوتاسيوم والألياف. كربوهيدراتها المعقّدة تمنح طاقة تدوم، وهي رفيقة جيدة لوجبات التعافي."
-        }
-      },
-      "idees": "Velouté, rôtie, en purée ou en tarte salée.",
-      "type": "Courges",
-      "image": "/images/pexels-justus-menke-3490295-5574269.jpg",
-      "saisons": [
-        9,
-        10,
-        11,
-        12,
-        1,
-        2
-      ],
-      "description": "Courge à chair fondante, très facile à cuisiner.",
-      "bienfaits": "Riche en bêta-carotène, en potassium et en fibres. Ses glucides complexes apportent une énergie durable : un bon allié des repas de récupération.",
-      "conservation": "Plusieurs mois entière, dans un endroit frais et sec."
-    },
-    {
       "gout": "Terreux, sucré",
       "nom": "Betterave",
       "traductions": {
@@ -174,116 +118,6 @@
       "description": "Racine d'un rouge profond, vendue crue ou déjà cuite.",
       "bienfaits": "Idéale pour le sport : riche en nitrates naturels, un bon allié pour l'endurance. Riche aussi en fibres et en potassium.",
       "conservation": "Deux semaines au frais ; cuite, 4 à 5 jours."
-    },
-    {
-      "gout": "Végétal, légèrement acidulé",
-      "nom": "Épinard",
-      "traductions": {
-        "en": {
-          "nom": "Spinach",
-          "type": "Leafy vegetables",
-          "gout": "Green, slightly tangy",
-          "description": "Tender leaves, eaten young in salads or cooked.",
-          "conservation": "Two to three days in the fridge.",
-          "idees": "As baby leaves, sautéed with garlic, in a green juice.",
-          "bienfaits": "Rich in iron and vitamins. Low in calories and very nourishing."
-        },
-        "es": {
-          "nom": "Espinaca",
-          "type": "Verduras de hoja",
-          "gout": "Vegetal, ligeramente ácido",
-          "description": "Hojas tiernas, para comer jóvenes en ensalada o cocidas.",
-          "conservation": "Dos a tres días en el frigorífico.",
-          "idees": "En brotes tiernos, salteadas con ajo o en un zumo verde.",
-          "bienfaits": "Rico en hierro y vitaminas. Poco calórico y muy nutritivo."
-        },
-        "zh": {
-          "nom": "菠菜",
-          "type": "叶菜类",
-          "gout": "清新的青草味，略带微酸",
-          "description": "叶片嫩滑，嫩叶可生食做沙拉，也可烹熟食用。",
-          "conservation": "冷藏可保存两至三天。",
-          "idees": "可吃嫩叶沙拉、蒜炒，或做成绿色蔬果汁。",
-          "bienfaits": "富含铁和维生素，热量低，营养丰富。"
-        },
-        "ar": {
-          "nom": "سبانخ",
-          "type": "خضار ورقية",
-          "gout": "عشبي الطعم وحامض قليلاً",
-          "description": "أوراق طرية، تُؤكل غضّة في السلطة أو مطبوخة.",
-          "conservation": "من يومين إلى ثلاثة أيام في الثلاجة.",
-          "idees": "أوراقاً صغيرة، أو مقلية بالثوم، أو في عصير أخضر.",
-          "bienfaits": "غني بالحديد والفيتامينات. قليل السعرات ومغذٍّ جداً."
-        }
-      },
-      "idees": "En jeunes pousses, sautés à l'ail, dans un jus vert.",
-      "type": "Légumes feuilles",
-      "image": "/images/pexels-magda-ehlers-pexels-28797268.jpg",
-      "saisons": [
-        3,
-        4,
-        5,
-        9,
-        10,
-        11
-      ],
-      "description": "Feuilles tendres, à manger jeunes en salade ou cuites.",
-      "bienfaits": "Riche en fer et en vitamines. Peu calorique et très nourrissant.",
-      "conservation": "Deux à trois jours au réfrigérateur."
-    },
-    {
-      "gout": "Juteux, acidulé",
-      "nom": "Tomate",
-      "traductions": {
-        "en": {
-          "nom": "Tomato",
-          "type": "Fruiting vegetables",
-          "gout": "Juicy, tangy",
-          "description": "Best enjoyed in high summer, fully ripe.",
-          "conservation": "At room temperature, away from the fridge.",
-          "idees": "In salads, in gazpacho, stuffed.",
-          "bienfaits": "Rich in vitamin C and potassium. Very hydrating."
-        },
-        "es": {
-          "nom": "Tomate",
-          "type": "Verduras-fruto",
-          "gout": "Jugoso, ligeramente ácido",
-          "description": "Para disfrutar en pleno verano, bien maduro.",
-          "conservation": "A temperatura ambiente, lejos del frigorífico.",
-          "idees": "En ensalada, en gazpacho o relleno.",
-          "bienfaits": "Rica en vitamina C y potasio. Muy hidratante."
-        },
-        "zh": {
-          "nom": "番茄",
-          "type": "瓜果类蔬菜",
-          "gout": "多汁、微酸",
-          "description": "盛夏时节熟透了吃最美味。",
-          "conservation": "常温保存，不要放进冰箱。",
-          "idees": "可做沙拉、西班牙冷汤，或做成酿番茄。",
-          "bienfaits": "富含维生素C和钾，非常解渴补水。"
-        },
-        "ar": {
-          "nom": "طماطم",
-          "type": "خضار ثمرية",
-          "gout": "عصيري وحامض قليلاً",
-          "description": "يُستمتع به في قلب الصيف وهو ناضج تماماً.",
-          "conservation": "في درجة حرارة الغرفة بعيداً عن الثلاجة.",
-          "idees": "في السلطة، أو غازباتشو، أو محشياً.",
-          "bienfaits": "غنية بفيتامين C والبوتاسيوم. مرطّبة جداً."
-        }
-      },
-      "idees": "En salade, en gaspacho, farcie.",
-      "type": "Légumes-fruits",
-      "image": "/images/pexels-s-deniz-310264642-15634908.jpg",
-      "saisons": [
-        6,
-        7,
-        8,
-        9
-      ],
-      "description": "À savourer en plein été, bien mûre.",
-      "bienfaits": "Riche en vitamine C et en potassium. Très hydratante.",
-      "conservation": "À température ambiante, loin du frigo."
     },
     {
       "gout": "Doux, juteux, acidulé",
@@ -625,118 +459,6 @@
       "conservation": "Plusieurs semaines à l'abri de la lumière, au sec."
     },
     {
-      "gout": "Légèrement amer, croquant",
-      "nom": "Endive",
-      "traductions": {
-        "en": {
-          "nom": "Chicory (endive)",
-          "type": "Leafy vegetables",
-          "gout": "Slightly bitter, crunchy",
-          "description": "White chicory with crisp leaves, grown away from light.",
-          "conservation": "One week in a cool place, away from light to avoid bitterness.",
-          "idees": "Raw as filled boats, braised, or in a salad.",
-          "bienfaits": "Very low in calories, rich in water and fibre. Light and easy to digest."
-        },
-        "es": {
-          "nom": "Endibia",
-          "type": "Verduras de hoja",
-          "gout": "Ligeramente amarga, crujiente",
-          "description": "Endibia blanca de hojas crujientes, cultivada protegida de la luz.",
-          "conservation": "Una semana en frío, protegida de la luz para evitar el amargor.",
-          "idees": "Cruda en barquitas rellenas, braseada o en ensalada.",
-          "bienfaits": "Muy poco calórica, rica en agua y fibra. Ligera y digestiva."
-        },
-        "zh": {
-          "nom": "菊苣",
-          "type": "叶菜类",
-          "gout": "微苦，爽脆",
-          "description": "叶片脆嫩的白色菊苣，在避光环境中栽培。",
-          "conservation": "避光冷藏可保存一周，以免变苦。",
-          "idees": "生吃做成小船形配料盘、焖煮或拌沙拉。",
-          "bienfaits": "热量极低，富含水分和膳食纤维，清爽易消化。"
-        },
-        "ar": {
-          "nom": "هندباء بيضاء",
-          "type": "خضار ورقية",
-          "gout": "مرّة قليلاً ومقرمشة",
-          "description": "هندباء بيضاء بأوراق مقرمشة تُزرع بعيداً عن الضوء.",
-          "conservation": "أسبوع في مكان بارد، بعيداً عن الضوء لتجنب المرارة.",
-          "idees": "نيئة في قوارب محشوة، أو مطهوّة ببطء، أو في السلطة.",
-          "bienfaits": "قليلة السعرات جداً، غنية بالماء والألياف. خفيفة وسهلة الهضم."
-        }
-      },
-      "idees": "Crue en barquettes garnies, braisée, en salade.",
-      "type": "Légumes feuilles",
-      "image": "/images/2048.webp",
-      "saisons": [
-        10,
-        11,
-        12,
-        1,
-        2,
-        3,
-        4
-      ],
-      "description": "Chicon blanc aux feuilles croquantes, cultivé à l'abri de la lumière.",
-      "bienfaits": "Très peu calorique, riche en eau et en fibres. Légère et digeste.",
-      "conservation": "Une semaine au frais, à l'abri de la lumière pour éviter l'amertume."
-    },
-    {
-      "gout": "Farineux, entre la châtaigne et la carotte",
-      "nom": "Cerfeuil tubéreux",
-      "traductions": {
-        "en": {
-          "nom": "Turnip-rooted chervil",
-          "type": "Root vegetables",
-          "gout": "Starchy, between chestnut and carrot",
-          "description": "An old, little-known root with dense, sweet flesh.",
-          "conservation": "One to two weeks in a cool place; it hardens over time.",
-          "idees": "Mashed, in soups, roasted, or as chips.",
-          "bienfaits": "Rich in complex carbohydrates and fibre, with potassium: more energising than most root vegetables."
-        },
-        "es": {
-          "nom": "Perifollo tuberoso",
-          "type": "Raíces y tubérculos",
-          "gout": "Harinoso, entre castaña y zanahoria",
-          "description": "Raíz antigua y poco conocida, de pulpa densa y dulce.",
-          "conservation": "Una o dos semanas en frío; se endurece con el tiempo.",
-          "idees": "En puré, en crema, asado o en chips.",
-          "bienfaits": "Rico en hidratos de carbono complejos y fibra, con potasio: más energético que la mayoría de las raíces."
-        },
-        "zh": {
-          "nom": "块根细叶芹",
-          "type": "根茎类蔬菜",
-          "gout": "粉糯，介于栗子和胡萝卜之间",
-          "description": "一种古老而鲜为人知的根茎，肉质紧实香甜。",
-          "conservation": "冷藏可保存一至两周，放久会变硬。",
-          "idees": "做成泥、浓汤、烤制或做成脆片。",
-          "bienfaits": "富含复合碳水化合物和膳食纤维，含钾：比大多数根茎类更能提供能量。"
-        },
-        "ar": {
-          "nom": "كرفس الجذور الدرني (شيرفيل درني)",
-          "type": "خضار جذرية",
-          "gout": "نشوي، بين الكستناء والجزر",
-          "description": "جذر قديم قليل الشهرة، لبّه كثيف وحلو.",
-          "conservation": "من أسبوع إلى أسبوعين في مكان بارد؛ ويقسو مع الوقت.",
-          "idees": "هريساً، أو في الحساء، أو محمّصاً، أو رقائق مقرمشة.",
-          "bienfaits": "غني بالكربوهيدرات المعقّدة والألياف مع البوتاسيوم: أكثر طاقة من معظم الجذور."
-        }
-      },
-      "idees": "En purée, en velouté, rôti au four, en chips.",
-      "type": "Légumes racines",
-      "image": "/images/images.jpeg",
-      "saisons": [
-        10,
-        11,
-        12,
-        1,
-        2
-      ],
-      "description": "Racine ancienne et peu connue, à la chair dense et sucrée.",
-      "bienfaits": "Riche en glucides complexes et en fibres, avec du potassium : plus énergétique que la plupart des racines.",
-      "conservation": "Une à deux semaines au frais ; elle durcit à la longue."
-    },
-    {
       "gout": "Doux, légèrement poivré, croquant",
       "nom": "Radis Pink Meat",
       "traductions": {
@@ -849,64 +571,6 @@
       "conservation": "Une à deux semaines au bac à légumes."
     },
     {
-      "gout": "Croquant, légèrement poivré",
-      "nom": "Chou rouge",
-      "traductions": {
-        "en": {
-          "nom": "Red cabbage",
-          "type": "Cabbages",
-          "gout": "Crunchy, lightly peppery",
-          "description": "A cabbage with purple leaves, tasty raw or cooked.",
-          "conservation": "One to two weeks in a cool place.",
-          "idees": "Thinly sliced raw, pickled, or braised.",
-          "bienfaits": "Rich in vitamins and fibre, with anthocyanins, the pigments that give it its colour. Low in calories and very crunchy."
-        },
-        "es": {
-          "nom": "Col lombarda",
-          "type": "Coles",
-          "gout": "Crujiente, ligeramente picante",
-          "description": "Col de hojas moradas, sabrosa cruda o cocinada.",
-          "conservation": "Una o dos semanas en frío.",
-          "idees": "Laminada fina cruda, encurtida o braseada.",
-          "bienfaits": "Rico en vitaminas y fibra, con antocianos, los pigmentos que le dan su color. Poco calórico y muy crujiente."
-        },
-        "zh": {
-          "nom": "紫甘蓝",
-          "type": "甘蓝类",
-          "gout": "爽脆，微带辛辣",
-          "description": "紫色叶片的卷心菜，生吃熟吃都美味。",
-          "conservation": "冷藏可保存一至两周。",
-          "idees": "生切细丝、腌渍或焖煮。",
-          "bienfaits": "富含维生素和膳食纤维，含赋予其颜色的花青素。热量低，口感爽脆。"
-        },
-        "ar": {
-          "nom": "ملفوف أحمر",
-          "type": "الكرنب",
-          "gout": "مقرمش وحار قليلاً",
-          "description": "ملفوف بأوراق بنفسجية، لذيذ نيئاً أو مطبوخاً.",
-          "conservation": "من أسبوع إلى أسبوعين في مكان بارد.",
-          "idees": "شرائح رفيعة نيئة، أو مخللاً، أو مطهواً ببطء.",
-          "bienfaits": "غني بالفيتامينات والألياف، مع الأنثوسيانين وهي الأصباغ التي تعطيه لونه. قليل السعرات ومقرمش جداً."
-        }
-      },
-      "idees": "Émincé finement cru, mariné, braisé.",
-      "type": "Choux",
-      "image": "/images/pexels-daniel-dan-47825192-7543203.jpg",
-      "saisons": [
-        9,
-        10,
-        11,
-        12,
-        1,
-        2,
-        3,
-        4
-      ],
-      "description": "Chou aux feuilles violettes, savoureux cru comme cuit.",
-      "bienfaits": "Riche en vitamines et en fibres, avec des anthocyanes, les pigments qui lui donnent sa couleur. Peu calorique et très croquant.",
-      "conservation": "Une à deux semaines au frais."
-    },
-    {
       "gout": "Doux, noisette, légèrement sucré",
       "nom": "Chou-fleur violet",
       "traductions": {
@@ -960,63 +624,6 @@
       "description": "Chou-fleur à la belle couleur violette, plus doux que le blanc.",
       "bienfaits": "Riche en vitamine C et en fibres, pour peu de calories. Sa couleur vient des anthocyanes. Une cuisson courte garde ses bienfaits.",
       "conservation": "Une semaine au bac à légumes, entier et non lavé."
-    },
-    {
-      "gout": "Doux, légèrement sucré, noisette à la cuisson",
-      "nom": "Chou-fleur blanc",
-      "traductions": {
-        "en": {
-          "nom": "White cauliflower",
-          "type": "Cabbages",
-          "gout": "Mild, slightly sweet, nutty when cooked",
-          "description": "The classic cauliflower, with tight, compact florets.",
-          "conservation": "One week in the vegetable drawer, whole.",
-          "idees": "Raw in a salad, mashed, in a gratin, roasted or as a soup.",
-          "bienfaits": "Rich in vitamin C and fibre, low in calories. Light and easy to digest."
-        },
-        "es": {
-          "nom": "Coliflor blanca",
-          "type": "Coles",
-          "gout": "Suave, ligeramente dulce, a nuez al cocinarse",
-          "description": "La coliflor clásica, de ramilletes apretados y compactos.",
-          "conservation": "Una semana en el cajón de verduras, entera.",
-          "idees": "Cruda en ensalada, en puré, gratinada, asada o en crema.",
-          "bienfaits": "Rico en vitamina C y fibra, poco calórico. Ligero y fácil de digerir."
-        },
-        "zh": {
-          "nom": "白花椰菜",
-          "type": "甘蓝类",
-          "gout": "清甜温和，煮熟后带坚果香",
-          "description": "经典的白花椰菜，花球紧实。",
-          "conservation": "整颗放入冰箱蔬果格，可保存一周。",
-          "idees": "生吃做沙拉、做成泥、焗烤、烘烤或煮汤。",
-          "bienfaits": "富含维生素C和膳食纤维，热量低，清爽易消化。"
-        },
-        "ar": {
-          "nom": "قرنبيط أبيض",
-          "type": "الكرنب",
-          "gout": "لطيف وحلو قليلاً، بنكهة المكسرات عند الطهي",
-          "description": "القرنبيط الكلاسيكي بزهيراته المتراصة.",
-          "conservation": "أسبوع في درج الخضار، كاملاً.",
-          "idees": "نيئاً في السلطة، أو هريساً، أو بالفرن، أو مشوياً، أو شوربة.",
-          "bienfaits": "غني بفيتامين C والألياف، قليل السعرات. خفيف وسهل الهضم."
-        }
-      },
-      "idees": "Cru en salade, en purée, en gratin, rôti ou en velouté.",
-      "type": "Choux",
-      "image": "/images/pexels-alesiakozik-6631953.jpg",
-      "saisons": [
-        9,
-        10,
-        11,
-        12,
-        1,
-        2,
-        3
-      ],
-      "description": "Le chou-fleur classique, aux fleurettes serrées et compactes.",
-      "bienfaits": "Riche en vitamine C et en fibres, peu calorique. Léger et facile à digérer.",
-      "conservation": "Une semaine au bac à légumes, entier."
     },
     {
       "gout": "Doux, légèrement sucré",
@@ -1188,7 +795,7 @@
     },
     {
       "gout": "Très fondant, sucré, parfumé",
-      "nom": "Poire Comice Oudard",
+      "nom": "Poire Comice",
       "traductions": {
         "en": {
           "nom": "Comice pear (Oudard)",
@@ -1296,61 +903,6 @@
       "description": "Pomme française rouge et rayée, ferme et très croquante, bonne conservation.",
       "bienfaits": "Riche en fibres et en eau, pour une énergie progressive. On garde la peau, bien lavée.",
       "conservation": "Plusieurs semaines au frais."
-    },
-    {
-      "gout": "Acidulé, parfumé, légèrement sucré",
-      "nom": "Pomme Calville blanc d'hiver",
-      "traductions": {
-        "en": {
-          "nom": "Calville blanc d'hiver apple",
-          "type": "Pome fruit",
-          "gout": "Tangy, fragrant, slightly sweet",
-          "description": "An old ribbed variety with pale yellow skin, known for its richness in vitamin C.",
-          "conservation": "Several weeks in a cool, airy place.",
-          "idees": "Eaten fresh, in a tart, as compote or in thin slices in a salad.",
-          "bienfaits": "Reputed to be very rich in vitamin C, well above most apples, with fibre and few calories. An heirloom variety prized for its lively acidity."
-        },
-        "es": {
-          "nom": "Manzana Calville blanc d'hiver",
-          "type": "Frutas de pepita",
-          "gout": "Ácida, aromática, ligeramente dulce",
-          "description": "Variedad antigua acostillada de piel amarillo pálido, famosa por su riqueza en vitamina C.",
-          "conservation": "Varias semanas en un lugar fresco y ventilado.",
-          "idees": "Mordida, en tarta, en compota o en finas láminas en ensalada.",
-          "bienfaits": "Considerada muy rica en vitamina C, mucho más que la mayoría de las manzanas, con fibra y pocas calorías. Variedad antigua apreciada por su acidez viva."
-        },
-        "zh": {
-          "nom": "白冬卡维尔苹果",
-          "type": "仁果类水果",
-          "gout": "酸甜清香",
-          "description": "外形有棱的古老品种，果皮淡黄，以维生素C含量高而闻名。",
-          "conservation": "在通风阴凉处可保存数周。",
-          "idees": "直接吃、做馅饼、做果泥，或切薄片做沙拉。",
-          "bienfaits": "据称维生素C含量远高于大多数苹果，同时含膳食纤维，热量低。这是一个备受喜爱的古老品种，酸味鲜明。"
-        },
-        "ar": {
-          "nom": "تفاح كالفيل بلان ديفير",
-          "type": "فواكه بذرية",
-          "gout": "حامض عطري وحلو قليلاً",
-          "description": "صنف قديم مضلّع بقشرة صفراء شاحبة، معروف بغناه بفيتامين C.",
-          "conservation": "عدة أسابيع في مكان بارد جيد التهوية.",
-          "idees": "يؤكل طازجاً، أو في فطيرة، أو كمُرَبّى، أو شرائح رقيقة في السلطة.",
-          "bienfaits": "يُعرف بغناه الكبير بفيتامين C مقارنة بمعظم أنواع التفاح، مع الألياف وسعرات قليلة. صنف تراثي محبوب لحموضته المنعشة."
-        }
-      },
-      "idees": "Croquée, en tarte, en compote ou en fines tranches dans une salade.",
-      "type": "Fruits à pépins",
-      "image": "/images/calville-blanc-dhiver-1.jpeg",
-      "saisons": [
-        11,
-        12,
-        1,
-        2,
-        3
-      ],
-      "description": "Ancienne variété côtelée à la peau jaune pâle, réputée pour sa richesse en vitamine C.",
-      "bienfaits": "Réputée très riche en vitamine C, bien plus que la plupart des pommes, avec des fibres et peu de calories. Variété ancienne, appréciée pour son acidité vive.",
-      "conservation": "Plusieurs semaines au frais, dans un endroit aéré."
     },
     {
       "gout": "Très croquant, acidulé, vif",
@@ -1529,8 +1081,8 @@
       "conservation": "Une semaine au bac à légumes, non lavé."
     },
     {
-      "gout": "Très sucré, parfumé, musqué",
-      "nom": "Raisin Muscat de Moissac",
+      "gout": "Très sucré, juteux",
+      "nom": "Raisin Muscat",
       "traductions": {
         "en": {
           "nom": "Muscat grapes from Moissac",
@@ -1577,7 +1129,7 @@
         10,
         11
       ],
-      "description": "Raisin de table de Moissac, aux grains dorés très aromatiques.",
+      "description": "Raisin de table très aromatiques.",
       "bienfaits": "Source rapide de glucides naturels pour un coup d'énergie, idéale avant ou après l'effort.",
       "conservation": "Quelques jours au frais, en grappe, non lavé."
     },
@@ -1803,63 +1355,6 @@
       "conservation": "Quelques jours à température ambiante, puis au frais."
     },
     {
-      "gout": "Doux, fondant, légèrement sucré",
-      "nom": "Patate douce",
-      "traductions": {
-        "en": {
-          "nom": "Sweet potato",
-          "type": "Root vegetables",
-          "gout": "Sweet, soft, lightly sugary",
-          "description": "A tuber with soft, sweet orange flesh, delicious roasted.",
-          "conservation": "Several weeks in a cool, dry place away from light.",
-          "idees": "Roasted in the oven, mashed, as fries or in a soup.",
-          "bienfaits": "Rich in complex carbohydrates for lasting energy, beta-carotene, fibre and potassium. An ideal starchy food for athletes."
-        },
-        "es": {
-          "nom": "Batata",
-          "type": "Raíces y tubérculos",
-          "gout": "Dulce, tierna, ligeramente azucarada",
-          "description": "Tubérculo de pulpa naranja, dulce y tierna, deliciosa asada.",
-          "conservation": "Varias semanas en un lugar fresco y seco, protegida de la luz.",
-          "idees": "Asada al horno, en puré, en patatas fritas o en crema.",
-          "bienfaits": "Rica en hidratos de carbono complejos para una energía duradera, betacaroteno, fibra y potasio. Un almidón ideal para los deportistas."
-        },
-        "zh": {
-          "nom": "红薯",
-          "type": "根茎类蔬菜",
-          "gout": "香甜软糯，微甜",
-          "description": "橙色果肉香甜软糯的块茎，烤着吃尤其美味。",
-          "conservation": "置于阴凉干燥避光处，可保存数周。",
-          "idees": "烤箱烘烤、做泥、做薯条或煮浓汤。",
-          "bienfaits": "富含复合碳水化合物（持久能量）、β-胡萝卜素、膳食纤维和钾，是运动员理想的主食类食材。"
-        },
-        "ar": {
-          "nom": "بطاطا حلوة",
-          "type": "خضار جذرية",
-          "gout": "حلو وطري وسكري خفيف",
-          "description": "درنة بلبّ برتقالي حلو وطري، لذيذة مشوية.",
-          "conservation": "عدة أسابيع في مكان بارد وجاف بعيداً عن الضوء.",
-          "idees": "مشوية بالفرن، أو هريساً، أو مقلية، أو في الشوربة.",
-          "bienfaits": "غنية بالكربوهيدرات المعقّدة لطاقة تدوم وبالبيتاكاروتين والألياف والبوتاسيوم. نشويات مثالية للرياضيين."
-        }
-      },
-      "idees": "Rôtie au four, en purée, en frites, en velouté.",
-      "type": "Légumes racines",
-      "image": "/images/pexels-jonathan-david-1312107-32146989.jpg",
-      "saisons": [
-        9,
-        10,
-        11,
-        12,
-        1,
-        2,
-        3
-      ],
-      "description": "Tubercule à la chair orange, douce et fondante, délicieuse rôtie.",
-      "bienfaits": "Riche en glucides complexes pour une énergie durable, en bêta-carotène, en fibres et en potassium. Un féculent idéal pour les sportifs.",
-      "conservation": "Plusieurs semaines dans un endroit sec et frais, à l'abri de la lumière."
-    },
-    {
       "gout": "Croquant, juteux, équilibré entre sucré et acidulé",
       "nom": "Pomme Chanteclerc",
       "traductions": {
@@ -1991,62 +1486,6 @@
       "description": "Petit agrume vert au jus acide et à l'écorce très aromatique.",
       "bienfaits": "Source de vitamine C, avec très peu de calories. Son acidité rafraîchit les boissons et permet de limiter le sucre et le sel.",
       "conservation": "Une à deux semaines au bac à légumes."
-    },
-    {
-      "gout": "Frais, citronné, très aromatique",
-      "nom": "Coriandre",
-      "traductions": {
-        "en": {
-          "nom": "Coriander",
-          "type": "Fresh herbs",
-          "gout": "Fresh, citrusy, very aromatic",
-          "description": "A fresh herb with cut leaves and a fresh, distinctive scent.",
-          "conservation": "A few days in the fridge, stems in a glass of water or wrapped in a damp cloth.",
-          "idees": "Chopped over roasted vegetables, salads, soups and guacamole.",
-          "bienfaits": "Adds flavour and freshness with no significant calories, and a little vitamin K. Helps reduce salt."
-        },
-        "es": {
-          "nom": "Cilantro",
-          "type": "Hierbas aromáticas",
-          "gout": "Fresco, cítrico, muy aromático",
-          "description": "Hierba fresca de hojas recortadas, de aroma fresco y marcado.",
-          "conservation": "Unos días en frío, con los tallos en un vaso de agua o envuelta en un paño húmedo.",
-          "idees": "Picada sobre verduras asadas, ensaladas, sopas y guacamole.",
-          "bienfaits": "Aporta sabor y frescor sin calorías notables, con algo de vitamina K. Ayuda a reducir la sal."
-        },
-        "zh": {
-          "nom": "香菜",
-          "type": "香草",
-          "gout": "清新，带柑橘香，香气浓郁",
-          "description": "叶片裂开的新鲜香草，气味清新鲜明。",
-          "conservation": "冷藏可保存数日，茎插入水杯或用湿布包裹。",
-          "idees": "切碎撒在烤蔬菜、沙拉、汤和牛油果酱上。",
-          "bienfaits": "增添风味和清新感而热量可忽略，含少量维生素K。有助于减少盐的用量。"
-        },
-        "ar": {
-          "nom": "الكزبرة",
-          "type": "أعشاب عطرية",
-          "gout": "منعش وفيه نفحة حمضية، عطري جداً",
-          "description": "عشب طازج بأوراق مفصصة، برائحة منعشة مميزة.",
-          "conservation": "بضعة أيام في الثلاجة، مع وضع السيقان في كوب ماء أو لفّها بقطعة قماش رطبة.",
-          "idees": "مفرومة فوق الخضار المشوية والسلطات والشوربات والغواكامولي.",
-          "bienfaits": "تضيف نكهة وانتعاشاً بلا سعرات تُذكر، مع قليل من فيتامين K. تساعد على تقليل الملح."
-        }
-      },
-      "idees": "Ciselée sur des légumes rôtis, des salades, des soupes et du guacamole.",
-      "type": "Herbes aromatiques",
-      "image": "/images/pexels-verolova-38457037.jpg",
-      "saisons": [
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "description": "Herbe fraîche aux feuilles découpées, au parfum frais et marqué.",
-      "bienfaits": "Apporte du goût et de la fraîcheur sans calories notables, avec un peu de vitamine K. Permet de limiter le sel.",
-      "conservation": "Quelques jours au frais, les tiges dans un verre d'eau ou enveloppée d'un linge humide."
     },
     {
       "gout": "Sucré, juteux, légèrement acidulé",
