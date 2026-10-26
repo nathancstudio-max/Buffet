@@ -165,7 +165,7 @@
     if (hd && window.ResizeObserver) { hdObs = new ResizeObserver(setHdr); hdObs.observe(hd); }
   }
 
-  /* Contrôle segmenté « Menu du jour | Légumes du moment » : la pastille glisse d'un segment à l'autre */
+  /* Contrôle segmenté « Menu du jour | Fruits et légumes du moment » : la pastille glisse d'un segment à l'autre */
   function segmented(cur) {
     var from = segPrev == null ? cur : segPrev;
     return '<div class="seg-row"><nav class="seg" data-i="' + from + '" data-cur="' + cur + '" aria-label="' + esc(t("nav_label")) + '">' +
