@@ -427,7 +427,31 @@
         "Carotte",
         "Poireau"
       ],
-      "image": "/images/bocal-soupe.png"
+      "image": "/images/bocal-soupe.png",
+      "description": "Carottes, pommes de terre et poireaux coupés en morceaux, prêts à cuire : il suffit de les faire cuire puis de les mixer pour obtenir une soupe maison, simple et réconfortante.",
+      "bienfaits": "Une soupe complète : la carotte apporte du bêta-carotène et des fibres, la pomme de terre des glucides pour une énergie durable et du potassium, le poireau des fibres. Idéale pour un repas chaud et léger.",
+      "traductions": {
+        "en": {
+          "description": "Carrots, potatoes and leeks cut into pieces, ready to cook: just cook them, then blend for a simple, comforting homemade soup.",
+          "bienfaits": "A complete soup: carrot provides beta-carotene and fibre, potato provides carbohydrates for lasting energy and potassium, and leek provides fibre. Ideal for a warm, light meal.",
+          "ingredients": "Leeks, carrots, potatoes"
+        },
+        "es": {
+          "description": "Zanahorias, patatas y puerros cortados en trozos, listos para cocinar: solo hay que cocerlos y triturarlos para obtener una sopa casera, sencilla y reconfortante.",
+          "bienfaits": "Una sopa completa: la zanahoria aporta betacaroteno y fibra, la patata hidratos de carbono para una energía duradera y potasio, y el puerro fibra. Ideal para una comida caliente y ligera.",
+          "ingredients": "Puerros, zanahorias, patatas"
+        },
+        "zh": {
+          "bienfaits": "碗营养均衡的汤：胡萝卜提供β-胡萝卜素和膳食纤维，土豆提供持久能量的碳水化合物和钾，韭葱提供膳食纤维。适合温热清淡的餐。",
+          "description": "切块的胡萝卜、土豆和韭葱，即煮即用：煮熟后搅拌打碎，就能做出简单暖心的自制蔬菜汤。",
+          "ingredients": "韭菜、紅蘿蔔、馬鈴薯"
+        },
+        "ar": {
+          "ingredients": "جزر، بطاطس، كراث",
+          "description": "جزر وبطاطس وكراث مقطّعة إلى قطع، جاهزة للطهي: يكفي طهيها ثم هرسها في الخلاط للحصول على حساء منزلي بسيط ومريح.",
+          "bienfaits": "حساء متكامل: يمدّ الجزر الجسم بالبيتاكاروتين والألياف، والبطاطس بكربوهيدرات لطاقة تدوم وبالبوتاسيوم، والكراث بالألياف. مثالي لوجبة دافئة وخفيفة."
+        }
+      }
     },
     {
       "nom": "Velouté de potimarron prêt à cuire",
@@ -436,7 +460,31 @@
       "legumes": [
         "Potimarron"
       ],
-      "image": "/images/e2d28e49-ee3b-4c66-b4b6-779c159cde82.png"
+      "image": "/images/e2d28e49-ee3b-4c66-b4b6-779c159cde82.png",
+      "description": "Potimarron coupé en morceaux, prêt à cuire : il suffit de le faire cuire puis de le mixer pour obtenir un velouté maison, onctueux et réconfortant.",
+      "bienfaits": "Le potimarron apporte des glucides complexes pour une énergie durable, du bêta-carotène et du potassium. Idéal pour un repas de récupération, chaud et digeste.",
+      "traductions": {
+        "en": {
+          "description": "Red kuri squash cut into pieces, ready to cook: just cook it, then blend it for a smooth, comforting homemade velouté.",
+          "bienfaits": "Red kuri squash provides complex carbohydrates for lasting energy, beta-carotene and potassium. Ideal for a recovery meal, warm and easy to digest.",
+          "ingredients": "Red kuri"
+        },
+        "es": {
+          "description": "Potimarron cortado en trozos, listo para cocinar: solo hay que cocerlo y triturarlo para obtener una crema casera, suave y reconfortante",
+          "bienfaits": "El potimarron aporta hidratos de carbono complejos para una energía duradera, betacaroteno y potasio. Ideal para una comida de recuperación, caliente y digestiva.",
+          "ingredients": "Potimarron"
+        },
+        "zh": {
+          "description": "切块的红栗南瓜，即煮即用：煮熟后搅拌打碎，就能做出细腻暖心的自制浓汤。",
+          "bienfaits": "红栗南瓜提供复合碳水化合物，带来持久能量，并含有β-胡萝卜素和钾。热腾腾、易消化，非常适合运动后的恢复餐。",
+          "ingredients": "南瓜"
+        },
+        "ar": {
+          "description": "قرع بوتيمارون مقطّع إلى قطع، جاهز للطهي: يكفي طهيه ثم هرسه في الخلاط للحصول على حساء منزلي ناعم ومريح.",
+          "bienfaits": "يمدّ قرع البوتيمارون الجسم بكربوهيدرات معقّدة لطاقة تدوم، وبالبيتاكاروتين والبوتاسيوم. مثالي لوجبة التعافي، دافئ وسهل الهضم.",
+          "ingredients": "اليقطين"
+        }
+      }
     }
   ]
 }
