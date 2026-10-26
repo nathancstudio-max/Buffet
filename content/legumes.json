@@ -1777,7 +1777,7 @@
           "idees": "In soup, with carrot and leek.\nMashed, plain or with a drizzle of olive oil.\nRoasted in the oven with herbs.\nSteamed, in a warm salad.",
           "conservation": "Several weeks in a cool, dry place away from light. Not in the fridge.",
           "nom": "Potato",
-          "type": "starchy",
+          "type": "",
           "gout": "Mild, soft, lightly sweet"
         },
         "es": {
@@ -1787,7 +1787,7 @@
           "description": "Pulpa tierna o firme, de piel fina o gruesa según la variedad, muy versátil en la cocina.",
           "nom": "Patata",
           "gout": "Suave, tierna, ligeramente dulce",
-          "type": "alimento rico en almidón."
+          "type": ""
         },
         "zh": {
           "description": "果肉软嫩或紧实，果皮厚薄因品种而异，用途非常广泛。",
@@ -1795,7 +1795,7 @@
           "conservation": "置于阴凉干燥、避光处，可保存数周。不要放冰箱。",
           "idees": "做汤，搭配胡萝卜和韭葱。\n做成土豆泥，原味或淋少许橄榄油。\n加香草烤制。\n蒸熟后做温沙拉。",
           "nom": "土豆",
-          "type": "根茎类蔬菜",
+          "type": "",
           "gout": "温和、软糯、微甜"
         },
         "ar": {
@@ -1803,13 +1803,13 @@
           "conservation": "عدة أسابيع في مكان بارد وجاف بعيداً عن الضوء. وليس في الثلاجة.",
           "idees": "في الحساء مع الجزر والكراث.\nهريس، سادة أو مع رشة زيت زيتون.\nمشوية في الفرن مع الأعشاب.\nعلى البخار في سلطة دافئة.",
           "nom": "بطاطس",
-          "type": "خضار جذرية",
+          "type": "",
           "gout": "لطيفة وطرية وحلاوة خفيفة",
           "description": "لب طري أو متماسك، وقشرة رقيقة أو سميكة حسب الصنف، متعددة الاستعمالات في المطبخ."
         }
       },
       "idees": "En soupe, avec carotte et poireau.\nEn purée, nature ou avec un filet d'huile d'olive.\nRôtie au four avec des herbes.\nÀ la vapeur, en salade tiède.",
-      "type": "Féculent",
+      "type": "",
       "image": "/images/white-e1563480325829.jpg",
       "saisons": [
         1,
