@@ -17,7 +17,7 @@ window.I18N = {
   ui: {
     fr: {
       nav_menu: "Menu", nav_veg: "Légumes", change_lang: "Changer de langue",
-      seg_menu: "Menu du jour", seg_veg: "Légumes du moment", nav_label: "Navigation principale", scroll_prev: "Précédent", scroll_next: "Suivant",
+      seg_menu: "Menu du jour", seg_veg: "Fruits et légumes du moment", nav_label: "Navigation principale", scroll_prev: "Précédent", scroll_next: "Suivant",
       hero_menu_1: "Au menu", hero_menu_2: "actuellement",
       hero_veg_1: "Fiches", hero_veg_2: "légumes",
       veg_intro: "Tout savoir sur les légumes du buffet : saison, goût, conservation, idées.",
@@ -31,7 +31,7 @@ window.I18N = {
     },
     en: {
       nav_menu: "Menu", nav_veg: "Vegetables", change_lang: "Change language",
-      seg_menu: "Today's menu", seg_veg: "Vegetables of the moment", nav_label: "Main navigation", scroll_prev: "Previous", scroll_next: "Next",
+      seg_menu: "Today's menu", seg_veg: "Fruit and vegetables of the moment", nav_label: "Main navigation", scroll_prev: "Previous", scroll_next: "Next",
       hero_menu_1: "On the menu", hero_menu_2: "right now",
       hero_veg_1: "Vegetable", hero_veg_2: "guides",
       veg_intro: "Everything about the buffet's vegetables: season, taste, storage, ideas.",
@@ -45,7 +45,7 @@ window.I18N = {
     },
     es: {
       nav_menu: "Menú", nav_veg: "Verduras", change_lang: "Cambiar de idioma",
-      seg_menu: "Menú del día", seg_veg: "Verduras del momento", nav_label: "Navegación principal", scroll_prev: "Anterior", scroll_next: "Siguiente",
+      seg_menu: "Menú del día", seg_veg: "Frutas y verduras del momento", nav_label: "Navegación principal", scroll_prev: "Anterior", scroll_next: "Siguiente",
       hero_menu_1: "En el menú", hero_menu_2: "ahora mismo",
       hero_veg_1: "Fichas de", hero_veg_2: "verduras",
       veg_intro: "Todo sobre las verduras del buffet: temporada, sabor, conservación, ideas.",
@@ -59,7 +59,7 @@ window.I18N = {
     },
     zh: {
       nav_menu: "菜单", nav_veg: "蔬菜", change_lang: "切换语言",
-      seg_menu: "今日菜单", seg_veg: "当季蔬菜", nav_label: "主导航", scroll_prev: "上一个", scroll_next: "下一个",
+      seg_menu: "今日菜单", seg_veg: "当季蔬果", nav_label: "主导航", scroll_prev: "上一个", scroll_next: "下一个",
       hero_menu_1: "当前", hero_menu_2: "菜单",
       hero_veg_1: "蔬菜", hero_veg_2: "小百科",
       veg_intro: "了解自助餐中的蔬菜：时令、口味、保存方法与烹饪灵感。",
@@ -73,7 +73,7 @@ window.I18N = {
     },
     ar: {
       nav_menu: "القائمة", nav_veg: "الخضروات", change_lang: "تغيير اللغة",
-      seg_menu: "قائمة اليوم", seg_veg: "خضروات الموسم", nav_label: "التنقل الرئيسي", scroll_prev: "السابق", scroll_next: "التالي",
+      seg_menu: "قائمة اليوم", seg_veg: "فواكه وخضروات الموسم", nav_label: "التنقل الرئيسي", scroll_prev: "السابق", scroll_next: "التالي",
       hero_menu_1: "على القائمة", hero_menu_2: "حاليًا",
       hero_veg_1: "دليل", hero_veg_2: "الخضروات",
       veg_intro: "كل ما تريد معرفته عن خضروات البوفيه: الموسم والطعم والتخزين وأفكار للتحضير.",
