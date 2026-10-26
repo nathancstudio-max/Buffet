@@ -425,7 +425,8 @@
       "ingredients": "Carottes, poireaux, pommes de terre",
       "legumes": [
         "Carotte",
-        "Poireau"
+        "Poireau",
+        "Pomme de terre"
       ],
       "image": "/images/bocal-soupe.png",
       "description": "Carottes, pommes de terre et poireaux coupés en morceaux, prêts à cuire : il suffit de les faire cuire puis de les mixer pour obtenir une soupe maison, simple et réconfortante.",
